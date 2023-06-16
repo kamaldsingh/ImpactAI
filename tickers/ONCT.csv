@@ -1,0 +1,912 @@
+Environmental_QnA,Environmental_prep_remarks,Governance_QnA,Governance_prep_remarks,QnA,Social_QnA,Social_prep_remarks,dt,prep_remarks,q,ticker
+,,,,":
+operator
+thank you. [operator instructions] our first question comes from carl byrnes with northland securities. please proceed with your question.
+carl byrnes -- northland securities -- analyst
+great. thanks for the questions, and congratulations on the progress. jim, regarding the interactions with the fda for potential accelerated pathway approval for cirm plus ibrutinib for mcl, is that something that you think might be possible that we'd see this year? or would that be more of a 2022 potential event? and then, i have a follow-up as well. thanks.
+jim breitmeyer -- chief executive officer
+thank you for the question, carl. as you know, the fda is difficult to predict. but if we can complete our discussions and negotiations with them relatively quickly, we might be in a position to announce a regulatory path forward during this calendar year. time will tell, though.
+carl byrnes -- northland securities -- analyst
+great. i was thinking, assuming that the data that we expect -- or you expect to present in the second quarter is compelling, that would certainly help with those conversations, i would imagine. just, and then, a follow-up, unrelated, do you have any feel, and this is more of a question for richard, with respect to the timing of the cirm grant recognition throughout 2021 and what the total r&d spend may be for the year? thanks.
+rich vincent -- chief financial officer
+thanks, carl. as you know, we have not been historically providing and don't plan to provide any specific quarterly or annual guidance on our spend or on the grant revenue on an annual basis. i would state that with the $14 million in total sub-award proceeds, we have about five quarters left under that sub-award. we expect these studies -- the study portion to be completed relative to the grant requirements by march of 2022.
+carl byrnes -- northland securities -- analyst
+great. thanks a lot.
+operator
+thank you. our next question comes from shivendu seneroy with brookline capital markets. please proceed with your question.
+unknown speaker
+i'm shivendu on behalf of kumar raja from brookline. i really appreciate the business update. thank you. just a couple of questions.
+now given the initial results with solid cancers with cirmtuzumab, are you planning to further explore the drug for liquid hematologic malignancies? thank you.
+jim breitmeyer -- chief executive officer
+thank you for the question, shivendu. the answer is yes. and so we are -- one of the compelling things about ror1 is it's expressed on both hematological malignancies and solid tumors. diffuse large b-cell lymphoma, or dlbcl, is one cancer that we haven't started working on yet, and we are interested in it and are doing some preclinical work.
+unknown speaker
+ok, thank you. just one more general question regarding enrollment for the ongoing trials, as well as these expansion cohorts that are planned. could you just give a flavor of how that is going? given the pandemic, are there any difficulties? or it's all, like, it's all ok, it's going well?
+jim breitmeyer -- chief executive officer
+yes. so of course, like every biotech company, we were -- we wanted to make sure that our clinical programs remained robust despite the covid pandemic, and i'm happy to say that they have. in particular, enrollment of ewing sarcoma patients remained quite strong. and in fact, enrollment during the pandemic was higher than it was prior to the pandemic.
+we believe that has been driven by these strong results that we were pleased to announce, including the complete responses. mantle cell lymphoma enrollment has slowed down a bit. and it's easy to imagine that because patients with mcl are older. they have comorbid diseases, and they're exactly those patients that might be at risk of developing severe covid if they did catch it.
+and so the -- there is a certain reluctance to travel to the medical center for mcl patients. however, we have continued to enroll, and we will be announcing results on additional patients above those that we last updated you on at the ash meeting.
+unknown speaker
+great. thank you. just one last one. with regards to the exciting collaboration with karolinska institute, i was just wondering if there are any more recent updates on that front?
+jim breitmeyer -- chief executive officer
+so what i can say is that that collaboration is active. we're doing work together, exchanging information and materials. and i think, as you know, that karolinska has particular depth in the natural killer space. in fact, nk cells were discovered there.
+and they have developed very deep experience and expertise with both t cell and nk-based cellular immunotherapy. so it is active and moving along. we look forward to finding opportunities to keep you updated about our car-t program over the course of the year because we think that it's really one of the most important things that we are doing right now, and we're emphasizing accelerating that program.
+unknown speaker
+great. thank you so much for taking my questions.
+operator
+thank you. there are no further questions at this time. i'd like to turn the floor back over to management for any closing remarks.
+jim breitmeyer -- chief executive officer
+so everybody, thank you very much for joining us on our quarterly update call today. we appreciate your attention and your interest in oncternal, and we look forward to staying in touch with you over the course of this year. with that, we will sign off. thank you.
+operator
+[operator signoff]
+duration: 27 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+edwina baskin-bey -- acting chief medical officer
+carl byrnes -- northland securities -- analyst
+unknown speaker
+all earnings call transcripts",0.24559999999999998,0.9999,2021-03-11 17:00:00,"prepared remarks:
+operator
+greetings, and welcome to the oncternal therapeutics, inc. fourth-quarter 2020 financial results call. [operator instructions] as a reminder, this conference is being recorded. it is now my pleasure to introduce your host, richard vincent, chief financial officer of oncternal therapeutics.
+thank you, sir. you may begin.
+rich vincent -- chief financial officer
+thank you, victor. good afternoon, everyone, and thank you for joining us today. joining me on the call this afternoon are our president and ceo, dr. james breitmeyer; and our acting chief medical officer, dr.
+edwina baskin-bey, who has been working with us as a consultant for the past several months. we welcome all of you. today's call includes a business update and discussion of our 2020 fourth-quarter and full-year financial results, which will be followed by q&a. today's press release and a replay of today's earnings call will be available on the investor relations section of oncternal's website for at least the next 30 days.
+we filed our 10-k for the full-year 2020 earlier today. please note that certain information discussed on the call today is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events, such as our business and product development strategies and future financial and operating performance. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business.
+these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-k for the full year ended december 31, 2020. this conference call contains time-sensitive information that is accurate only as of the date of this live broadcast, march 11, 2021. we undertake no obligation to revise or update any forward-looking statements to reflect events or circumstances occurring after the date of this conference call. with that, it's my pleasure to hand the call over to our ceo, dr.
+jim breitmeyer.
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are committed to developing novel treatments for patients with cancer who have critical unmet medical needs. we are advancing a robust product pipeline with clinical and preclinical product candidates to target several such cancer indications. our development efforts focus on biological pathways implicated in cancer genesis and/or progression.
+during the fourth quarter of 2020, we further advanced the development of cirmtuzumab, our investigational, potentially first-in-class humanized monoclonal antibody that binds with high affinity to a biologically important epitope on ror1 or receptor-tyrosine kinase-like orphan receptor 1. we have been working on the ror1 target in several cancer indications for a number of years. at the end of 2020, two major acquisitions took place involving companies who were developing drugs targeting ror1 with the merck & co. acquisition of velosbio inc.
+and the boehringer ingelheim acquisition of nbe-therapeutics. the vls-101 antibody drug conjugate was initially developed at oncternal and spun out to velosbio, and it incorporates the cirmtuzumab antibody. these events certainly raised the general awareness of ror1 as an interesting cancer target. in december 2020, we provided a data update from the ongoing phase 1, 2 clinical trial of cirmtuzumab in combination with ibrutinib at the american society of hematology, or ash, 2020 virtual annual meeting.
+the data from 15 evaluable patients with relapsed or refractory mantle cell lymphoma, or mcl, showed a 47% complete response rate and 87% overall best objective response rate, or orr, which is an improvement from the 83% orr we had previously reported at asco 2020. six patients or 40% achieved a partial response, or pr, and two patients had stable disease for a total best clinical benefit rate of 100%. additionally, median progression-free survival, or pfs, had not yet been reached after a median follow-up of over 12 months, with a 95% confidence interval above 17.5 months. the combination of cirmtuzumab plus ibrutinib continues to be well tolerated with no significant adverse events above those reported for ibrutinib treatment alone.
+as a point of reference for these results, historical data published for 370 patients with relapsed/refractory mantle cell lymphoma from three clinical trials who were treated with single-agent ibrutinib showed an objective response rate of 66% and complete response rate of 20% with a median pfs of 12.8 months. i would like to highlight that this published pfs 95% confidence intervals for single-agent ibrutinib was between eight and a half and 16.5 months. and in fact, it does not overlap with the pfs confidence interval for the cirmtuzumab plus ibrutinib combination that we presented at ash 2020, which was above 17.5 months, a quite encouraging finding. based on these interim clinical results, we are in a dialogue with the u.s.
+fda, the food and drug administration, to seek guidance on a potential accelerated approval pathway for cirmtuzumab plus ibrutinib in patients with relapsed/refractory mcl, and we'll provide further updates after we have received guidance from the fda. additionally, at ash, we presented data on 56 evaluable patients with chronic lymphocytic leukemia, or cll, 49 of whom were treated with the cirmtuzumab plus ibrutinib combination. we reported an overall best objective response rate of 92%, including one patient who achieved a complete response. in addition, four patients had stable disease for a total clinical benefit rate of 100%.
+median pfs was not reached for the 19 patients with treatment-naive cll after a median follow-up of 16.5 months, while patients with relapsed/refractory cll had a median pfs of 29.5 months after a median follow-up of 17 months. we expect to provide additional data from the ongoing phase 1, 2 trial in patients treated with a combination of cirmtuzumab and ibrutinib in both mcl and cll in the second quarter of 2021. please note that the fda granted the company orphan drug designations for cirmtuzumab for treatment of mcl and for treatment of cll. separately, patient enrollment continues in the phase 1b investigator-sponsored study of cirmtuzumab plus paclitaxel in patients with her2-negative breast cancer being run at uc san diego.
+previously presented results showed an objective response rate of 57% with no new or accentuated adverse events compared to the known safety profile of paclitaxel alone. we expect additional clinical data from this trial to be available in the second quarter of 2021. we have also been making progress to accelerate oncternal's investigational ror1-targeting car-t cell therapy program. in january, we announced that the company has entered into a research and development collaboration with the karolinska institute in stockholm, sweden, designed to advance novel ror1-targeting car-t and car-nk cell therapies from the laboratory toward the clinic.
+in addition, we announced an agreement with lentigen technology to manufacture lentiviral vectors to support and accelerate oncternal's investigational ror1-targeting car-t cell therapy program. these agreements are in addition to our existing collaboration with uc san diego under a grant from the california institute for regenerative medicine, as well as a partnership with shanghai pharma. we are tremendously excited by the potential of cell therapies targeting ror1, which may allow the selective targeting of tumor cells that express ror1 while relatively sparing healthy tissues. our goal is to initiate a first-in-human study of ror1-targeting car-t cell therapy in china in the second half of 2021.
+we also advanced the development of tk216, our investigational, potentially first-in-class, targeted small-molecule inhibitor of the e26 transformation specific, or ets, family of oncoproteins. in the fourth quarter of 2020, we provided a clinical data update for the ongoing phase 1, 2 clinical trial of tk216 for patients with relapsed/refractory ewing sarcoma. the data were presented at the connective tissue oncology society meeting, ctos, which was held virtually in 2020. patients entering the trial had previously been treated with a median of three and as many as eight prior lines of systemic therapy.
+the ctos presentation included interim data for 23 evaluable patients treated at the recommended phase 2 dose as of the october 16, 2020, efficacy cutoff date. two of the 23 patients or 9% treated at the randomized phase 2 dose achieved a complete response, which included one surgical cr. both patients achieving their crs remain on treatment with no evidence of disease at over one and a half years on study and over eight months on the study. the best objective response rate was 9%.
+eight additional patients treated at the randomized recommended phase 2 dose had stable disease for a disease control rate, that is cr, partial response or sd, of 43%. the tk216 treatment was generally well tolerated with dose-limiting toxicity of manageable myelosuppression and no obvious off-target toxicity. the continuing durability of the two complete responses in these patients who had advanced and heavily pretreated relapsed/refractory ewing sarcoma is quite encouraging, along with the increased number of patients experiencing stable disease. recruitment in this phase 1, 2 ewing sarcoma expansion cohort is ongoing, and we expect to provide another update from this trial of tk216 in the second quarter of 2021.
+we are also conducting preclinical work on other ets-driven tumors and expect additional data in the second quarter of 2021. in the fourth quarter of 2020, oncternal significantly strengthened its balance sheet, raising an aggregate $109 million in gross proceeds from two underwritten offerings. this is expected to support our operations into 2023. i will now turn the call over to rich vincent, our cfo, to review our financial results.
+rich vincent -- chief financial officer
+thank you, jim. in october 2017, cirm awarded an $18.3 million grant to the researchers at the uc san diego school of medicine to advance our phase 1, 2 clinical trial evaluating cirmtuzumab in combination with ibrutinib for the treatment of patients with b-cell lymphoid malignancies, including mcl and cll. we are conducting this study in collaboration with uc san diego and expect to receive approximately $14 million in development milestones under research sub-awards throughout the award period. in conjunction with this award, our grant revenue was $1.6 million for the fourth quarter ended december 31, 2020, and $3.4 million for the full-year 2020.
+our total operating expenses for the quarter ended december 31, 2020, were $4.5 million and were $20.9 million for the full-year 2020. research and development expenses in the fourth quarter totaled $3 million, and general and administrative expenses totaled $1.5 million. for the full-year 2020, we spent $12.5 million on r&d expenses and $8.5 million on g&a expenses. net loss for the fourth quarter was $2.6 million or a loss of $0.09 per share, basic and diluted.
+for the full-year 2020, our net loss was $17.2 million or $0.85 per share, basic and diluted. as of december 31, 2020, we had $116.7 million in cash and cash equivalents, which includes the $109 million in gross proceeds raised in the fourth quarter of 2020. as jim mentioned, we believe these funds will be sufficient to support our operations into 2023. as of december 31, 2020, we had 48.8 million shares of common stock outstanding.
+now i will turn the call over to edwina.
+edwina baskin-bey -- acting chief medical officer
+thank you, rich. i've been working with oncternal as a consultant for several months, and i'm delighted to continue to support the team as chief medical officer. i would now like to highlight the upcoming milestones that we expect to reach over the next several months. we expect to present a clinical data update from our ongoing phase 1, 2 trial of cirmtuzumab plus ibrutinib for patients with mcl and cll in the second quarter of 2021.
+we also expect the clinical data update to be available from the phase 1b investigator-sponsored study of cirmtuzumab plus paclitaxel in patients with her2-negative breast cancer in the second quarter of 2021. we further expect preclinical data in additional ror1-expressing tumors in the second quarter of 2021. we target treating the first patient with our ror1 car-t cell therapy in the second half of 2021, and that's in collaboration with shanghai pharma. we expect to present a clinical data update from our ongoing phase 1, 2 trial of tk216 for patients with relapsed or refractory ewing sarcoma in the second quarter of 2021 and preclinical data in additional ets-driven tumors in the same time frame.
+now i will turn the call back to our ceo, dr. jim breitmeyer.
+jim breitmeyer -- chief executive officer
+thank you. thank you very much. so first of all, edwina, it's a delight to have you working with us as cmo. we're very happy to have you as part of the team.
+in closing, oncternal has a strong balance sheet and multiple potential catalysts in 2021, as well as a clear priority of deploying our financial and operating resources toward promising product candidates in rare and underserved cancers. we look forward to updating you during the remainder of 2020. with that, i will turn things back to victor for the q&a portion of this afternoon's call.
+",2020-Q4,ONCT
+,,,,":
+operator
+dr. jim breitmeyer you may have your mute button.
+jim breitmeyer -- chief executive officer
+thank you, melinda. thank you and thank you edwina. in closing, we have a strong balance sheet with multiple potential catalysts in the next year, and a clear priority of deploying our financial and operating resources to develop promising candidates in rare and common cancers. we look forward to updating you during the remainder of 2021.
+thank you for joining us today. with that i'll turn things back to melinda for the q&a portion of this afternoon's call.
+operator
+thank you. the floor is now open for questions. [operator instructions] and we'll go to hartaj singh with oppenheimer for our first question. please go ahead.
+unknown speaker -- oppenheimer & co. inc. -- analyst
+good afternoon, jackie and for hartaj singh. thanks for taking our questions. first, just on your ongoing hire for the [inaudible] marine officer, was the pipeline there and what kind of quality or experience are you looking for also certain personnel in ncl? i know you will have to ask, but just based on your current discussions with your kol what are some additional data sets you need to get before going to the fda and discussing the kind of mess up there and this type follow up. thanks.
+jim breitmeyer -- chief executive officer
+thanks. thank you for the questions. jackie. we're very happy with the recruiting process for a full time cmo.
+although i have to say that we could not have been luckier than to have edwina baskin-bey join us as an acting cmo she kindly did, while this search was under way. she has been a spectacular addition to the team. we do, we are getting great candidates. and we expect to be in a position to announce a full time cmo recruit with extensive oncology experience sometime in the near future.
+but as you know, of course, that sort of recruiting is only finished with the signing of the very last document. so with jackie, your question on mantle cell lymphoma is basically when do we think we'll be ready to continue our dialogue with the fda about a potential registration path and the answer to that question is now. we are continuing our dialogue with the fda, about potential accelerated approval and full approval alternatives. and if those discussions are timely, then we would hope to be able to have something to discuss with you in the second half of this year.
+unknown speaker -- oppenheimer & co. inc. -- analyst
+got it. [inaudible] greatly feel very helpful. and i also said dr. baskin-bey for updating the current status of that, actually sponsored trial and very good data at aacr indeed.
+just want to ask what are yourself bringing that trial forward yourself? and like the type of patient you want to include in a future trial. it seems like in the current investigator sponsored portion that's how included both chemotherapy treated and also chemotherapy naive patient, just any color on that aspect?
+jim breitmeyer -- chief executive officer
+sure edwina , i think i'll take this so. so your question is going forward in breast cancer and this particular study, in her2 negative patients did include patients with a median of six prior treatments. and so they were extensively, heavily pretreated. some of them had been through multiple hormonal interventions, while others had, as you said, been treated with chemotherapy.
+but in any case, extensively pretreated. and so we will be, breast cancer is one of several indications that we are taking a hard look at right now and establishing priorities based on a full assessment of market conditions, regulatory pathways, competitive landscape, science and clinical considerations. and our plan here is to have an analyst day later this year where we lay out our thoughts about breast cancer and other indications in terms of priority setting and particulars around potential clinical trials.
+unknown speaker -- oppenheimer & co. inc. -- analyst
+wonderful. we definitely look forward to that. and then last question is tk216. can you maybe give us some comps or examples that could inform your potential fast to market strategy and then for tk216 in additional indications.
+i guess from like an stage or medical need perspective which is the [inaudible] indication do you think mimic your [inaudible] again, thanks for taking the questions.
+jim breitmeyer -- chief executive officer
+sure jackie. so we think that there was an interesting analogy for a very rapid approval by the fda in a sarcoma indication and that is tazverik brought forward by epizyme and a single arm study in epithelioid sarcoma of 62 patients was sufficient to achieve accelerated approval. so we do view that as a potential best case analogy in a rare sarcoma with a substantial unmet medical need.
+unknown speaker -- oppenheimer & co. inc. -- analyst
+yes. got it.
+jim breitmeyer -- chief executive officer
+thank you.
+operator
+next we go to the line of carl byrnes with northland capital markets. please go ahead.
+carl byrnes -- northland capital markets -- analyst
+thank you. congratulations on your progress. a couple of my questions have been answered. but i was just curious if you had any comments with respect to the progression of enrollment with mantle cell lymphoma patients in this [inaudible] study concerning that was expanded for mcl.
+and then also with respect 216 enrollment was progressing very well there despite covid and i'm wondering if there's any updates that remains the cases i imagine it would be, and with respect to [inaudible] study, to that study what might be done in terms of limiting extensively heavily pretreated population and ewing sarcoma. thanks.
+jim breitmeyer -- chief executive officer
+edwina those you can respond to carl.
+edwina baskin-bey -- founder, owner, and president
+hi carl, thanks for the question. i'll start with the last one first. it's first on my mind, tk216 in terms of enrollment, we have been enrolling really quite well, thanks for realizing that to covid. and we continued to do so as a part of our phase two expansion cohort.
+and we will have an updated number for you on that expansion in asco. and as it relates to the type of patient population i believe, as you're familiar from a previous data, we have been treating heavily pretreated patients with a median lines of therapy from previous presentations of two or three medium lines and metastatic disease. and as we're starting to notice where we may be more advantageous we may be able to delineate that to further and investigate more. but i would say just stay tuned for our asco presentation.
+now the first question i believe it has to do with mcl carl i think you're going to have to repeat it for me.
+carl byrnes -- northland capital markets -- analyst
+yes. no worries. thank you. that was very helpful.
+just with respect to enrollment with mcl patients, if i recall correctly, from the initial structure this sort of trial, it was expanded to include more mcl patients given the ror1 cr response. thanks.
+edwina baskin-bey -- founder, owner, and president
+that is correct and we continue to do so. as you're aware, cll is close to enrollment and we're following up those patients long term and will continue to show that data at each update. and mtc again, phase two expansion is enrolling really quite well. and you'll see an update in the numbers at asco.
+carl byrnes -- northland capital markets -- analyst
+great, thanks. and again, congratulations on the progress.
+jim breitmeyer -- chief executive officer
+thank you, carl.
+edwina baskin-bey -- founder, owner, and president
+thank you.
+rich vincent -- chief financial officer
+thank you.
+operator
+next we go to the line of robert burns with h.c. wainwright. please go ahead.
+rob burns -- h.c. wainwright -- analyst
+hi, guys, thanks for taking my questions and congrats on the quarter. three from me, if i may. so the first one being around the potential in solid tumors pursuant to that plus a chemo agent. so jim, you said earlier, we're supposed to or that we will get a sort of, we'll get some color around your sort of strategy in that arena later this year at the analyst day.
+i was just curious if you could provide any color around when you think you might initiate a phase one-half trial in solid tumors whether that could be late 2021 or early 2022. and i'll stop there. and i'll ask my questions after the response.
+jim breitmeyer -- chief executive officer
+yes. that's fine rob. happy to have you go one question at a time. and thank you for the questions.
+so we are potentially interested in initiating additional clinical trials in solid tumors and at this point, with everything else that's going on and as we've been really accelerating our cart program i think that it could be late this year or early next year that we initiate additional studies. we haven't started actively opening studies at this point. and as you know, it can easily take more than six months to get something opened.
+rob burns -- h.c. wainwright -- analyst
+no, absolutely. thanks for the color. my second question. so i know we're supposed to see some incremental data at asco for both cirmtuzumab plus ibrutinib as well as the tk216.
+can you provide any sort of granularity into what we can expect from the increase in patient numbers there?
+jim breitmeyer -- chief executive officer
+so that's embargoed, of course. but i think in for both mcl and ewing sarcoma there are i think you'll find substantial numbers of new patients that will be reported at asco compared to previous disclosures.
+rob burns -- h.c. wainwright -- analyst
+ok, not a problem. my last question is regarding your discussions with the fda. i'm just sort of curious you believe that you can potentially modify the phase two to make a registrational or whether you'll have to run a separate phase two trial? and what sort of proposals have you put forth to the fda with regard to trial design?
+jim breitmeyer -- chief executive officer
+sure, rob. so i think that it's unlikely at this time that we would continue the existing study and a new study with registration potential is more likely for a number of reasons that i think you would agree with when we get to that point and so we have discussed single arm and randomized studies with the fda and various control groups and so it's really, it's been really good dialogue with fda. we've got really helpful feedback from them. and so we're continuing to discuss study design right now.
+and i'd say that it's most likely that you would see a new randomized study as the most likely design.
+rob burns -- h.c. wainwright -- analyst
+awesome. thanks, guys. and congrats on the quarter again.
+jim breitmeyer -- chief executive officer
+all right.
+operator
+and we take our last question from kumar raja with brookline capital markets. please go ahead.
+kumar raja -- brookline capital markets -- analyst
+congratulations and thanks for taking my questions. with regard to the solid cancer data, preclinical data, can you provide insight with regard to like, what indications this will be and what combinations this will be and also in terms of the synergistic effects that are seen in ovarian cancer, how do you think that will be replicated in human trials? do you think they need to be sequenced or they can be dosed at the same time. just trying to get your thoughts on how that will be implemented?
+jim breitmeyer -- chief executive officer
+thank you for the questions kumar. so we are in process for this ranking exercise in solid tumors. what i can tell you, i'll tell you some examples that we're considering and these are, they're not a finalist yet but they're in the running. so ovarian cancer combined with potentially taxol or platinum is a possibility.
+lung cancer, combined with oc ibrutinib is a possibility. breast cancer combined with paclitaxel remain something that we're quite interested in and so i think those are examples where ror1 expression is high in the tumor. ror1 activity has been demonstrated and cirmtuzumab activity is has been demonstrated in preclinical models. and so there that makes them all interesting to us.
+kumar raja -- brookline capital markets -- analyst
+and with regard to ror1 party program, how are things going on in china, like how they opened up, what's the covid-19 status there and you know, given that you are planning first off '22 what needs to be done before that can start?
+jim breitmeyer -- chief executive officer
+thank you kumar. so we really made substantial progress inside and outside china. and so our friends and colleagues at shanghai pharma have been doing some significant preclinical work. they have a dedicated biologicals group that is responsible for the cart program.
+you may have noticed an endpoint news article that came out earlier this year, shanghai pharma announced a $2 billion u.s. commitment to build out a 3 million square foot biotech park in shanghai province and interestingly in this endpoint article the programs that the spokesperson from shanghai mentioned would be going into this biotech park where the ror1 cart and cirmtuzumab. and so there's substantial work and investment going on with shanghai. we're happy with their progress.
+we're also happy with our own internal progress including the karolinska and lentigine collaborations and were happy with progress made at uc san diego and their work with construct design and thinking about they would love to be the first clinical trial site in the united states. so really all of the different aspects of the cart program are progressing nicely.
+kumar raja -- brookline capital markets -- analyst
+got. and maybe finally, in terms of antibody supply, can you provide an update, like where we are, how much supply you have and will that be sufficient for all ongoing trials and client trials? thank you.
+jim breitmeyer -- chief executive officer
+thank you for all of your questions, kumar. and so antibody supply is good. we have recently produced another batch successfully with the highest titer and yield and the best purity that we've ever had and so with that batch, we have a very ample supply of antibody for at least two years and potentially more than that and i'll say that we're very happy with our collaboration with wuxi biologics, who is our antibody manufacturer. they have been a very good strategic partner.
+and with that operator, i think that may be the last question.
+operator
+that was the last question. so we'll turn to dr. breitmeyer for closing remarks.
+jim breitmeyer -- chief executive officer
+so thank you everybody for your time and attention. thank you for all the questioners, for interesting and insightful questions on our program. we look forward to updating you again with our second quarter results in the future and appreciate your attention to oncternal in our mission to help patients with some of the worst cancers. and with that, goodbye for today.
+operator
+[operator signoff]
+duration: 35 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+edwina baskin-bey -- founder, owner, and president
+unknown speaker -- oppenheimer & co. inc. -- analyst
+carl byrnes -- northland capital markets -- analyst
+rob burns -- h.c. wainwright -- analyst
+kumar raja -- brookline capital markets -- analyst
+more onct analysis
+all earnings call transcripts",1.0,,2021-05-06 17:00:00,"prepared remarks:
+operator
+good day ladies and gentlemen and welcome to oncternal's therapeutics inc. first-quarter 2021 financial results call. [operator instructions] at this time it is my pleasure to turn the floor over to your host richard vincent. sir the floor is yours.
+rich vincent -- chief financial officer
+thank you, melinda. good afternoon, everyone, and thank you for joining us today. joining me on the call this afternoon are our president and ceo, dr. james breitmeyer; and our acting cmo, dr.
+edwina baskin-bey. we welcome all of you. today's call includes a business update and discussion of our 2021 first-quarter financial results which will be followed by q&a. today's press release and replay of today's earnings call will be available on the investor relations section of oncternal's website for at least the next 30 days.
+we also filed our 10-q for the first quarter 2021 earlier today. please note that certain information discussed on the call today is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events such as our business and product development strategies and future financial and operating performance. our actual results could differ materially from those stated or implied by these forward-looking statements to the risks and uncertainties associated with our business.
+these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-q for quarter ended march 31, 2021. this conference call contains time-sensitive information that is accurate only as of the date of this live broadcast, may 06, 2021. we undertake no obligation to revise or update any forward-looking statements to reflect events or circumstances occurring after the date of this conference call. with that, it's my pleasure to hand the call over to our ceo, dr.
+jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are committed to developing novel treatments for patients with cancer who have critical unmet medical needs. we are advancing a robust product pipeline with clinical and preclinical product candidates that target several such cancer indications. our development efforts focus on biological pathways implicated in cancer genesis and/or progression.
+we are particularly pleased with progress made during the first quarter of 2021 to advance the development of some cirmtuzumab our investigational potentially first in class humanized monoclonal antibody that binds with high affinity to a biologically important epitopes on ror1 also known as receptor-tyrosine kinase-like orphan receptor 1. encouraging updated interim clinical trial results with cirmtuzumab plus paclitaxel in patients with advanced her2 negative breast cancer were presented at the american association for cancer research or aacr annual meeting. cirmtuzumab also demonstrated single agent activity and enhanced the anti-proliferative effect of commonly used chemo therapies in preclinical studies of ovarian cancer, including platinum resistant cells in another presentation at aacr. our clinical trial of cirmtuzumab plus ibrutinib in patients with mantle cell lymphoma or mcl or chronic lymphocytic leukemia, or cll continues to progress and was selected for presentation at the american society for clinical oncology or asco 2021 annual meeting.
+and we will provide additional details on each of these. ror1 has become an increasingly visible target in the oncology space recently and we believe we have one of the most advanced and diverse pipelines targeting ror1. one reason for this attention was two major acquisitions in late 2020. the boehringer ingelheim acquisition of nbe-therapeuticsand it's nbe 002 ror1 targeting antibody drug conjugate or adc and the merkin company acquisition of bios inc.
+and vls-101 its ror1 targeting adc. vls-101 utilizes cirmtuzumab to target ror1 and was invented and had its initial development at oncternal until we spun out velosbio. separately, we are continuing to support two investigator sponsored clinical studies at uc san diego. first a phase 1b clinical trial of cirmtuzumab in combination with paclitaxel for the treatment of women with her2 negative metastatic or locally advanced unresectable breast cancer and second, a phase two clinical trial of cirmtuzumab in combination with venetoclax, a bcl-2 inhibitor in patients with relapsed refractory cll.
+we also continue to make solid progress on oncternal's investigational ror1 targeting cart cell therapy program. in january, we announced a research and development collaboration with the karolinska institute in stockholm, sweden to advance novel ror1 targeting cart and car-nk cell therapies from the laboratory into the clinic. in addition, we announced an agreement with lentigen technology to manufacture clinical grade lentiviral vectors to support and accelerate oncternal's investigational ror1 targeting cart cell therapy program. these agreements are in addition to our existing collaboration with uc san diego, under a grant from the california institute of regenerative medicine and a partnership with shanghai pharma.
+we are tremendously excited by the potential of cell therapies targeting ror1, which may allow the selective targeting of tumor cells that express ror1, while relatively sparing healthy tissues. we also advanced the development of tk216. our investigational targeted small molecule inhibitor of the e26 transformation specific or ets family of oncoproteins. we were pleased to learn that our updated clinical data from this study was accepted for an oral presentation at the asco 2021 meeting.
+with that, i will now turn the call over to richard vincent, our cfo to review our financial results.
+rich vincent -- chief financial officer
+thank you, jim. in october 2017, cern awarded an $18.3 million grant to the researchers at the uc san diego school of medicine to advance ror phase ½ clinical trial evaluating cirmtuzumab in combination with ibrutinib for the treatment of patients with b-cell lymphoid malignancies, including mcl and cll. we are conducting this study in collaboration with uc san diego and expect to receive approximately 14 million and development milestones under research sub awards throughout the award period. in conjunction with this award, our grant revenue was 0.7 million for the first quarter ended march 31, 2021.
+our total operating expenses for the quarter ended march 31, 2021 were 6.7 million. research & development expenses for the quarter totaled $3.9 million and general and administrative expenses totaled $2.8 million. net loss for the first quarter was $5.9 million for a loss of $0.12 per share basic and diluted. as of march 31, 2021 we have $111.2 million in cash and cash equivalents.
+we believe these funds will be special to support our operations into 2023. as of march 31, we have 49.4 million shares of common stock outstanding. now, i will turn the call over to dr. edwina baskin-bey.
+edwina baskin-bey -- founder, owner, and president
+thank you rich. i would now like to highlight data presented at the aacr 2021 annual meeting and the upcoming milestones that we expect to reach over the next several months. so as jim mentioned we continue to support a phase 1b clinical trial in combination with paclitaxel for the treatment of women with her2 negative metastatic or locally advanced unresectable breast cancer. under aacr the uc san diego investigators presented results showing an objective response rate of 57% with an encouraging toxicity profile.
+these results were consistent with the previously reported interim results of the study and compared quite favorably to historical results for single agent paclitaxel, in particular for patients, such as those who had received a median of six prior therapies for metastatic disease. the trial is expected to be completed soon with one additional evaluable patients to be enrolled for a total of 15 evaluable patients. also at aacr this year we present the data from a preclinical study investigating cirmtuzumab in combination with chemotherapeutic agents, cisplatin and paclitaxel used to treat high grade serous ovarian cancer and endometrial cell lines in vitro. cirmtuzumab demonstrated single agent activity and enhanced the anti-proliferative effect of chemotherapeutic agents in both ovarian and endometrial cancer cell models including those that were platinum resistant in ovarian cancer.
+we expect further preclinical data in additional ror1 expressing tumors to be available in the second half of this year, 2021. a clinical data update from our ongoing phase one-half trial of cirmtuzumab plus ibrutinib for patients with mantle cell lymphoma was selected to be presented at the asco meeting on june 7 of this year, 2021. also a clinical data from our ongoing phase one-half trial of tk216 for patients with relapsed or refractory even sarcoma was selected for an oral presentation at the asco meeting and this will be presented on june 4, 2021 at 11:30 in the morning, eastern standard time. we also expect further preclinical data in additional ets driven tumors to be available in the second half of this year, 2021.
+we are currently targeting to treat the first patient with our ror1 cart cell therapy in the first half of 2022 next year. i will now turn the call back to our ceo, dr. jim breitmeyer.
+",2021-Q1,ONCT
+0.9763,1.0,,,":
+operator
+thank you. [operator instructions] our first questions come from the line of hartaj singh with oppenheimer. please proceed with your questions.
+hartaj singh -- oppenheimer & co. inc. -- analyst
+great. thank you, and thanks for the presentations, gentlemen. jim, a couple of questions. one is, you sort of talked about earlier or about the potential registrational trial for cirmtuzumab and ibrutinib in mcl.
+could you talk a little bit more about what the comp tours of that could look like, whether it would be in a proper phase 3 drug trial, phase 2 number of patients? how large could it be? i know you might not have the full information now, but if you can just sort of give us an idea. and then, in your car -- your ror1 car-t program, can you talk a little bit about how do you expect to undertake the manufacturing of that for your patients as you dose them? will it be sort of localized manufacturing at the various facilities where you're giving the car-t? will it be more centralized manufacturing? and then, i got a quick follow-up. thank you. 
+jim breitmeyer -- chief executive officer
+thank you for your questions, hartaj. so your first question regards a potential pivotal trial that we are actively discussing with the fda. and as i said, we are hopeful that we may reach agreement on a study design during this calendar year. so certain elements are still being discussed.
+but with both based on fda feedback and discussions with kols and considering commercial considerations, we do believe that a randomized trial of cirmtuzumab plus ibrutinib versus ibrutinib is by far the most robust and best way to go forward toward approval. we have -- we are also carefully examining the ibrutinib response into -- for patients with mcl. and we believe that there is unmet medical need there where we could have a population of mcl patients that is more likely to progress on ibrutinib, without, we think, having a dramatic reduction in the patient population for eventual commercial rollout. and then, i'd say that we're still -- the statistics are still being discussed with fda.
+but for -- as you can imagine, for a randomized trial, it would probably be in the range of several hundred patients, let's say, low single-digit hundreds of patients, while we work out the particulars. so as far as car-t manufacturing is concerned, we have -- as i mentioned, we're working with miltenyi, and they are developing a very interesting technology that would permit local and regional processing of the cells. and we are looking at, for example, the miltenyi prodigy system, which is a closed bench-top system where many of the steps to process the t-cells from the patient can be done in a fairly common gmp facility, not requiring brick-and-mortar. so that is -- that's a leading example of what we're considering on the manufacturing side, so that we can do the processing near where the patient will be located. 
+hartaj singh -- oppenheimer & co. inc. -- analyst
+great, great. thank you, jim. and then just a quick question on the preclinical data that you're going to present in the fourth quarter of additional ror1-expressing tumors. is that in the solid tumor domain, liquid tumor domain? or does -- and will you be looking combo or monotherapy there? and thank you for the questions.
+jim breitmeyer -- chief executive officer
+certainly, hartaj. so what we -- with our -- with pablo urbanejaas joining of the company and his strength in strategic planning, we are doing an extensive review of a number of indications where literature or existing preclinical data suggest that ror1 inhibition could be clinically meaningful. and it is including both solid and liquid tumors, and it's including both monotherapy and combination therapies. and so with that, we're going to put each of those indications through the ringer pressure test and determine what makes the most sense to proceed with for our upcoming clinical indication or indications. 
+hartaj singh -- oppenheimer & co. inc. -- analyst
+great, great. thank you, jim. i'll get back in the queue. 
+jim breitmeyer -- chief executive officer
+thank you, hartaj. 
+operator
+thank you. our next questions come from the line of robert burns with h.c. wainwright. please proceed with your questions.
+robert burns -- h.c. wainwright & co. -- analyst
+hey, guys, thanks for taking my questions, and congrats on the quarter. just two for me, if i may. first, you have framed expectations with regard to the update we're expected to see in 4q for cirmtuzumab plus ibrutinib in mcl. in particular, what the duration of follow-up will look like there? and any incremental data we may see? and then, my second question is, considering the data we've seen within the phase 1 breast cancer study and now that it's fully enrolled, can you discuss your current thoughts around next steps within breast cancer? or if you're planning on pivoting to a different indication within the solid tumor space? thank you.
+jim breitmeyer -- chief executive officer
+thanks for the question, rob. i'll answer the second one first and then turn over to salim for the first one. so breast cancer is going to be one of -- probably at this point, first among several indications that we're looking at in this strategic planning process. and so we are -- we really like the breast cancer results, and they're very encouraging, apparently, double the objective responses compared to paclitaxel alone with a good safety profile.
+so that is -- that's certainly something that we'll think hard about building on. so let me turn it over to salim as far as how much follow-up and what we may be presenting in our next interim update. 
+salim yazji -- chief medical officer
+yes. thank you, jim. actually, i mean, what's gonna happen is we most likely gonna present the data at the next scientific conference. and as you know, we only can present the evaluable patients.
+they have to have at least one evaluation after two months of treatment. so we would expect probably a handful of patients, additional patients to be presented at the end of the quarter. as you know now, we only have 18 evaluable patients for mcl and 34 evaluable patients for cll. so for cll, we're not gonna have any more patients, but we will have 18 evaluable operations, more than 18 evaluable patients by the end of the quarter. 
+robert burns -- h.c. wainwright & co. -- analyst
+awesome. thanks for the color there, guys.
+jim breitmeyer -- chief executive officer
+sure. thank you, rob. 
+operator
+thank you. our next questions come from the line of carl byrnes with northland securities. please proceed with your questions.
+carl byrnes -- northland securities -- analyst
+great, thank you, and congratulations on all the progress. obviously, a number of conferences toward the end of the year, ash in december, the san antonio breast cancer symposium also, i believe, in early december and then the ctos symposium in november. would you anticipate any presentations prior to those events? and if so, what events might they be? thanks.
+jim breitmeyer -- chief executive officer
+thank you, carl. and you did name the most likely venues for us to present in the fourth quarter. we've presented before their high profile, their great conferences. at this point, we don't have anything before that on the books.
+but we always keep our eyes open for opportunities to try to give updates when we can.
+carl byrnes -- northland securities -- analyst
+great, thanks. that's helpful. and also, looking back to cirmtuzumab for mcl with respect to registrational trial, just kind of assuming for the moment that the pfs number that we find is very high, what might be done in terms of a trial design that wouldn't penalize you, if you will, for having a long pfs? in other words, if we want to accelerate something to market and you've got obviously pfs, progression free survival of two times, what could be done there? thanks.
+jim breitmeyer -- chief executive officer
+yes. so great question, carl. and so what we think is particularly interesting is that we've got a strong objective response rate, and that is an endpoint that has been accepted by the fda previously for accelerated approval. and then, we have this substantial improvement in progression-free survival, which is an endpoint that has been accepted for full approvals.
+and so we're considering that certain patients with mcl on ibrutinib have a shorter progression-free survival than average. and so we may be able to further accentuate the difference in pfs by enrolling a population of mcl patients with unmet medical need. 
+carl byrnes -- northland securities -- analyst
+and then, would you also potentially be able to follow that up with kind of a post surveillance for other patient populations to achieve kind of a more reflective pfs?
+jim breitmeyer -- chief executive officer
+yes. the short answer is yes. 
+carl byrnes -- northland securities -- analyst
+cool. great. thanks so much. that's helpful. 
+jim breitmeyer -- chief executive officer
+thank you, carl.
+operator
+thank you. [operator instructions] our next questions come from the line of kumar raja with brookline capital markets. please proceed with your questions. 
+kumar raja -- brookline capital markets -- analyst
+thanks for taking my questions. with regard to the breast cancer trial, what do we know about the ror1 expression in the patients who had a partial response? and also, how does the treatment impact their ror1 expression? 
+jim breitmeyer -- chief executive officer
+salim? 
+salim yazji -- chief medical officer
+yeah, so you're talking about the expression of ror1 and tumor type? just to clarify the question. 
+kumar raja -- brookline capital markets -- analyst
+yeah, i understand that in the breast cancer trial, all of them had ror1 expression based on ihc. my question is like, is there a cutoff point where you're seeing the partial responses and whether this can be optimized in a future trial, so that you are selective for patients whom you think would be responsive? 
+salim yazji -- chief medical officer
+yeah, so just to actually kind of like confirm one point here, so the breast cancer study, it's an investigator-initiated study. but what we know is 100% of the patients who have been enrolled in the study have a ror1 expression. and those patients actually have been heavily treated with a median, about six prior therapy for their metastatic disease. so when we try to enroll our patients, we try really to make sure that they have actually a ror1, at least, expression because that's where the signs and the -- our antibody will work. 
+kumar raja -- brookline capital markets -- analyst
+is there a particular level of ror1 expansion you are looking at like 50% of the cells? or is there any cutoff like that? 
+salim yazji -- chief medical officer
+yes. so as jim mentioned earlier, actually, we're gonna do an exercise for multiple tumor types, and we were gonna be ranking them about -- from multiple angles. and then we will choose the optimal tumor types that we're going to go forward with. 
+kumar raja -- brookline capital markets -- analyst
+in terms of potential combination -- yeah, please go ahead. 
+jim breitmeyer -- chief executive officer
+yeah, kumar, to your specific question, the immunohistochemistry method has been -- it's been going -- undergoing method improvements over the course of the study. and so far, what we understand is that there's -- there hasn't been any correlation with the brightness of the ror1 signal or the number of cells and the clinical response. 
+kumar raja -- brookline capital markets -- analyst
+ok. and in terms of the potential combinations, what do we know in terms of like how these combinations are sequencing? what kind of impact they have on the ror1 expression? thank you.
+jim breitmeyer -- chief executive officer
+sure. so in a number of cases, there is evidence accumulating that ror1 expression increases with each course of therapy for both hematologic and solid tumors. and the part of the ror1 biology is that it is characteristic ror1 expression is correlated, associated with a primitive phenotype, and that primitive type is also characteristic of drug-resistant cancer. so we do think that the ror1 expression does go along with resistance to conventional therapy.
+and there are several cases that we're exploring further now where there is a potential to either get an additive or synergistic effect with the next treatment or some interesting preliminary data that we're still working on to suggest that ror1 inhibition may return tumor cells to a sensitive reaction to a therapy that they were previously resistant to. so those are the sorts of things that we're looking hard at. 
+kumar raja -- brookline capital markets -- analyst
+and in terms of the combination with venetoclax, what is the reason there? thank you. 
+jim breitmeyer -- chief executive officer
+salim? 
+salim yazji -- chief medical officer
+yep. so actually, i mean, we are looking into multiple combination options. i mean, based on who are preclinical studies like venetoclax is one of them, i mean, paclitaxel and the others, and plus, other things that still are going now under investigation. i mean, the nice thing about our drug is it's actually the low-toxicity profile that make it very much combinable with a lot of other drugs that have been approved for treatment of a specific line of therapy. 
+kumar raja -- brookline capital markets -- analyst
+no, my question is with regard to any update in terms of enrollment or it's all mostly investigator-driven, and you can't say anything at this point. 
+salim yazji -- chief medical officer
+so are you talking about the investigational-sponsored study with venetoclax? 
+kumar raja -- brookline capital markets -- analyst
+yes. 
+salim yazji -- chief medical officer
+yeah, so so far, we have only four patients, and we don't have any specific information there. as the enrollment there, it's not going as fast as we would like it to, but we have four patients in the study so far. 
+kumar raja -- brookline capital markets -- analyst
+ok, great. thank you so much.
+salim yazji -- chief medical officer
+you're welcome.
+jim breitmeyer -- chief executive officer
+thank you, kumar. 
+operator
+[operator signoff]
+duration: 39 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+salim yazji -- chief medical officer
+hartaj singh -- oppenheimer & co. inc. -- analyst
+robert burns -- h.c. wainwright & co. -- analyst
+carl byrnes -- northland securities -- analyst
+kumar raja -- brookline capital markets -- analyst
+more onct analysis
+all earnings call transcripts",1.0,0.9998,2021-08-05 17:00:00,"prepared remarks:
+operator
+greetings, and welcome to the oncternal therapeutics, incorporated's second-quarter 2021 financial results call. [operator instructions] as a reminder, this conference is being recorded. it is now my pleasure to introduce richard vincent, chief financial officer. thank you.
+you may begin. 
+rich vincent -- chief financial officer
+thank you, darryl. good afternoon, everyone, and thank you for joining us today. joining me on this call this afternoon are our president and ceo, dr. james breitmeyer; and our cmo, dr.
+salim yazji. we welcome all of you. today's call includes a business update, a discussion of our 2021 second-quarter financial results, as well as our upcoming milestones, which will be followed by q&a. today's press release and a replay of today's earnings call will be available on the investor relations section of oncternal's website for at least the next 30 days.
+we also filed our 10-q for the second quarter of 2021 earlier today. please note that certain information discussed on today's call is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events, such as our business and product development strategies and future financial and operating performance. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business.
+these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-q for the quarter ended june 30, 2021. this conference call contains time-sensitive information that is accurate only as of the date of the live broadcast, august 5, 2021. we undertake no obligation to revise or update any forward-looking statements to reflect events or circumstances occurring after the date of this conference call. with that, it's my pleasure to hand the call over to our ceo, dr.
+jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are committed to developing novel treatments for patients with cancer who have critical unmet medical needs. we're advancing a robust product pipeline with clinical and preclinical product candidates that target several such cancer indications. we are particularly pleased with the progress made during the second quarter of 2021 to advance the development of cirmtuzumab, our investigational, potentially first-in-class humanized monoclonal antibody that binds with high affinity to a biologically important epitope on ror1, also known as receptor tyrosine kinase-like orphan receptor one.
+encouraging updated interim clinical trial results with cirmtuzumab plus ibrutinib in patients with mantle cell lymphoma, or mcl, and chronic lymphocytic leukemia, or cll, were presented in a poster session at the asco 2021 annual meeting. in addition, in july 2021, we opened a new treatment cohort of our ongoing phase 1/2 study to evaluate cirmtuzumab plus ibrutinib in patients with mcl who are refractory to prior btk inhibitor treatment, including ibrutinib, acalabrutinib or zanubrutinib; and to include patients who are at high risk for progression, having had an inadequate response to ibrutinib that is only achieving stable disease or a partial response. our cmo salim will provide additional details on each of these. we also have an ongoing dialogue with the u.s.
+fda concerning the potential registration pathway for cirmtuzumab, and we expect further feedback on a potential pivotal study design this year. ror1 has been an -- become an increasingly visible target in the oncology space and has been the subject of m&a activity, including the acquisition of velosbio by merck & co. vls-101, velosbio's ror1-targeted antibody drug conjugate, or adc, was originally invented and developed add-on terminal, and it incorporates the cirmtuzumab antibody to target ror1. we believe we have one of the most advanced and diverse pipelines targeting ror1 in the industry today.
+we also continue to collaborate on two investigator-sponsored clinical studies of cirmtuzumab at uc san diego. first, a phase 1b clinical trial of cirmtuzumab in combination with paclitaxel for the treatment of women with her2-negative metastatic or locally advanced unresectable breast cancer; and second, a phase 2 clinical trial of cirmtuzumab in combination with venetoclax, a bcl2 inhibitor in patients with relapsed/refractory cll. ucsd finished enrollment for the breast cancer study in the second quarter of this year. so moving on to our immuno-oncology cell therapy programs, we continue to make progress on our novel ror1-targeting car-t and car-nk cell therapy candidates, moving them from the laboratory toward the clinic as planned.
+we are very encouraged by the advancement of our cell therapy efforts, including successful recruitment of the internal team and external scientific advisors; preclinical activities with the karolinska institute in stockholm, sweden; development and manufacturing activities with lentigen technology and miltenyi biotech; our research collaboration with uc san diego; and our development partnership with shanghai pharma limited in greater china. we are tremendously excited by the potential of our cell therapy program targeting ror1, which may allow for the selective targeting of tumor cells that express ror1 while sparing healthy tissues. we also advanced the development of tk216, our investigational targeted small molecule inhibitor of the e26 transformation specific, or ets, family of oncoproteins. we presented encouraging interim clinical data for tk216 in patients with relapsed or refractory ewing sarcoma in an oral session at the asco 2021 meeting.
+based on the data, we added an expansion cohort with an optimized dosing schedule. salim will provide additional details on this program as well. during this past quarter, we further strengthened our executive team with two key additions in the medical and business fronts. dr.
+salim yazji, joining us on the call now, is our new chief medical officer. salim brings over 25 years of experience in both industry and academic settings, leading global oncology development and regulatory strategy throughout all phases of development, including various product approvals. pablo urbanejaas joined us as our svp of corporate development. pablo is a seasoned biotech professional with a solid track record in corporate strategy and licensing, and he will lead our expanding strategy portfolio and business development functions at oncternal.
+with this, i will now turn the call over to salim to provide more color on our clinical programs.
+salim yazji -- chief medical officer
+thank you, jim. good afternoon, everyone. at this year's asco meeting, we announced updated clinical data for cirmtuzumab in combination with ibrutinib. in patients with relapsed/refractory mcl enrolled in our ongoing phase 1/2 trial, the data cutoff at that time was april 16.
+the best objective response, complete or partial response rate, or orr, was 83% for these heavily pretreated patients with mcl treated with cirmtuzumab plus ibrutinib, which compares favorably to historical orr of 66% for ibrutinib monotherapy. seven of the 18 evaluable patients, or 39%, had achieved a complete response, or cr, by chip and criteria, one of which was a complete metabolic response, cmr, by pet scan. these crs remained durable for eight to 30-plus months. this compares favorably to the historical cr rate of 20% for ibrutinib monotherapy.
+the media progression-free survival, pfs, and overall survival, os, were not reached for mcl patients. and the pfs estimate at two years was approximately 60% with a median follow-up of 18.9 months. this compares favorably to the historical pfs of ibrutinib monotherapy of approximately 30% with a median follow-up of 24 months. for patients with cll, the orr was 94%, and five patients had achieved the clinical criteria for complete responses with a bone marrow confirmation pending in one patient.
+the median pfs and os has not been reached for cll patients. and the pfs estimate at two years was approximately 82% with the median follow-up of 22.1 months. the combination of cirmtuzumab and ibrutinib continues to be well-tolerated with the safety profile consistent with or slightly improved compared to the historical data for ibrutinib monotherapy. for example, in patients with mcl grade 3 and 4 neutrofil decrease was documented in 11.5% of the patients with cirmtuzumab plus ibrutinib, compared to 29% for ibrutinib alone from its registrational study.
+we and our study investigators continue to be particularly impressed by the response in heavily pretreated patients. six patients with mcl who has relapsed following prior autologous stem cell transplant, or car-t, therapy, were enrolled in our study, and all six of them responded to the combination of cirmtuzumab and ibrutinib. four patients achieved complete response, and two patients achieved partial response. all four patients who had received prior treatment with ibrutinib responded to the treatment with cirmtuzumab and ibrutinib with the two crs and two prs.
+we continue to support our phase 1b investigator-initiated clinical trial in combination with paclitaxel for the treatment of women with her2-negative metastatic or locally advanced undetectable breast cancer. at aacr in april 2021, the uc san diego investigators presented results showing an objective response rate of 57% with an encouraging toxicity profile. these results were consistent with the previously reported interim results of the study and compared favorably to the historical results of single-agent paclitaxel, particularly for patients such as these who had received a median over six prior therapy for metastatic disease. as jim mentioned, this trial was fully enrolled for a total of 15 evaluable patients.
+the results are expected to be presented at the scientific conference or publication. also, at aacr, we presented data from preclinical study, investigating cirmtuzumab in combination with chemotherapeutic agents, cisplatin and paclitaxel, used to treat high-grade serious ovarian cancer, hgsoc, an endometrial cell line in vitro. cirmtuzumab demonstrated single-agent activity and enhanced the anti-corrosive effect of chemotherapeutic agents in both ovarian and endometrial cancer cell models, including platinum-resistant ovarian cancer. our program to develop tk216, our ets family inhibitor, continues to progress.
+at this year's asco meeting, we presented an updated clinical data from our ongoing phase 1/2 trial of tk216 for patients whose relapsed/refractory ewing sarcoma, and the data cut for that was april 22. the data remains consistent and confirm and extend previous results. two patients who achieved cr remain with no evidence of disease, one for over 24 months and the other for over 14 months on a study. the treatments continue to be well-tolerated with reversible myelosuppression as the most common side effect.
+based on our encouraging data and kols' feedback, in july 2021, we added a new phase 2 expansion cohort, targeting ewing sarcoma patients to evaluate clinical response to a single-agent tk216 using an optimized dosing regimen, treating for 28 days per cycle to intensify the amount of tk216 administered over time. i will now turn the call over to rich vincent to review financial results and upcoming milestones. 
+rich vincent -- chief financial officer
+thank you, salim. in october 2017, cirm awarded an $18.3 million grant to researchers at the uc san diego school of medicine to advance our phase 1/2 clinical trial, evaluating cirmtuzumab in combination with ibrutinib for the treatment of patients with b-cell lymphoid malignancies, including mcl and cll. we are conducting this study in collaboration with uc san diego and expect to receive approximately $14 million in development milestones under research sub awards throughout the award period. in conjunction with this award, our grant revenue was $0.9 million for the second quarter ended june 30, 2021.
+our total operating expenses for the quarter ended june 30, 2021, were $8.6 million, including $1.8 million in noncash stock-based compensation. research and development expenses for the quarter totaled $5.2 million. and general and administrative expenses totaled $3.4 million. net loss for the second quarter was $7.7 million or a loss of $0.16 per share basic and diluted.
+as of june 30, we had $103.7 million in cash and cash equivalents. we believe these funds will be sufficient to support our operations into 2023. as of june 30, we had 49.4 million shares of common stock outstanding. with respect to upcoming milestones for our cirmtuzumab program, we expect an interim clinical data update for the ongoing phase 1/2 study in mcl and cll at a scientific conference in the fourth quarter of 2021, a clinical data update from the fully enrolled ongoing breast cancer phase 1b ist study, an fda interaction update regarding a potential registration trial of cirmtuzumab in patients with mcl and further preclinical data in additional ror1-expressing tumors.
+on the cell therapies front, we are advancing our ror1 car-t program to treat the first patient in the first half of 2022. for our tk216 program, we expect an interim clinical data update for the ongoing phase 1/2 expansion cohort in ewing sarcoma at a scientific conference in the fourth quarter of 2021, as well as additional preclinical data and other ets-driven tumors. now i will turn the call back over to jim.
+jim breitmeyer -- chief executive officer
+thank you, rich. in closing, this past quarter, we presented very encouraging data from our clinical programs. we've strengthened our management team, and we continue to have a strong balance sheet and look forward to multiple potential catalysts in the coming months. thank you for listening to our presentation today.
+with that, i'll turn things back to darryl for the q&a portion of this afternoon's call.
+",2021-Q2,ONCT
+-0.10325000000000001,1.0,,,":
+operator
+thank you. at this time, we'll be conducting a question-and-answer session. [operator instructions] our first question comes from the line of hartaj singh with oppenheimer and company. please proceed with your question.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you, jim and team, for the update. just a couple of questions. jim, i know you're going to smile at this one because you always get it, so i have to ask it.
+with zilovertamab, you know, you've been having, i guess, a few interactions, and you have been indicating that you're given an update to investors in the next few months. has your thinking changed, you know, with these interactions as to what the parameters or the contours of the clinical development plan would look like in mcl? that's number one. any updates there? and then, number two, you know, your ror1 car-t cell therapy, the ind plans for the first half of 2022, what kind of clinical development plan do you foresee, you know, once that r&d comes through? you know, is it going to be sort of a dose escalation to dose expansion, what kind of tumors basket study, etc? love to get some color there. thanks for the questions.
+jim breitmeyer -- chief executive officer
+sure, hartaj. and so, i think that the interactions with fda have been open, collegial, and very helpful. and so, what i'd say has evolved with the latest information that we provided them was the clinical results from the asco meeting. and i'm sure you'll recall that the, you know, some particular clarity in the asco dataset emerged that zilovertamab plus ibrutinib is providing a very encouraging progression-free survival compared to ibrutinib alone.
+and so, that entered into our discussions with them and plays into studies designed for registration studies that we're discussing with them. i think we discussed on previous calls that we are considering that it's likely to be a randomized study of btk inhibitor alone versus btk inhibitor plus zilovertamab. and so, with encouragingly stronger results for complete response and overall response and progression-free survival, that gives us some very interesting material for negotiating trial designs. so, that's your first question.
+let me turn over to salim, our chief medical officer to discuss the potential shape of a car-t clinical development program.
+salim yazji -- chief medical officer
+yeah. thank you, jim. so, actually, yeah, we are very excited about the car-t program. and what we're planning to do is a phase 1 dose escalation to get to a recommended phase 2 dose, as well as we will be using most likely the b-cell malignancy patients as a first-in-human study.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you. in the b-cell malignancy, just from your preclinical modeling, are there any tumor types that you expect to be, you know, that you think could be more useful for 808 versus others?
+salim yazji -- chief medical officer
+well, i mean, in the b-cell malignancy, we were looking at mental cells, we're looking an ll, we're probably going to look into a diffuse large b-cell lymphoma. so, that's what we'll be looking for as a first try.
+hartaj singh -- oppenheimer and company -- analyst
+great. and then just last question for you, which is on the her2-negative breast cancer, any updates there, you know, that you plan in 2022? and i'll jump back in the queue. thank you, jim.
+jim breitmeyer -- chief executive officer
+sure. ok, thank you, hartaj. 
+salim yazji -- chief medical officer
+yeah, let me remind --
+jim breitmeyer -- chief executive officer
+go ahead, salim.
+salim yazji -- chief medical officer
+sorry, jim. let me remind you that the breast cancer study is an investigator-sponsored study. and the timing of the data release, it's usually in aacr's hands. however, with that said, jim has mentioned earlier, the study has been fully enrolled, and hopefully will be published soon.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you, everyone.
+salim yazji -- chief medical officer
+thank you.
+jim breitmeyer -- chief executive officer
+thank you.
+operator
+our next question comes from the line of carl byrnes with northland capital markets. please proceed with your question.
+carl byrnes -- northland capital markets -- analyst
+thank you. thanks for the question. congratulations by the way on your progress. just for briefly, do you have the thoughts in terms of the timing of ind-enabling studies for onct-534? and then also, to the extent, could you speak on the research collaboration was celularity, and also the karolinska institutet, which you recently announced in terms of when you might see identified candidates there? thanks.
+jim breitmeyer -- chief executive officer
+carl, thank you. and i think i can handle both of those questions. so, for 534, we have selected the molecule, and with -- and you're familiar with the drill on getting to an ind, that in the early going, manufacturing is usually rate-limiting to get to material -- representative material that you can use for your ind-enabling studies. and so, we're not ready to guide on when the ind might be ready to submit.
+but with the -- but i think that the -- you know, you can expect that there will be ind-enabling studies underway next year certainly. and then with the -- with celularity and the karolinska, we will also be expecting to have data emerging from those collaborations next year. again, we're not guiding specifically because we're not in control of the work that's being done in those laboratories. but i will say that we're feeling quite upbeat about both of those.
+and the -- overall, what i'd say is that you can expect the next-generation cell therapy to be running somewhere very roughly around a year behind the lead autologous car-t program.
+carl byrnes -- northland capital markets -- analyst
+got it. thanks so much.
+jim breitmeyer -- chief executive officer
+sure. thank you.
+operator
+our next question -- thank you. our next question comes from the line of kumar raja with brookline capital management. please proceed with your question.
+shubhendu sen roy -- brookline capital management -- analyst
+hi. i'm shubhendu calling in for kumar. appreciate the update. thank you so much.
+with respect to the preclinical results of the car-t program, i was wondering if you could, you know, give some color to the persistence of onct-808 car-t cells in the body? you know, i'm just trying to get an idea of how long-lasting the therapy will be. and also, what percentage of antigen escape do you estimate for onct-808? you know, that could be important for a cancer relapse scenario. thank you.
+jim breitmeyer -- chief executive officer
+thank you. those are both good questions. and so, as far as persistence goes, we are -- you're probably aware of some work that was done by investigators at the university of washington in seattle, at the hutch, with a ror1 car-t that had rather short persistence. and we think we understand why that was.
+it is -- we think it's because they used a rabbit antibody fragment to target ror1. and as a result of that, the car-t that they administered had foreign antigen, rabbit protein on the surface, and we think it contributed to low persistence. the -- we expect the -- our ror1 car-t, which will have a fully humanized targeting moiety on the outside to escape this immune clearance and have a significantly longer persistence. the antigen escape question is a great one because cd19 escape is -- has emerged as a very significant problem in the car-t space.
+and so, we're hopeful that ror1 targeting will circumvent some of that cd19 problem. the reason we're hopeful about that is that cd19 is not an essential component to the b-cell malignancies biology or survival. in contrast, ror1, which is not normally expressed on adult b-cells, is conferring survival and aggression and invasion characteristics to the cell. it's an accurate signal transducer.
+and so, if -- and it's been shown that if you suppress ror1 from a ror1 expressing tumor, the results with ror1 negative cells are not very malignant. they have lower tumor-forming potential and lower aggression pattern. so, we're hopeful that ror1 negative escape will be less common than it has been with particularly cd19.
+shubhendu sen roy -- brookline capital management -- analyst
+thank you. that was very useful. you mentioned that the initial plan is to test on data rate in b-cell malignancies. i'm just wondering if there any -- if you're thinking in terms of testing it in solid cancers as well?
+jim breitmeyer -- chief executive officer
+salim, do you want to talk about that?
+salim yazji -- chief medical officer
+yeah, absolutely. so, i think our first generation will be in a b-cell malignancy. and then, as we will develop our ror1 cell therapy, i think a solid tumor will be targeted as well.
+shubhendu sen roy -- brookline capital management -- analyst
+sounds great. thank you for taking my questions.
+jim breitmeyer -- chief executive officer
+sure. thank you for the questions.
+operator
+thank you. ladies and gentlemen, we have reached the end of the question-and-answer session. i will now turn the call over to dr. jim breitmeyer for closing remarks.
+jim breitmeyer -- chief executive officer
+all right. thank you, everybody. we appreciate your interest and attention for our third quarter release and overview. we look forward to seeing you, we hope, at our january 25 r&d day, which will provide a review of our pipeline and priorities and offer insights from key opinion leaders in mcl and car-t and androgen receptor biology.
+with that, thank you and goodbye.
+operator
+[operator signoff]
+duration: 28 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+hartaj singh -- oppenheimer and company -- analyst
+salim yazji -- chief medical officer
+carl byrnes -- northland capital markets -- analyst
+shubhendu sen roy -- brookline capital management -- analyst
+more onct analysis
+all earnings call transcripts",,0.9999,2021-11-04 17:00:00,"prepared remarks:
+operator
+greetings. welcome to the oncternal therapeutics, inc. q3 2021 financial results call. at this time, all participants are in a listen-only mode.
+a question-and-answer session will follow the formal presentation. [operator instructions] please note this conference is being recorded. i will now turn the conference over to your host, rich vincent, cfo. thank you.
+you may begin. 
+rich vincent -- chief financial officer
+thank you, alex. good afternoon, everyone, and thank you for joining us today. joining me on this call this afternoon are our president and ceo, dr. james breitmeyer; and our cmo, dr.
+salim yazji. we welcome all of you. today's call includes a business update and discussion of our third -- 2021 third quarter financial results and upcoming milestones, which will be followed by q&a. today's press release and a replay of today's earnings call will be available on the investor relations section of oncternal's website for at least the next 30 days.
+we also filed our 10-q for the third quarter of 2021 earlier today. please note that certain information discussed on today's call is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events, such as our business and product development strategies and future financial and operating performance. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business.
+these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-q for the quarter ended september 30, 2021. this conference call contains time-sensitive information that is accurate only as of the date of the live broadcast, november 4, 2021. we undertake no obligation to revise or update any forward-looking statements to reflect events or circumstances occurring after the date of this conference call. with that, it's my pleasure to hand the call over to our ceo, dr.
+jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are committed to developing novel treatments for patients with cancer who have critical unmet medical needs. we're advancing a recently expanded and robust product pipeline with clinical and preclinical product candidates that target several such cancer indications. our development efforts focused on biological pathways implicated in cancer genesis and progression.
+i'd like to discuss ror1 first. we believe we have one of the most advanced and diverse pipelines targeting ror1, based on our deep expertise and experience with this target. our lead asset, ror1 inhibiting antibody cirmtuzumab, we're announcing today has a new generic name and its inn will be zilovertamab from now on. we will be presented updating results from our ongoing phase 1b/2 clinical trial with zilovertamab plus ibrutinib in patients with mantle cell lymphoma or chronic lymphocytic leukemia at the american society of hematology annual meeting in atlanta in december of this year.
+you may have noticed that interim results in our abstract, which were based on june data are available as of today on the ash website. and we look forward to presenting updated data during our ash poster presentation on december 13. our ongoing interactions with the us fda regarding potential registration pathways for zilovertamab are progressing well. and we expect to agree on a pivotal study design for patients with mantle cell lymphoma, mcl, in the coming months.
+ror1 remains an increasingly visible target in the oncology space since it was the subject of m&a activity, including the acquisition of velosbio by merck & co. and nbe-therapeutics by boehringer. vls-101, which is now known as mk-2140 is velosbio ror1 targeting antibody-drug conjugate or adc and was originally invented and developed at oncternal. this adc utilizes zilovertamab as the ror1 targeting moiety.
+we also continue to collaborate on two investigator-sponsored clinical studies of zilovertamab at uc san diego. first, a phase 1b clinical trial of zilovertamab in combination with paclitaxel for the treatment of women with her2-negative metastatic or locally advanced unresectable breast cancer has completed enrollment. second, a phase 2 clinical trial of zilovertamab in combination with venetoclax, a bcl-2 inhibitor in patients with relapsed refractory cll is ongoing and enrolling patients. with respect to our ror1 targeting cell therapy programs, we continue to advance them toward the clinic as planned.
+for our lead autologous car-t program, which we have selected -- for which we have selected onct-808 as the lead, we have made tremendous progress in gmp process development with our cdmo collaborators, and our completing ind supporting preclinical studies with leading academic institutions to enable the submission of the first ind in the first half of 2022. we also made progress regarding potential second-generation allogeneic cell therapy programs. we established a partnership with celularity to evaluate placental-cell-derived therapies targeting ror1. and we strengthened our partnership with the karolinska institutet in sweden, including recently joining nextgennk, the institutet's competence center for the development of next-generation nk-based cancer immunotherapies.
+we also recently announced that we have engaged a group of industry-renowned experts in the cell therapy field to serve as our cell therapy scientific advisory board and to support our efforts to bring safer and effective ror1 targeting cell therapies to patients faster. we, at oncternal and our newly formed sab, are very excited about the potential of our cell therapy programs targeting ror1, which may allow for the selective targeting of tumor cells that express ror1 while relatively sparing healthy tissues. in another program, we also advanced the development of onct-216 which was formally designated tk216. our investigational targeted small molecule inhibitor of the e26 transformation-specific or ets family of oncoprotein.
+we look forward to the oral presentation of an interim clinical data update next week at the connective tissue oncology society, or ctos, 2021 virtual annual meeting. the additional phase 2 expansion cohort is now open and enrolling ewing sarcoma patients and is evaluating single-agent onct-216 using an intensified dosing regimen, designed to increase the amount of onct-216 that is administered over time. now, i'd like to provide an introduction to the latest addition to our pipeline. we have designated ocnt-534 as the lead candidate in our preclinical dual-action androgen receptor inhibitor or daari, d-a-a-r-i, program.
+ocnt-534 was originally developed by the university of tennessee and was acquired by oncternal as part of our reverse merger with gtx in 2019. a substantial body of evidence from in-vitro and in-vivo studies has been developed that strongly suggests that ocnt-534 is active on both the n-terminus and the ligand-binding domains of the androgen receptor, in addition to causing degradation of the receptor. the molecule is active in preclinical prostate cancer models that are resistant to current standard-of-care therapies such as enzalutamide and abiraterone. we believe ocnt-534 may have the potential to address the significant unmet need for men with prostate cancer caused by tumor resistance mechanisms, including those involving expression of androgen receptor splice variants, such as ar-v7.
+with that, i will now turn the call over to rich vincent to review our financial results and upcoming milestones.
+rich vincent -- chief financial officer
+thank you, jim. in october 2017, cirm awarded a $19.3 million grant to researchers at the uc san diego school of medicine to advance our phase 1b/2 clinical trial evaluating zilovertamab in combination with ibrutinib for the treatment of patients with b-cell lymphoid malignancies, including mcl and cll. we are conducting this study in collaboration with uc san diego and expect to receive approximately 14 million in development milestones under research subawards throughout the award period. in conjunction with this award, our grant revenue was 2.4 million, 1 million for the third quarter ended september 30, 2021.
+our total operating expenses for the quarter ended september 30, 2021, 11.8 million, including $1.5 million in noncash stock-based compensation. research and development expenses for the quarter totaled 9 million, and general and administrative expenses totaled 2.8 million. net loss for the third quarter was 9.6 million, or loss of $0.19 per share, basic and dilutive. as of september 30, we had 97.4 million in cash and cash equivalents.
+we believe these funds will be sufficient to support our operations into 2023. as of september 30, we had 49.4 million shares of common stock outstanding. with respect to upcoming milestones for our zilovertamab program, we expect a clinical data update for the ongoing phase 1b/2 in mcl and cll during the 2021 ash annual meeting on december 13. an update regarding our ongoing fda interactions regarding potential registration pathways for zilovertamab in patients with mcl.
+for onct-216, we will report updated clinical data from our ewing sarcoma phase 1/2 study next week during the 2021 ctos annual meeting. on the cell therapy front, we are advancing our autologous ror1 car-t cells program, onct-808, and plan to submit the first ind in the first half of 2022. we are also looking forward to hosting an r&d day on january 25, 2022, where we will provide a comprehensive strategic update on all of our programs and key development priorities. this will include insights from key opinion leaders in the fields of mcl therapies, cellular immunotherapies, as well as androgen receptor resistance in prostate cancer.
+now, i will turn the call back over to jim. jim, are you on mute?
+jim breitmeyer -- chief executive officer
+i must be. thank you. thank you, rich. in closing, we are very encouraged by the progress on all our programs.
+we continue to have a strong balance sheet and we have a very strong management team. they're important catalysts for the company in the months and quarters ahead, including particularly agreement with the fda on a registration path for zilovertamab, clinical data readouts for zilovertamab and onct-216, and advancement toward the clinic for our ror1 targeting autologous car-t therapy candidate, onct-808, as well as for our dual-action ar inhibitor prostate cancer candidate, onct-534. i look forward to updating you in the coming banking conferences and at our r&d day on january 25. thank you for joining us today.
+with that, i'll turn things back to alex for the q&a portion of this afternoon's call.
+",2021-Q3,ONCT
+,,,,":
+operator
+[operator instructions] our first question is from hartaj singh with oppenheimer. please go ahead.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you, peter. just a couple of questions, jim and team, and thanks for the updates. one is just for onct-808, the ror1, car-t, what could clinical trials there look like with these sorts of the basket trials, monotherapy combo with ibrutinib? and then what specifically are the learnings from the zilovertamab and mcl and cll studies that kind of help you designing those car-t trials? and i just got a couple of quick follow-ups.
+jim breitmeyer -- chief executive officer
+thank you, hartaj. i'll start with the second question. and so, we're moving into the car-t clinical trials with an increased sense of confidence that we're capable of targeting ror1 specifically and as such that the car-ts are expected to primarily interact with tumor cells, and we're hoping to see a minimal cross reactivity with normal adult tissues, which may offer -- will mainly to an acceptable safety program. we are also continuing to learn that ror1 is important in large numbers of hematologic malignancies, which is where we'll do that first clinical trial.
+i'll turn it over to salim to ask -- to answer your question about the general shape of the phase one study for the 808 ror1, car-t.
+salim yazji -- chief medical officer
+yes. thanks, jim. so we're planning actually to do first-in-human car-t, which is -- i think in the dose escalation phase, we'll try to not mix patient population, who specifically probably going to be in lymphoma. but once we reach the therapeutic dose and recommended phase two dose, this is where we will start to some expansion in different indications.
+does that answer the question, hartaj?
+hartaj singh -- oppenheimer and company -- analyst
+yes. thank you. that helps a lot. but i just want to be clear, so i might have missed that.
+you will include a broad range of patients in the initial cohorts, or will that happen when you get into the expansion part of the car-t trial?
+salim yazji -- chief medical officer
+yes, the plan is when we get to the expansion because i think -- was usually car-t fda wants you to have a very specific safety population and the dose escalation not to have a like mix group.
+jim breitmeyer -- chief executive officer
+let me add that we do think that lymphoma is an acceptable small basket, i guess, for the initial clinical trial of population.
+hartaj singh -- oppenheimer and company -- analyst
+great. and then, just would you be using any kind of ibrutinib or any other one of the small molecules in combining? or that also will you wait to do that if you're going to do that in -- when you get the expansion part of the trial?
+jim breitmeyer -- chief executive officer
+we'll study the car-t alone initially so that we're sure we have a clear picture of its safety profile by itself, and then we'll consider augmenting with additional factors later.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you, jim. and then, last question is just on the ewing sarcoma project. the 216, you've got the two really nice complete responses, one for more than 24 months.
+when we get to the latter part of this year and you're looking for that high dose data. what is the kind of the hurdle you're looking for in order to continue on with the project, i mean, what would you like to see in order to go to next steps. and thank you for all the questions.
+jim breitmeyer -- chief executive officer
+sure, hartaj. and i'll take your last question as well. so we're looking for an indication that the true response rate to tk216 is around at least 20%, and that would be a partial response and complete responders.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you, jim.
+operator
+thank you. our next question is from carl byrnes with northland capital markets. please go ahead.
+carl byrnes -- northland securities -- analyst
+great. thanks for the question and congratulations on the progress. how do you see r&d spending ramping up throughout 2022, considering the initiation of the zilo trials and also, obviously, the other r&d programs that are ongoing? thanks.
+jim breitmeyer -- chief executive officer
+rich?
+rich vincent -- rich vincent
+sure. so as we mentioned, we ended 2021 was about $91 million in cash and cash equivalents with no debt on the books, a decrease of just under $7 million for the fourth quarter. while we do not provide guidance on our quarterly or annual cash burn, we do anticipate that our current cash resources are sufficient to fund our planned operations into mid-2023.
+carl byrnes -- northland securities -- analyst
+got it. thanks.
+operator
+thank you. our next question is from kaveri pohlman with btig. please go ahead.
+kaveri pohlman -- btig -- analyst
+good afternoon, and thanks for the update. my first question is for 534. the drug binds both the end terminal and ligand binding domain, but how stable is the binding in the absence of the ligand binding domain because a lot of area includes the lbd, and does car-t bind at the same ligand binding domain site where zilovertamab bind.
+jim breitmeyer -- chief executive officer
+kaveri, this is jim. those are both good questions. so we are seeing very satisfying activity both in vitro and in vivo in models of prostate cancer that have lost the binding, the ligand binding domain. so we do believe that the in-terminal binding is sufficient to inhibit prostate cancer.
+on the ligand binding domain side, it does appear to bind differently than enzalutamide because we are seeing activity in enzalutamide-resistant strains or lines of prostate cancer.
+kaveri pohlman -- btig -- analyst
+got it. and for zilovertamab, do you see an opportunity in egfr-mutated, non-small cell lung cancer patients. i believe there have been some studies that have shown shorter survival benefit with tki in patients who overexpress ror1?
+jim breitmeyer -- chief executive officer
+yes. we've noticed those data as well. and we're doing some preclinical work in lung cancer right now, particularly intriguing result that we are pursuing is a publication suggesting that lung cancer cells that have become resistant to osimertinib might be resensitized to osimertinib treatment by inhibiting ror1. and that, of course, is a very important clinical problem in the lung cancer arena right now.
+kaveri pohlman -- btig -- analyst
+yeah, that's very helpful. thank you. and maybe the last one on the breast cancer ist studies. so for hr-positive or tnbc or her2-negative breast cancer, how do you think about the changing treatment landscape with recent progress made by adcs and any insight you can provide on your development strategy?
+jim breitmeyer -- chief executive officer
+thank you, kaveri. so in breast cancer, the work -- the clinical work that's been done so far has been through investigator-sponsored studies. and we have noted that that landscape is becoming increasingly complicated. now, that's fantastic news for patients with breast cancer, but it makes it a complicated arena for a small company.
+and we're also aware that breast cancer trials would have to be quite large and long in duration. and so, you'll notice that when we are stating that we are emphasizing hematologic malignancies in prostate cancer that breast cancer is no longer on the list as one of our prioritized indications.
+kaveri pohlman -- btig -- analyst
+got it. that makes sense. thanks for taking my questions.
+jim breitmeyer -- chief executive officer
+thank you for the good question.
+operator
+our next question is from robert burns with h.c. wainwright. please go ahead.
+robert burns -- h.c. wainwright -- analyst
+hey, guys. thanks for taking my questions and congrats on the updates. i've got three, if i may. so with regard to zilo-301, specifically announced say, i'm sort of curious to get your thoughts around what you think the delta would have to be for accelerated approval between those two arms, ibrutinib plus zilo versus ibrutinib plus placebo.
+any thoughts around that.
+jim breitmeyer -- chief executive officer
+salim?
+salim yazji -- chief medical officer
+yes. so we have -- actually, our statistician looked into this very carefully. and we have a very statistical significant delta. i mean, i think we can say it could be anywhere additional 60% or 70% of what you see in the control arm.
+robert burns -- h.c. wainwright -- analyst
+ok. and next question, with regard to zilo-302, obviously, that's an open-label companion study. how are you thinking about that potential study for potential movement into that space post progression on ibrutinib?
+salim yazji -- chief medical officer
+yes. so...
+jim breitmeyer -- chief executive officer
+we do -- go ahead.
+salim yazji -- chief medical officer
+sorry, jim. so actually, as you know, those patient population have a huge unmet medical need, and we believe any response there, if you'll be able to rescue those patients. it could be very meaningful, especially after progressing on btk.
+robert burns -- h.c. wainwright -- analyst
+ok. last one for me with regard to 808. so i know you're going to be doing the ind submission by the middle of this year and then you're planning a phase one trial, which is predominantly going to be in hematological malignancies, but i would assume that you would -- the next step would then be solid tumors. can you provide some clarity around sort of times when you think you might initiate a solid tumor program and whether you would institute a biomarker sort of threshold with regard to ror1 expression and what that sort of cutoff could potentially look like?
+jim breitmeyer -- chief executive officer
+yes. that's -- you squeezed in three questions there in your third question. so we will investigate solid tumor indications with the 808 system. but as you know, it is a straightforward autologous car-t with the same features as successful cd19 car-t, but it doesn't have any enhanced features that would make it particularly applicable to solid tumors.
+so this is -- we believe that to move into the solid tumor space that something in addition to the vanilla car-t is necessary. and so, we're looking in parallel at adding additional features to the 808 platform. but at the same time, we are looking at off-the-shelf alternatives such as pluripotent stem cell-based car-t or car nk. and in those cases, from the beginning, we're looking at incorporating additional features into the cell therapy that would be designed to give us a better chance in the solid tumor environment.
+robert burns -- h.c. wainwright -- analyst
+awesome. thanks for those updates, guys.
+jim breitmeyer -- chief executive officer
+all right. thank you, robert.
+operator
+our last question is from kumaraguru raja with brookline capital markets. please go ahead.
+shubhendu senroy -- brookline capital markets -- analyst
+hi. i'm shubhendu calling in for kumar. thanks for the update. now, with regards to the onct-534 program in prostate cancer.
+do you plan to also test the drug in other ar driven indications like ar positive breast cancer or in non-oncology indications that over overexpress ar. also, in addition to the ind-enabling studies, what can you share more about the program?
+jim breitmeyer -- chief executive officer
+yes. thank you for the question and give our best to kumar. i'm sure he's having a busy day.
+shubhendu senroy -- brookline capital markets -- analyst
+yeah. thank you.
+jim breitmeyer -- chief executive officer
+ok. thank you. so we do have some interesting indications that the way that onct-534 inhibits the androgen receptor might be applicable in a non-oncology indication called kennedy's disease, which is a severe form of neuromuscular degeneration that's related to aberrations in the androgen receptor. and the -- what i can say about the rest of the preclinical program is that it's moving along very nicely.
+we have a formulation identified, we are just gearing up right now to start the toxicology studies and the behavior of the 534 molecules up to this point is what we would hope to see for a successful small molecule early development program.
+shubhendu senroy -- brookline capital markets -- analyst
+thank you. that is useful. what is the expectation of the safety and side effect profile on onct-534 when you compare it to, say, hormone therapies that decrease androgen levels or block androgen action in prostate cancer?
+jim breitmeyer -- chief executive officer
+so since we haven't done toxicology studies, yet this is a theoretical answer. but i would say our first assumption would be that many of the toxicities would be similar to a drug like enzalutamide. there's one thing that we are excited about and that is that some of the androgen antagonists have been associated with seizure activity as a side effect. and we were delighted to find that onct-534 does not cross the blood-brain barrier.
+so we have a theoretical possibility of having a lower seizure risk.
+shubhendu senroy -- brookline capital markets -- analyst
+ok, great. and finally, i was just wondering if you could speak on the research collaboration, the ongoing collaboration with karolinska institutet for the cell therapies. and when can we expect updates on that front?
+jim breitmeyer -- chief executive officer
+thank you. the collaboration is going well. in fact, we are having two of our collaborators are traveling all the way from sweden to san diego next week and we're going to have our first face-to-face meeting with them in a year and a half, looking forward to it. and so, the karolinska, of course, is where the natural killer cell was discovered, and a lot of its early characterization was done.
+and there is a very exciting consortium of companies and academic organizations that collaborate together through the karolinska to make advances in cell therapy, and we were delighted that oncternal was invited to join into that consortium. so i think that you can expect to see results from the 534 preclinical program at some point over the course of this year as it is on track for an ind in midyear.
+shubhendu senroy -- brookline capital markets -- analyst
+great. thanks for taking my question. 
+jim breitmeyer -- chief executive officer
+all right.
+operator
+thank you. ladies and gentlemen, we have reached the end of the question-and-answer session. and i would like to turn the call back to dr. breitmeyer for closing remarks.
+jim breitmeyer -- chief executive officer
+well, let me close by thanking all of you for your time and attention. we particularly appreciate the excellent questions and the opportunity to interact with the questioners on the call today. so i thank all of you, and we look forward to updating you again in about a quarter.
+operator
+[operator signoff]
+duration: 46 minutes
+call participants:
+rich vincent -- rich vincent
+jim breitmeyer -- chief executive officer
+salim yazji -- chief medical officer
+hartaj singh -- oppenheimer and company -- analyst
+carl byrnes -- northland securities -- analyst
+kaveri pohlman -- btig -- analyst
+robert burns -- h.c. wainwright -- analyst
+shubhendu senroy -- brookline capital markets -- analyst
+more onct analysis
+all earnings call transcripts",1.0,0.9998,2022-03-10 17:00:00,"prepared remarks:
+operator
+greetings, and welcome to oncternal therapeutics, inc. q4 2021 financial results conference call. [operator instructions] as a reminder, this conference is being recorded. i would now like to turn the conference over to your host, richard vincent, cfo of oncternal therapeutics, inc.
+please go ahead, sir.
+rich vincent -- rich vincent
+thank you, peter. good afternoon, everyone, and thank you for joining us today. joining me on the call this afternoon are our president and ceo, dr. james breitmeyer; and our cmo, dr.
+salim yazji. today's call includes a business update and discussion of our 2021 fourth quarter and full year financial results, which will be followed by q&a. today's press release and a replay of today's call will be available on the investor relations section of oncternal's website for at least the next 30 days. we filed our 10-k for the full year 2021 earlier today.
+please note that certain information discussed on today's call is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events such as our business and product development strategies, the timing of initiation of our preclinical and clinical studies, the potential for our zilo-301 study to support a bla submission, the timing of planned interim data updates and the timing of our regulatory filings and submissions. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business. these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-k for the full year ended december 31, 2021.
+this call contains time-sensitive information that is accurate only as of the date of this live broadcast. march 10, 2022. we undertake no obligation to revise or update any forward-looking statements to reflect the events or circumstances occurring after the date of this call. with that, it's my pleasure to hand the call over to our ceo, dr.
+jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are advancing a diversified and robust product pipeline with clinical and preclinical product candidates that target cancers with unmet medical need. during the fourth quarter of 2021, we made significant progress in the development of our entire pipeline, including zilovertamab, our investigational, potentially first-in-class humanized monoclonal antibody that binds with high affinity to a biologically important epitope on ror1, otherwise known as receptor-tyrosine kinase-like orphan receptor 1. we reached consensus with the fda on the design and key elements of our planned global phase three study, zilo-301, designed to treat patients with relapsed or refractory mantle cell lymphoma with zilovertamab in combination with ibrutinib, and we also received positive feedback from the agency on the key elements of our zilovertamab development program.
+we expect to initiate the phase three study in the second quarter of 2022. our commitment to this study and the positive developments on the regulatory front were all supported by clinical data from our ongoing phase one/two clinical trial of zilovertamab plus ibrutinib for patients with mcl or cll with efficacy and safety data that are encouraging compared to historical results with ibrutinib alone. our cmo, salim yazji, will summarize these exciting clinical results in a moment. we also made progress in our cell therapy program.
+we selected onct-808 an autologous car-t targeting ror1 as our lead candidate. the lentivirus manufacturing campaign is progressing to plan at lentigen and we have very encouraging results for the number of expanded t cells, the car expression and the t cell phenotype for the potential gmp, car t cell generation process development program. we had a very productive pre-ind meeting with the fda and ind enabling preclinical work is on track for a mid-2022 ind submission. salim will also discuss the planned clinical development plan for our lead candidate.
+research collaborations with cellularity and with the karolinska institutet continue to generate supportive data for our next-generation off-the-shelf ror1-based cell therapies. we are also very excited about onct-534, our lead candidate, androgen receptor or ar inhibitor. at our r&d day in january, we presented detail about onct-534's novel mechanism of action as a dual action androgen receptor inhibitor, or daari, d a a r i, which also induces degradation of the androgen receptor. our daari appear to be highly differentiated as we believe they interact with both the n-terminal domain or ntd and the ligand binding domain, or lbd of the ar, inducing ar inhibition and degradation.
+preclinical data presented at the aacr-nci-eortc virtual international conference on molecular targets show that onct-534 exerts antitumor activity in clinically relevant prostate cancer models, including those with ar amplification, enzalutamide-resistant or that express androgen receptor splice variants such as ar-v7. these data suggest that onct-534 could play an important role in addressing unmet needs for prostate cancer patients with advanced treatment-resistant disease. finally, we presented interim clinical data from the ongoing phase one/two study of onct-216, our investigational targeted small molecule inhibitor of the e26 transformation-specific, or ets, family of oncoproteins at the ctos 2021 virtual annual meeting. two patients with relapsed/refractory ewing sarcoma, continue to enjoy durable complete responses, including one patient who had a cr for 24 months on treatment and continues to have no evidence of disease off treatment after several months.
+we continue to explore optimizing the onct-216 treatment regimen for patients with ewing's sarcoma and are currently enrolling a new cohort of patients being treated with single-agent onct-216 using an intensified dosing schedule. let me now turn over to oncternal's cmo, dr. salim yazji.
+salim yazji -- chief medical officer
+thank you, jim. good afternoon, everyone. as a reminder, our recently announced phase three study, zilo-301, were randomized patients with relapsed or refractory mcl who have only had stable disease or reach a partial response after receiving four months of ibrutinib monotherapy. and we randomized them to receive either blinded zilovertamab or placebo plus ibrutinib.
+this study may provide two potential approvals. first, an escalated approval based on overall response rate, or orr, plus duration of response, or dor, and second, a regular fda approval based on progression-free survival or pfs as a primary input. additionally, we are planning to conduct zilo-302, an open-label companion study of zilovertamab plus ibrutinib for patients who have progressive disease during the ibrutinib monotherapy running of study zilo-301 and results of this study could support a third label indication. this innovative study design may support both an accelerated approvals and final approval in single study.
+we plan to randomize roughly 250 patients, and we currently expect to reach the accelerated approval or our endpoint in as early as two years after the initial patient is enrolled. and the final approval, pfs endpoint in as early as three years after enrolling the first patient. we are now in the final study ramp-up phase. we have selected a global cro to support the operational execution and we expected to initiate the study in the second quarter of this year.
+as jim mentioned, we are entering this late clinical stage supported by very encouraging data from our ongoing phase one/two clinical trial of zilovertamab in combination with ibrutinib. the cirll study as presented at the ash meeting in december 2021, has an overall response rate of 81% and a cr rate of 35% for patients with mcl treated with zilovertamab plus ibrutinib, which is compared favorably to the historical orr of 66% and 20% for ibrutinib monotherapy, respectively. median pfs of 35.9 months for mcl patients with a median follow-up of 14.4 months, which also compares favorably to the historical pfs of 12.8 months for ibrutinib monotherapy. the cll data were also very encouraging with the landmark pfs of 100% at 36 months for cll patients who had previously received one or two prior lines of therapy, which compares favorably to historical ibrutinib monotherapy of pfs of around 75% at 36 months.
+the combination of zilovertamab and ibrutinib continues to be well tolerated with a safety profile consistent with or improved compared with historical data for ibrutinib monotherapy. for example, in patients with mcl, grade three and four, neutrophil decrease was documented in only 9.7% of the patients with zilovertamab plus ibrutinib compared to 29% of ibrutinib lower from its registrational study. regarding onct-808, the lead candidates of our autologous ror1 targeting car-t program, we had productive pre-ind meeting with the fda, and we are on track to submit our ind in the middle of this year. we also recently established a very experienced cell therapy scientific advisory board and are close to selecting major academic centers at the clinical sites.
+our proposed first-in-human study will enroll patients with relapsed or refractory hematologic malignancy, including those who have failed cd19 car-t cell therapy. i will now turn the call over to our cfo, rich vincent, to review our financial results and upcoming milestones.
+rich vincent -- rich vincent
+thank you, salim. our grant revenue is derived from a california institute for regenerative medicine, or cirm, grant the board and two research and development grants from the national institute of health or nih. in october 2017, cirm awarded an $18.3 million grant to researchers at the uc san diego school of medicine to advance our zilo study. we are conducting a study in collaboration with uc san diego and expect to receive approximately $14.4 million in development milestones under research supports throughout the award period that expires in the first quarter of 2022.
+in the third quarter of 2021, the nih awarded the company two research and development grants for up $2.2 million to support preclinical activities for the company's onct-534 and onct-216 programs, including $0.7 million payable to sub-awardees. our grant revenue was $0.6 million for the fourth quarter ended december 31, 2021, and $4.3 million for the full year 2021. our total operating expenses for the fourth quarter ending december 31, 2021, were $8.6 million with $1.7 million in noncash stock-based compensation expense and were $35.7 million for the full year 2021 with $5.9 million in noncash stock-based compensation expense. in the fourth quarter, research and development expenses totaled $6 million and general and administrative expenses totaled $2.6 million.
+for the full year 2021, research and development expenses totaled $24.1 million and general and administrative expenses totaled $11.6 million. loss for the fourth quarter was $8.1 million for a loss of 0.16 or $0.16 per share, basic and diluted. for the full year ended december 31, 2021, our net loss was $31.3 million or a loss of $0.64 per share basic and diluted. as of december 31, 2021, we had $90.8 million in cash and cash equivalents and no debt.
+we believe these funds will be sufficient to support our operations into mid-2023. we have and will continue to manage expenses carefully and will explore all potential sources of capital to enable us to reach our milestones. as of december 31, 2021, we had 49.4 million shares of common stock outstanding. with respect to upcoming milestones for our zilovertamab program, we expect to initiate the global registrational phase three study, zilo-301, in the second quarter of 2022.
+we expect to report an interim clinical data update for patients with mcl and cll treated with zilovertamab plus ibrutinib from our ongoing cirll study in the second quarter of 2022. we also expect to have a phase 1b investigator-sponsored trial of zilovertamab plus docetaxel initiated for patients with metastatic castration-resistant prostate cancer in mid-2022. on the cell therapy front, we plan to spend our first ind for onct-808, our autologous ror1, car t cell therapy candidate in mid-2022. for onct-534, our lead daari product candidate, we expect to initiate ind-enabling glp toxicology studies and gmp manufacturing in the second quarter of 2022.
+for onct-216, we expect to report updated interim clinical data for patients with ewing's sarcoma treated in the dose intensified expansion cohort in the fourth quarter of 2022. now, i will turn the call back over to jim.
+jim breitmeyer -- chief executive officer
+thank you, rich. we are pleased with the progress in 2021 and look forward to multiple catalysts in 2022, especially the initiation of our global phase three zilovertamab study and also submitting our ror1 car-t ind application, as well as advancing our daari program toward the clinic. our strong balance sheet will help us navigate this historically challenging macro environment. we plan to focus our resources on areas of high unmet patient need where we believe our product candidates can make the greatest difference for patients.
+thank you for joining us today, and we look forward to updating you for the remainder of 2022. with that, i will turn things back to peter for the q&a portion of this afternoon's call.
+",2021-Q4,ONCT
+,1.0,,,":
+operator
+[operator instructions] our first question comes from the line of hartaj singh with oppenheimer. please proceed with your question.
+hartaj singh -- oppenheimer and company -- analyst
+great. thank you. thanks for the update, jim and team. and just a couple of quick questions.
+jim, i know that when you presented, and salim and everyone had presented the phase 3 design for zilovertamab-301 a couple of months ago, you'd also talked about a zilo-302 aspect to that. how are you thinking about that? that's the -- i guess that's beyond for the patients that have progressive disease, the run-in patients on ibrutinib. so, just what are you thinking about that? and i just got a couple of quick follow-up questions after that.
+jim breitmeyer -- chief executive officer
+sure. i'll start, and salim can comment as well. the 302 study you're referring to is one of the really novel aspects of our registration study design because during the four month running or enrichment portion of the study, where patients receive single agent ibrutinib, a percentage of those patients will progress on ibrutinib. and so they're already in our study.
+they're already well-documented with disease parameters and medical history and everything. and so, to give them the opportunity to see if their disease can be resensitized to ibrutinib with zilovertamab therapy, it's a very convenient and incrementally inexpensive way to test for impact of zilovertamab in this resistant disease. so, we're still planning to conduct that part of the study as well. and since it's open label, that would also give us an opportunity to talk about the results in real time on our medical conferences than having to wait for the blind to be broken in the main 301 study.
+salim, do you want to add anything to that?
+salim yazji -- chief medical officer
+no, i think you summarized it very well, jim. that's good.
+hartaj singh -- oppenheimer and company -- analyst
+great. and then the other question i would have is just, you know, on onct-808, the car-t therapy, you know, jim and salim, if you can just kind of describe once you file the ind in mid-2022, what's the sort of clinical program, you know, setups that we can look forward to? i mean, bucket study, certain tumor types, you know, hematology versus solid tumor, just what are your thoughts on that could look like in the second half of this year?
+jim breitmeyer -- chief executive officer
+go ahead, salim.
+salim yazji -- chief medical officer
+yeah. so, hartaj, this just will be mainly in hematologic malignancies as a first-in-human study. and specifically, we're going to do a dose escalation in lymphoma, b-cell lymphoma patients. once we reach our recommended phase 2 portion, then we can expand to other cohorts as well.
+hartaj singh -- oppenheimer and company -- analyst
+got it, salim. so, i mean, just so i'm clear, it'll be hematologic malignancies but the cohorts, meaning you just -- you have a bucket of patients with different types of tumor types and then picked the ones you want to dose expand into optune, get into your recommended phase 2 dose?
+salim yazji -- chief medical officer
+in the dose escalation, we will have only b-cell lymphoma, including diffuse large b-cell lymphoma, mcl, and maybe excessive lymphomas. that's in the dose escalation. now in the expansion cohorts, we will expand in those patient population for sure, but also, we may open, you know, other indication in hematological malignancies, like maybe example multiple myeloma, or others.
+hartaj singh -- oppenheimer and company -- analyst
+and, salim, is there any sort of pathway that you see with the car-t program whereby there's some tumor type you're looking at where the unmet need is high enough that, you know, if you see a good signal in dose escalation and you get into dose expansion that that could actually form the basis for potential accelerated approval type scenario? i know that's low probability, but just any thoughts there?
+salim yazji -- chief medical officer
+yeah. absolutely. i mean, i think we -- as you know, since this is going to be, again, dose escalation, open label, we're going to be looking into signal as we go. and, you know, if we see that something could be possibility to get a quick approval, or escalated approval, we will go after that for sure.
+hartaj singh -- oppenheimer and company -- analyst
+yeah. and these will be patients that are later lined in general therapy than what the ror1 antibody would have seen, right? zilovertamab would have seen?
+salim yazji -- chief medical officer
+yeah, absolutely, and as jim mentioned, this will be in relapsed refractory hematological malignancy, which is probably a little bit later line of therapy, including patients who have failed cd19 car-t, where there is a huge unmet medical need there as well.
+hartaj singh -- oppenheimer and company -- analyst
+and then last question. just -- when you see filing the ind for onct-534?
+jim breitmeyer -- chief executive officer
+so, we haven't guided to the timing of that ind yet, hartaj. and the reason is that like other people, we're experiencing some supply chain uncertainty, including things such as slots for manufacturing activities and availability of animals and equipment for toxicology studies. so, this is an area where there's still some continuing impact from covid. so, we just haven't been specific yet.
+and when we have greater clarity around timing of the ind enabling work, then we will make an -- we will lay that out.
+hartaj singh -- oppenheimer and company -- analyst
+great. that makes sense, jim. thank you all for the update. really appreciate it.
+jim breitmeyer -- chief executive officer
+thank you.
+operator
+our next question comes from the line of carl byrnes from northland capital. please proceed with your question.
+carl byrnes -- northland securities -- analyst
+thanks for the question, and congratulations on your progress. with respect to zilo-301 and 302 studies, how many sites do you anticipate recruiting or participating in those studies? i think before, you were looking at around 50. and i guess my question is, has that changed given what's going on in eastern europe? thanks.
+jim breitmeyer -- chief executive officer
+go ahead, salim.
+salim yazji -- chief medical officer
+yes, i think we're monitoring this situation very closely. and, you know, the short answer is yes, we are trying to look into additional sites. and especially, eastern europe now it's kind of a little bit, you know, difficult to recruit there. so yes, we may go little bit beyond that.
+yeah.
+carl byrnes -- northland securities -- analyst
+great. thanks. that's helpful.
+jim breitmeyer -- chief executive officer
+thank you, carl.
+operator
+our next question comes from the line of kaveri pohlman with btig. please proceed with your question.
+unknown speaker
+hi. thanks. good afternoon. this is brian for kaveri.
+and thanks for the update and thanks for taking our question. just one from me regarding the use of zilovertamab in crpc. is the wnt5a signaling pathway providing the main biology and rationale for this trial? and is it really ror1 driven? our understanding is that ror2 is also our receptor for wnt5a. thank you.
+jim breitmeyer -- chief executive officer
+hi, brian. and thank you for standing in for kaveri today. so, the ror1 and ror2 can actually form a heterodimer, which can act as a receptor for wnt5a. and so the ror2 is, for us, kind of in the background.
+we're not targeting it because, first of all, our antibody doesn't target ror2. and it's also harder to target ror2 selectively on tumors because it has a broader distribution on normal tissues. so, the ror1 is highly expressed on prostate cancer. that's part of the rationale.
+the other is a very interesting data out of uc san diego that shows that in the bone tumor micro environment, the prostate cancer bone metastasis, that wnt5a is one of these absolutely most highly over expressed proteins. and so, we see the receptor for wnt5a. we see wnt5a. and that forms a nice rationale for prostate cancer.
+unknown speaker
+excellent. thank you so much for the very thorough answer, and thanks for the questions.
+jim breitmeyer -- chief executive officer
+you're welcome, brian.
+operator
+our next question comes from the line of kumar raja with brookline capital markets. please proceed with your question.
+shubhendu sen roy -- brookline capital markets -- analyst
+hi. i'm shubhendu for kumar. thanks for the update. could you provide some color to the 216 program? what is the strategy there to take it further? i mean, are you exploring collaborations or partnerships? and also, there were two patients that demonstrated cr, how are they doing now? and are there any other patients that are showing a similar response? thank you.
+jim breitmeyer -- chief executive officer
+i'll let salim comment on the patients first.
+salim yazji -- chief medical officer
+yeah. so, we still have, you know, two patients that are still in cr. one has been off treatment and continues to be in cr after eight months of therapy. and the other patient is still on cr on therapy.
+and we're going to continue giving the drug to these patients and maybe a compassionate use program since the cr is still durable.
+jim breitmeyer -- chief executive officer
+yes. and so as far as the program is concerned, we have, as we've announced, we're focusing our clinical programs particularly on the zilovertamab phase 3 study. however, we do have an nih grant with which we're collaborating with some academic investigators, including the discover of this form of ets inhibition, jeff toretsky, to do further work on the mechanism. the puzzle for us is that we are inducing these dramatic responses, but only in a very small percentage of cases.
+and so, we feel that it's necessary to know more about the mechanism. and so, we have a nondilutive source of funding for that research. there is an open ind to continue to study tk216, onct-216 in china through our collaborator, shanghai pharma. and we expect that study to -- in ewing sarcoma to open soon.
+and we expect they'd be doing some additional biomarker work and such to try to understand mechanistically what's occurring.
+shubhendu sen roy -- brookline capital markets -- analyst
+thank you. that is useful. and also, what's the cutoff date going to be for the phase 1/2 asco to be carried out? and how many patients do you expect to include in that? and what are the expectations in terms of point to points, like progression for survival and so on. thank you.
+jim breitmeyer -- chief executive officer
+were you asking the cutoff date?
+shubhendu sen roy -- brookline capital markets -- analyst
+yeah.
+jim breitmeyer -- chief executive officer
+so, as you can imagine, you know, the posters are due to asco on may 16th. and so, we've tried to go as late as we can and still process the information. the contents of what we're going to present are still embargoed by asco. but there would be updated information compared to the ash meeting for both cll and mantle cell, including a more mature look at progression-free survival and also further look at interesting subset analyses.
+shubhendu sen roy -- brookline capital markets -- analyst
+ok. thanks. and finally, just regards to the dana-farber collaboration, could you please provide some color to the kind of agreement this is? and, you know, any other details with regards to the kind of capacity they have and the timelines of manufacturing? and when do you think you'll have the first batch ready? thank you.
+jim breitmeyer -- chief executive officer
+thank you. so, it's a collaboration and manufacturing agreement. and you may recall that we're using a bench-top processing system called the miltenyi prodigy, and that's technology that the group at the dana-farber have quite a bit of experience with, and they own their own prodigy equipment. and so, we expect that by the times that we submit our ind, that several performance-characterizing runs will have been performed at the dana-farber and that they will be ready to manufacture as soon as sites are open and able to enroll patients.
+there will be -- they have indicated that they can handle capacity, both from sites in the harvard system and sites outside of massachusetts. and so, we're very happy with their apparent capacity here for our phase 1 program.
+shubhendu sen roy -- brookline capital markets -- analyst
+thank you so much for taking my questions.
+jim breitmeyer -- chief executive officer
+thank you for your questions. we appreciate your call today.
+operator
+there are no further questions in the queue. i'd like to hand the call back to management for closing remarks.
+jim breitmeyer -- chief executive officer
+thank you, everybody. this is jim breitmeyer. and so, on behalf of richard vincent, salim yazji, and everyone in oncternal, i thank you for your interest and participation today. have a good day, and we look forward to catching up with you in the future.
+operator
+[operator signoff]
+duration: 29 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+hartaj singh -- oppenheimer and company -- analyst
+salim yazji -- chief medical officer
+carl byrnes -- northland securities -- analyst
+unknown speaker
+shubhendu sen roy -- brookline capital markets -- analyst
+more onct analysis
+all earnings call transcripts",0.0,0.9834499999999999,2022-05-05 17:00:00,"prepared remarks:
+operator
+greetings and welcome to oncternal therapeutics, inc. third quarter 2022 financial results call. [operator instructions] it is now my pleasure to introduce your host, richard vincent, chief financial officer. thank you.
+you may begin.
+rich vincent -- chief financial officer
+thank you, doug. good afternoon, everyone, and thank you for joining us today as we cover our first quarter 2022 earnings. joining me on the call this afternoon are our president and ceo, dr. james breitmeyer; and our cmo, dr.
+salim yazji. today's call includes a business update and discussion of our 2022 first quarter financial results, which will be followed by q&a. today's press release and a replay of today's call will be available on the investor relations section of oncternal website for at least the next 30 days. we filed our 10-q for the first quarter 2022 earlier today as well.
+please note that certain information discussed on today's call is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events such as our business and this and product development strategies, the timing of initiation of our preclinical and clinical studies, the potential for our zilo-301 study to support a bla submission, the timing of planned interim data updates, and the timing of our regulatory filings and submissions. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business. these forward-looking statements should be considered in conjunction with, and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-k for the full year ended december 31, 2021.
+this call contains time-sensitive information that is accurate only as of the date of this live broadcast, may 5, 2022. we undertake no obligation to revise or update any forward-looking statements to reflect the events or circumstances occurring after the date of this call. with that, it is my pleasure to hand the call over to our ceo, dr. jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are advancing a focused and robust product pipeline with clinical and pre-clinical product candidates that target cancers for patients with unmet medical needs. during the first quarter of 2022, we further sharpened our focus on the achievement of key pipeline catalyst in immunologic malignancies in prostate cancer as we navigated an unprecedented challenging macro environment, which is obviously continuing in the second quarter, including today's stock market events. we made significant progress toward the initiation of our global phase 3 registrational study, zilo-301, for zilovertamab in patients with mantle cell lymphoma, which is planned to be initiated in the third quarter of 2022.
+zilovertamab is our investigational, potentially first-in-class humanized monoclonal antibody that inhibits receptor tyrosine kinase, like orphan receptor 1, or ror1, function by binding with high affinity to a biologically important epitope on the receptor. we continue to evaluate additional countries in study sites for the phase 3 study to ensure robust enrollment as we mitigate disruptions caused by the situation in ukraine. as a reminder, we reached consensus with the fda on the design and major details of the zilo-301 study plan, which is supported by encouraging data from our ongoing phase 1/2 clinical trial of zilovertamab in combination with ibrutinib, the cirll study. we look forward to providing a data update on that study at this year's american society of clinical oncology meeting in chicago in june 2022.
+our autologous car-t cell pro program targeting ror1, onct-808, also continues to advance and is on track for an ind filing in mid-2022. in our initial phase 1 study, we plan to enroll patients with relapsed or refractory hematologic malignancies, including those who have failed cd19 car-t cell therapy. we established a clinical manufacturing agreement with the dana-farber cancer institute to conduct collaborative cgmp process development and manufacturing activities for use in our upcoming first-in-human studies. our partners at the dana-farber have some of the best cell manufacturing facility in the world and proved to be a perfect fit with the cell processing technology we selected for our ror1 car-t program.
+research collaborations with cellularity and with the karolinska institute continue to generate encouraging data for our other next generation off-the-shelf ror1-based cell therapy program. next, onct-534, the lead candidate of our dual-action androgen receptor inhibitor, or daari program, continues to advance toward ind-enabling studies. onct-534 may be a highly differentiated and novel treatment alternative for patients with advanced prostate cancer as we believe it interacts with both the end terminal and the ligand binding domains of the androgen receptor, inhibiting its function and inducing its degradation. pre-clinical data have shown that onct-534 exerts anti-tumor activity in clinically relevant prostate cancer models, including those with ar amplification, enzalutamide resistance, or tumors expressing androgen receptor splice variants, such as ar-v7, all of which represent significant unmet medical needs for patients with prostate cancer.
+finally, we announced the deep prioritization of development of our e26 transformation-specific, or ets, inhibitor, onct-216, along with the discontinuation of enrollment in the phase 1/2 study, evaluating onct-216 in patients with relapsed or refractory ewing sarcoma. this resource reallocation will allow us to further focus on hematologic malignancies and prostate cancer while deploying our capital toward meaningful catalysts, especially those related to our lead asset, zilovertamab. let me now turn the call back to oncternal cfo, rich vincent.
+rich vincent -- chief financial officer
+thank you, jim. our grant revenue is derived from a california institute for regenerative medicine, or cirm, grant sub award and two research and development grants from the national institutes of health or nih. in october 2017, cirm awarded an $18.3 million grant to researchers at the uc san diego school of medicine to advance our cirll study. we are conducting this study in collaboration with uc san diego and expect to receive approximately $14.4 million in development milestones under research sub awards throughout the award period that was substantially completed from a revenue perspective in the first quarter of 2022.
+in the third quarter of 2021, the nih awarded the company two research and development grants for up to $2.2 million to support preclinical activities for the company's onct-534 and onct-216 programs, including 0.7 million that is payable to sub awardees. our grant revenue was $0.7 million for the first quarter ended march 31, 2022. our total operating expenses for the first quarter ending march 31, 2022, were 10.7 million, including 2 million in noncash stock-based compensation expense. research and development expenses totaled 7 million, and general and administrative expenses totaled 3.7 million.
+net loss for the first quarter was 9.9 million, or a loss of $0.20 per share, basic and diluted. as of march 31, 2022, we had 82.2 million in cash and cash equivalents and no debt. we believe these funds will be sufficient to support our operations well into the third quarter of 2023. we have and will continue to manage expenses deliberately and will explore all potential sources of capital to enable us to reach our milestones.
+as of march 31,2022, we had 49.4 million shares of common stock outstanding. with respect to upcoming milestones for our zilovertamab program, we expect to initiate the global registrational phase 3 study, zilo-301, in the third quarter of 2022. we expect to report an interim clinical data update for patients with mcl and cll treated with zilovertamab plus ibrutinib from our ongoing cirll study at the june 22 asco meeting. we also expect to have a phase 1b investigator-sponsored trial of zilovertamab plus docetaxel, enrolling patients with metastatic castration-resistant prostate cancer in mid-2022.
+on the cell therapy front, we are on track to submit our first ind for onct-808, our autologous ror1 car-t cell candidate in mid-2022. for onct-534, our lead daari product candidate, we are on track to initiate ind-enabling glp toxicology studies and gmp manufacturing in the second quarter of 2022. now, i will turn the call back over to jim.
+jim breitmeyer -- chief executive officer
+thank you, rich. we look forward to multiple catalysts in 2022, especially the initiation of our global phase 3 zilovertamab study and submitting our ror1 car-t ind application, and advancing our daari program toward the clinic. our sharp focus on resource allocation, prudent cash management, and the strong balance sheet are enabling us to navigate this historically challenging macro environment. we plan to continue to focus our resources on areas of the highest unmet patient need, where we believe our product candidates can make the greatest difference for patients.
+thank you for joining us today and we look forward to updating you during upcoming medical and banking conferences. with that, i will turn things back to doug for the q&a portion of this afternoon's call and remind you that cmo salim yazji is also on with us for the q&a.
+",2022-Q1,ONCT
+0.8917999999999999,,,,":
+operator
+thank you. [operator instructions] our first question is from hartaj singh with oppenheimer. please proceed with your question.
+hartaj singh -- oppenheimer and company -- analyst
+great. thanks, everyone for the update and the question. one is, it's great to see all the programs moving ahead. just when on the interim update, jim and team, looking at the p53 mutated cll patients, you saw some pretty, i would maybe even call an eye-opening data with the pfs, 36 months and 100%.
+i mean, what are your thoughts on cll? what are the sort of discussions you could have regulatory authorities on that, is it intriguing enough that you could run a trial just there with p53 mutated patients, are they easy to find in a clinical trial, put on clinical trials, just any thought there? and then secondly, can you just dig a little bit more into what your phase 1/2 will look like with the ror1 onct-808 car-t, is it a basket trial focused on patients, we've got cd19, etc. if you can just kind of dig into that a little bit more. thank you for the question.
+jim breitmeyer -- chief executive officer
+sure, hartaj, and thank you for the good questions. and so i'll answer the first one. salim can handle the second one. so we do believe that the very pleasantly surprising strong pfs result of 100% for patients with a p53 mutated cll is a -- does represent an opportunity for a registration strategy.
+we believe that about 50% of patients with cll carry one of these abnormalities, which can include both mutated p53 sequences, but also deletion of the p53 gene or portions of the chromosome. and so most patients are already typed for that, it's known to be a challenging characteristic for btk inhibitor treatment. and so we think that it would be -- we think there is a potential there for an additional registration strategy. we're headed back to the bench to try to figure out what is going on between ror1 and p53.
+we know there's got to be some interesting science there. so we hope to learn more about that in the near future. and so that's your first question and let salim talk about the phase 1 study for onct-808 our car-t.
+salim yazji -- chief medical officer
+yeah. thanks, jim. yeah, hartaj. i mean, what we're trying to do here is to have an aggressive lymphoma in our dose escalation phase, which is specifically is going to be diffuse large b-cell lymphoma and mcl.
+once we reach our recommended phase 2 dose, we're going to expand in those two indications and we may go into -- possibly into additional hematological indication.
+hartaj singh -- oppenheimer and company -- analyst
+great. thanks. and just a quick follow-up. jim, can you just put any kind of idea on the timing, you go back to bench, understand the science behind what's going on with the p53 abnormalities and then when would you kind of go and talk to regulators? i mean, is this sort of a 2023 event, maybe 2024, just any thoughts there? and salim, just in terms of just the patients you're talking about, are there any limitations just from your manufacturing, the sites that you choose for this ror1 car-t study? thanks for all the questions.
+jim breitmeyer -- chief executive officer
+so i think, i can get both of those, hartaj. and so we're -- first you were asking about the manufacturing side of the car-t program. is that right?
+hartaj singh -- oppenheimer and company -- analyst
+yep. yeah. yeah. and --
+jim breitmeyer -- chief executive officer
+yeah.
+hartaj singh -- oppenheimer and company -- analyst
+yeah.
+jim breitmeyer -- chief executive officer
+ok. and so we are -- we've got -- we are having a delightful collaboration with the cell processing facility at the dana-farber, actually some -- involving some people who i've known for decades. and they've got -- they have a vast amount of experience with the prodigy cell processing system that we're using that we think is going to be groundbreaking in the cell therapy field with a really different manufacturing model. and so we're working out all the logistics right now, but we think it's going to be pretty straightforward to get the patient's cells to boston and then their car-t product is frozen and can be transported back for infusion within a -- both ends of the supply chain are pretty straightforward.
+and then i think timing wise, we're -- as you know, we are being very careful with our cash reserves right now. and so the -- we won't be opening a cll study this year, certainly, or probably not next year. but we're hoping to have some science to talk about, really, as soon as we can generate it. i will say that a new indication and that could be game changing for 50% of cll patients is something that some strategic pharmaceutical companies are interested in.
+hartaj singh -- oppenheimer and company -- analyst
+yeah. great. thank you, jim. thanks for all the answers and the comments.
+jim breitmeyer -- chief executive officer
+thank you, hartaj.
+operator
+our next question is from carl byrnes with northland capital markets. please proceed with your question.
+carl byrnes -- northland capital markets -- analyst
+congratulations on all your progress and thanks for the questions. my question is on the p53 mutation were answered. so i'll move on to a couple of others. i'm wondering if you have any visibility into the timeline of data from the phase 1b investigator-sponsored trial at ucsd and prostate cancer? and then also considering the ind submission in august for onct-808, would you expect the timeline for first dose patient to be in the september-ish area? thanks.
+jim breitmeyer -- chief executive officer
+so for the -- i'll start on the -- in the investigator-sponsored study, we really don't have any control over the rate of enrollment or availability of data. so i can't -- i -- we know as much as you do, carl, and you usually know more than we do. but i'll let salim comment on the second question.
+salim yazji -- chief medical officer
+yeah. carl, can you please report -- repeat your second question, please?
+carl byrnes -- northland capital markets -- analyst
+yeah. this is with respect to onct-808, considering the ind is going to be filed in august, would it be safe to assume or would your expectation be the first patient dose would be in the september timeframe or whatever timeframe you would expect? thanks.
+salim yazji -- chief medical officer
+well, i mean, as you know, we're going to submit the ind end of august and it's will probably be 30 days hold-on period from the fda. so before we get the green light, there's no questions from the fda, that's probably going to put us until end of september, beginning of october. and i think with regard to the patients, i mean, once we get the irb approval and it's may take some time, it's going to be -- we're going to be all ready to go. but we are hoping to have our patients hopefully by before the end of this year.
+carl byrnes -- northland capital markets -- analyst
+great. thank you.
+jim breitmeyer -- chief executive officer
+thank you, carl.
+salim yazji -- chief medical officer
+thanks.
+operator
+our next question is from robert burns with h.c. wainwright. please proceed with your question.
+robert burns -- h.c. wainwright -- analyst
+hey, guys. thanks for taking my questions. just two if i may. so i know that you're going to be pursuing, patients who have received prior cd19 targeted therapy for the hematologic malignancies your ror1 targeted car-t.
+i was just curious, whether you're also thinking about solid tumors given the expression of ror1 and solid tumors express lung and stomach cancer. and then my second question, with -- your financial guidance for your operational runway, does that take into account clinical trials for both onct-808 and your lead daari assets?
+jim breitmeyer -- chief executive officer
+so i'll answer the first question and then we'll have rich talk to you about the cash runway. so, yes, we are very interested in extending our cellular immunotherapy program into patients with solid tumors. as you know very well, the current generation of car-t, even though they work so very well in liquid tumors have had a hard time overcoming the immunosuppressive microenvironment of solid tumors. and so i think that most people in the field feel like we do that, you're going to need some additional success factor to get somewhere with the solid tumors, like, checkpoint inhibition or tgf beta suppression, something -- those are the sorts of things that people are looking at.
+and so we're keeping our eyes open for potential add-on therapy to the car-t that would open up the solid tumor field. we could treat some solid tumor patients' kind of a basket trial without that technology, but we think that it would be more likely to succeed with additional tech. and rich, on the runway question.
+rich vincent -- chief financial officer
+sure. so, overall, our model or spend forecast does include what we've discussed today as our upcoming milestones and it also includes the initial studies for both onct-808 and onct-534 and this time price.
+robert burns -- h.c. wainwright -- analyst
+awesome. thanks, guys.
+jim breitmeyer -- chief executive officer
+and rich and i have always been very thrifty and we're going to stay that way.
+robert burns -- h.c. wainwright -- analyst
+sound good. sounds good.
+operator
+our next question is from kumar raja with brookline capital markets. please proceed with your question.
+kumar raja -- brookline capital markets -- analyst
+thanks for taking my questions and also congratulations on the progress. with regard to onct-808, what are your expectations in terms of the starting dose and how soon do you think you can get to the recommended phase 2 dose?
+jim breitmeyer -- chief executive officer
+yes. kumar, thank you for the question. we're going to start at a dose of one-times 10 to the six t cells per kilogram of ideal body weight and that is a starting dose that fda already agreed we could use in pre-ind discussions and we think then that we can get to a recommended dose with three, maybe four, but just a few dose levels. we think we'll be able to get there pretty quickly.
+kumar raja -- brookline capital markets -- analyst
+ok. and you will have sales from like a single manufacturing run to do all these dose escalations?
+jim breitmeyer -- chief executive officer
+yeah. we're getting with healthy donor leukopaks. we're getting massive have numbers of car-t cells with very high expression levels. and so we can make -- we appear to be able to make more car-t cells then we're going to need.
+kumar raja -- brookline capital markets -- analyst
+ok. and with regard to the clinical agreement with the pharmacyclics for supplement of ibrutinib, how much involvement will they have in the clinical trials, and what kind of expectations are there from oncternal for this?
+jim breitmeyer -- chief executive officer
+so it's -- we're having -- we're enjoying a really good working relationship with the pharmacyclics and abbvie clinical team. they have provided some very helpful advice in terms of the study design and some elements, their experience with ibrutinib is very valuable here. and so, they have -- we -- if we make changes in the protocol, we would welcome their assistance with any modifications that we make. and but i think, to be clear, they don't have any commercial rights to the product gained from this relationship.
+kumar raja -- brookline capital markets -- analyst
+ok. finally, with regard to onct-534, following the pre-ind interactions with the fda, what do you think would be the timing of ind filing for that?
+jim breitmeyer -- chief executive officer
+so, salim, i'll take this on me, because of the preclinical question. there's an interesting covid-related thing going on right now and you may have heard this from some of the other companies that you follow. but there is a worldwide shortage of beagle dogs for preclinical toxicology work. and it's going to take some time for it -- believe it or not, for the dog supply to catch up with the demand and that's the species that everybody uses for tox studies.
+and so we're in a little bit of a holding pattern right now for the timing of finishing our tox work. we're confident that we'll have an ind next year, but we're not guiding to a date at this point.
+kumar raja -- brookline capital markets -- analyst
+great. thanks so much.
+jim breitmeyer -- chief executive officer
+all right.
+operator
+we have reached the end of the question-and-answer session. and i will now turn the call over to ceo, jim breitmeyer for closing remarks.
+jim breitmeyer -- chief executive officer
+so thank you everybody for joining us today. we were pleased to pass along our significant progress and delighted to be able to interact with such good questions with those who are following the company. and so, with that, thank you and good day to everyone.
+operator
+[operator signoff]
+duration: 0 minutes
+call participants:
+rich vincent -- chief financial officer
+jim breitmeyer -- chief executive officer
+salim yazji -- chief medical officer
+hartaj singh -- oppenheimer and company -- analyst
+carl byrnes -- northland capital markets -- analyst
+robert burns -- h.c. wainwright -- analyst
+kumar raja -- brookline capital markets -- analyst
+more onct analysis
+all earnings call transcripts",1.0,1.0,2022-08-09 17:00:00,"prepared remarks:
+operator
+greetings. welcome to the oncternal therapeutics, inc. second quarter 2022 financial results call. [operator instructions] please note this conference is being recorded.
+i will now turn the conference over to your host, rich vincent, cfo. you may begin.
+rich vincent -- chief financial officer
+thank you, kyle. good afternoon, everyone, and thank you for joining us today. joining me on the call this afternoon are our president and ceo, dr. james breitmeyer; and our cmo, dr.
+salim yazji. today's call includes a business update and discussion of our 2022 second quarter financial results, which will be followed by q&a. today's press release and a replay of today's call will be available on the investor relations section of oncternal website for at least the next 30 days. our 10-q for the second quarter 2022 is also available today.
+please note that certain information discussed on today's call is covered under the safe harbor provisions of the private securities litigation reform act. we will be making forward-looking statements during this call about future events, such as our business and product development strategies, the timing of initiation of our preclinical and clinical studies, the potential for our zilo-301 study to support a bla submission, the timing of planned interim data updates, and the timing of our regulatory filings and submissions, including our ind submission for onct-808. our actual results could differ materially from those stated or implied by these forward-looking statements due to risks and uncertainties associated with our business. these forward-looking statements should be considered in conjunction with and are qualified by the cautionary statements contained in today's press release and our sec filings, including our form 10-k for the full year ended december 31st, 2021.
+this call contains time-sensitive information that is accurate only as of the date of this live broadcast, august 9th, 2022. we undertake no obligation to revise or update any forward-looking statements to reflect the events or circumstances occurring after the date of this call. with that, it is my pleasure to hand the call over to our ceo, dr. jim breitmeyer. 
+jim breitmeyer -- chief executive officer
+thank you, rich, and good afternoon, everyone. at oncternal, we are advancing a focused and robust product pipeline with clinical and preclinical product candidates that target cancers for patients with unmet medical needs. during the second quarter of 2022, we made significant progress across our entire pipeline, including an encouraging data update at asco from a phase 1/2 study of zilovertamab plus ibrutinib in patients with mcl and cll, which sets -- so i was saying that we were especially encouraged by our interim data from patients with p53 mutated cll that we presented at asco. this is a challenging population to treat with current standard-of-care btk inhibitor monotherapy and the combination of zilovertamab plus ibrutinib showed very robust progression-free survival.
+also in support of our upcoming phase 3 study zilo-301, we entered into a clinical trial collaboration and supply agreement with pharmacyclics, an abbvie company, for their gracious donation of ibrutinib to support our global registrational program. this is an important milestone, which further validates the clinical value testing ibrutinib with zilovertamab. next, onct-808, our autologous car-t product candidate targeting ror1 also continued to advance and is on track for an ind filing this month. we are enjoying strong collaborations with our partners, which include the dana-farber cancer institute, cell manipulation core facility, along with lentigen, and miltenyi biotec.
+on the allogeneic our off-the-shelf, our research collaborations with celularity and the karolinska institute continued to generate encouraging data for our next-generation ror1-based cell therapies. finally, onct-534, our lead candidate for the dual-action androgen receptor inhibitor or daari program, continued to advance toward an ind filing and we expect to have pre-ind interactions with the fda in the fourth quarter of this year. we are optimistic that onct-534 may be a differentiated and novel treatment alternative for patients with advanced prostate cancer, as we believe it interacts with both the end terminal and the ligand binding domains of the androgen receptor, inhibiting its function and inducing its degradation. pre-clinical data have shown that onct-534 exerts anti-tumor activity in clinically relevant treatment-resistant prostate cancer models, including those with ar amplification, enzalutamide resistance, or expressing androgen receptor splice variants, such as ar-v7, all of which represent significant medical unmet needs for patients with prostate cancer.
+this broad advancement of our pipeline has occurred against the backdrop of a focused execution and vigilant resource cash management approach. now let me turn the call over to oncternal's cmo, salim yazji to discuss our zilovertamab clinical data and phase 3 plans in more detail.
+salim yazji -- chief medical officer
+thank you, jim. good afternoon. as jim mentioned, we recently presented very encouraging data from our ongoing phase 1/2 clinical trial of zilovertamab in combination with ibrutinib at the asco meeting in june. and overall response rate of 85% and the cr rate to 41% for patients with mcl treated with zilovertamab plus ibrutinib, which compares favorably to the historical overall response rate of 66% and the cr rate of 20% for ibrutinib monotherapy.
+median pfs of 35.9 months for mcl patients with a median follow-up of 15.1 months, which is also compares favorably to the historical pfs of 12.8 months for ibrutinib monotherapy. for patients with p53 mutation, the median pfs was 17.3 months, which is compared again favorably to historical ibrutinib median pfs of four months. in patients with p53 mutated cll the landmark pfs of zilovertamab plus ibrutinib was 100% at 24 months and 100% at 30 months, which compares favorably to the historical ibrutinib monotherapy landmark pfs of around 68% and around 55% at 24 months and 13 months, respectively. as you may know, mutation and/or loss of p53 protein is a well-known negative prognostic factor in many types of cancer, causing genomic instability and loss of tumor suppression.
+the combination of zilovertamab continue to be well tolerated with the safety profile consistent with or slightly improved compared to historical data for ibrutinib monotherapy. for example, in patients with mcl grade 3 and 4 neutrophil decreased was documented in only 9.1% of the patients with zilovertamab plus ibrutinib, compared to 29% for ibrutinib alone from its registrational study. in terms of upcoming phase 3 study zilo-301, we are on track to initiate the study later this quarter, as we are currently completing key ramp-up activities, including site selection and irb submissions. as a reminder, zilo-301 will identify patients with relapsed/refractory mcl, who have only had stable disease or reach a partial response after receiving four months of ibrutinib monotherapy and will randomize them to receive either blinded zilovertamab or placebo plus ibrutinib.
+this study may provide two potential approvals. first, an escalated approval based on overall response rate, orr, plus duration of response, dor. and second a regular fda approval based on progression-free survival of pfs, which is the primary endpoint. additionally, we are planning to conduct zilo-302, an open-label companion study of zilovertamab plus ibrutinib for patients who have progression -- progressive disease during the ibrutinib monotherapy run-in phase of the study of zilo-301 and result of the study could potentially support an additional approval and indication expansion.
+regarding onct-808, the lead candidates of our autologous ror1 targeting car-t program, we are on track to submit our ind later this month. in our initial phase 1 study, we plan to enroll patients with relapsed/refractory aggressive lymphomas, including patients who have failed cd19 car-t cell therapy. i will turn the call over to our cfo, rich vincent to review our financial results and upcoming milestones.
+rich vincent -- chief financial officer
+thank you, salim. our revenue is derived from a california institute for regenerative medicine or cirm grant sub-award and two research and development grants from the national institute of health or nih. in october 2017, cirm awarded an $18.3 million grant to researchers at the uc san diego school of medicine to advance our phase 1/2 study cirm-0001. we have conducted a study in collaboration with uc san diego and expect to receive $14.6 million in development milestones under research subawards throughout the award period, which was substantially completed from a revenue perspective in the first quarter of 2022.
+in the third quarter of 2021, the nih awarded the company two research and development grants for up to $2.2 million to support preclinical activities for the company's onct-534 and onct-216 programs. our grant revenue for the second quarter ended june 30th, 2022, was $0.2 million. our total operating expenses for the second quarter ended june 30th, 2022, was $12 million, including $1.7 million a non-cash stock-based compensation expense. research and development expenses totaled $8.8 million, and general and administrative expenses totaled $3.2 million.
+net loss for the second quarter was $11.7 million or a loss of $0.23 per share basic and diluted. cash flows from financing activities include our first use of the aftermarket program of jefferies llc as our sales agent. through june 30th, 2022, the company sold 2.7 million shares of common stock for a net proceeds of $3.9 million. as of june 30th, 2022, we have $78.9 million in cash and cash equivalents and no debt.
+we believe these funds will be sufficient to support our planned operating activities into the first half of 2024. we have and will continue to manage our cash and all other resources deliberately. as of june 30, 2022, we had $52.2 million shares of common stock outstanding. to summarize our upcoming milestones, for our zilovertamab program, we expect to initiate the global registrational phase 3 study zilo-301 in september 2022 and provide an interim clinical data update from our phase 1/2 study of zilovertamab plus ibrutinib in patients with mcl and cll in the fourth quarter of 2022.
+for onct-808, our lead autologous ror1 car-t cell therapy candidate, we plan to submit our first ind in august 2022. for onct-534, our lead daari product candidate, we expect to have pre-ind interactions with the u.s. fda in the fourth quarter of 2022. with that, i will turn the call back over to james.
+jim breitmeyer -- chief executive officer
+thank you, rich. oncternal has performed well in this historically challenging macro environment. we plan to continue to use our capital and resources efficiently, as we advance our focused pipeline toward significant value inflection points that we believe will make a difference for patients suffering from hematologic malignancies and prostate cancer. we look forward to events later this quarter, especially the planned initiation of our global phase 3 zilovertamab study and also submitting our ror1 car-t ind application, as well as advancing our daari program toward the clinic.
+thank you for joining us today and we look forward to updating you over the year and at conferences. with that, i will turn things back to kyle for the q&a portion of this afternoon's call.
+",2022-Q2,ONCT

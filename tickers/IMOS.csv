@@ -1,0 +1,663 @@
+q,ticker,dt,prep_remarks,QnA
+2020-Q4,IMOS,2021-03-16 03:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos fourth quarter and full year 2020 results conference call. [operator instructions] a question-and-answer session will follow the formal presentation.
+i would now like to turn the conference over to dr. g.s. shen of chipmos technologies strategy and investor relations team to introduce the management team of the company in conference. dr. shen, you may begin.
+g.s. shen -- deputy director of strategy and investor relations
+thank you, operator. welcome everyone to chipmos' fourth quarter and full year 2020 results conference call. joining us today from the company are mr. s.j. cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations. s.j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s.j. will provide our current business outlook. all company executives will then participate in an open q&a session.
+please note, we have posted a presentation on the mops and the chipmos' website www.chipmos.com to accompany today's conference call. before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation. as a reminder, today's conference call is being recorded and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j. cheng. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+yes, thank you, gs. we appreciate everyone joining our call today. we are pleased with our strong results for the full year 2020. we achieved record revenue growth through the year. the year was unique and full of challenges for everyone. our team did an excellent job supporting customers through the global pandemic, trade tensions and widespread supply chain tightness.
+we are very pleased to report revenue for the full year 2020 grew 13.1% over the full year 2019. we ended the year with a new quarterly record high revenue level in q4 2020. gross margin expanded 260 basis points for the full year to 21.9% compared to the full year 2019. for q4, gross margin was up 510 basis points compared to q3 2020. gross margin benefited from higher utilization levels and price increases for ddic test and memory assembly.
+our q4 assembly utilization level increased significantly to 97%, with an uptick in testing and assembly programs. capacity remains tightened. new added assembly capacity we added was reserved in support of customer programs in advance. our high-end ddic test platforms, including new capacity we added in q4, were also fully utilized in support of strong tddi demand. the average utilization level was up to 85%.
+regarding our manufacturing business, assembly represented more than 26% of q4 revenue. testing represented around 20% of q4 revenue and wafer bumping represented around 23.5% of q4 revenue. on a product segment basis, our ddic, including cog and cof, was around 30% of q4 revenue and gold bumping represented around 19.5% q4 revenue. revenue from dram and sram represented 18.5% of q4 revenue and our flash segment represented 23.4% of q4 revenue. the mixed-signal segment represented around 8.5% of q4 revenue.
+in terms of adding color on our two major businesses, our memory product benefited from strong demand across all end markets with growth in servers, cloud computing, iot, mobile and more. we were able to increase assembly prices to offset higher material costs and tightened capacity. you can see that positive impact in our higher gross margin. memory products represented around 42% of total q4 revenue. this is an increase of more than 10% in q4 compared to q3 and an increase of 11.6% compared to q4 2019. 2020 full year memory product revenue significantly increased 18.6% compared to 2019.
+dram revenue was up 11.4% year-over-year and increased 6% compared to q3. total flash revenue grew 13% in q4 compared to q3. this reflects the significant growth of nor and mask rom, led by strong demand from gaming and new product launches. lastly, our nand flash business grew 14%, led by increasing demand from module customers. this represented about 30% of our total q4 flash revenue.
+as for driver ic-related product, we continue to benefit from higher prices, with tddi volumes increasing from new 5g smartphone launches. driver ic-related product revenue increased around 11.7% in q4 compared to q3 and was up around 20% year-over-year. this represented around 49.6% of total q4 revenue. 2020 full year driver-ic related product revenue grew around 11% compared to 2019.
+revenue from gold bumping in q4 increased around 11.4% compared to q3. ddic assembly and test revenue grew 12% in q4, driven by the strong demand for tddi products and test price increases with our mid to high-end wafer test platforms fully utilized. as i mentioned earlier, we are carefully adding new capacity, which has already been reserved by customers in advance. lastly, the cog package format accounted for more than 60% of q4 ddic revenue, with tddi representing about 34% of q4 ddic revenue. our high-end ddic test platforms, including new capacity we added in q4, were fully utilized reflecting the strong tddi demand we continue to see.
+on an end-market basis, revenue from smartphones increased to 37% of q4 revenue, with 12% from automotive and industrial. tv as an end market accounted for 16% of q4 revenue, with computing at 12% and consumer at 23%.
+now let me turn the call to ms. silvia su to review the fourth quarter and full-year 2020 financial results. silvia, please go ahead.
+silvia su -- director of finance and accounting management
+thank you s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of nt$28.08 against $1.00 as of december 31, 2020. all the figures were prepared in accordance with taiwan-international financial reporting standards.
+page12, consolidated operating results summary. for the fourth quarter of 2020, total revenue was nt$6,310 million. net profit attributable to the company was nt$687 million in q4. net earnings for the fourth quarter of 2020 were nt$0.94 per basic common share or $0.67 per basic ads. ebitda for q4 was nt$2,219 million. ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q4 was 13.4%.
+page13, consolidated statements of comprehensive income compared to 3q '20. total 4q '20 revenue increased 11% compared to 3q '20. 4q '20 gross profit was nt$1,541 million, with gross margin at 24.4% compared to 19.3% in q3. this represents an increase of 5.1 ppts. our operating expenses in q4 were nt$413 million, or 6.5% of total revenue, which is about a 4.7% improvement compared to q3. operating profit for q4 was nt$1,160 million, with q4 operating margin at 18.4%, which is about a 5.8 ppts improvement compared to q3.
+net non-operating expenses in q4 were nt$278 million. the difference between q4 and q3 is mainly due to the increase of the share of loss of associates accounted for using equity method of nt$49 million and the increase of foreign exchange loss of nt$47 million. profit attributable to the company in q4 expanded 62.1% compared to q3. the difference between q4 and q3 is mainly due to the increase of the gross profit of nt$446 million and partially offset by the increase net non-operating expense of nt$99 million and the income tax expense of nt$80 million. basic weighted average outstanding shares were 727 million shares.
+compared to 4q '19, total revenue for 4q '20 was up 13.3%. gross margin at 24.4% increased 1.7 ppts compared to 4q '19. operating expenses increased 5.3% compared to 4q '19. operating profit margin at 18.4% increased 2.2 ppts compared to 4q '19. net non-operating expenses in q4 were nt$278 million, which increased 23.5% compared to 4q '19. profit were up 29.5% compared to 4q '19. the difference between 4q '20 and 4q '19 is mainly due to the increase of the gross profit of nt$275 million and partially offset by the increase in net non-operating expense of nt$53 million and the income tax expense of nt$50 million.
+page14, consolidated statements of comprehensive income compared to last year. total revenue for 2020 was nt$23,011 million, which is up 13.1% compared to 2019. gross margin increased to 21.9%, up 2.6 ppts compared to 2019. our operating expenses in 2020 were nt$1,601 million, which was up 2.5% compared to 2019. operating profit margin in 2020 was 15.5%, an improvement of 3.4 ppts compared to 2019. net non-operating expense in 2020 was nt$593 million. the difference primarily reflects the one-time gain of nt$982 million we recognized in 2019 on the disposal of investment accounted for using equity method and the increase of foreign exchange loss of nt$200 million.
+net profit in 2020 was nt$2,368 million, an 8.4% decline from 2019. the difference primarily reflects the one-time gain of nt$982 million we recognized in 2019 on the disposal of investment accounted for using equity method, the increase of foreign exchange loss of nt$200 million, income tax expense of nt$160 million and partially offset by the increase of gross profit of nt$1,106 million. net earnings for the year of 2020 were nt$3.26 per basic common share compared to nt$3.55 per basic common share for 2019.
+page15, consolidated statements of financial position and key indices. total assets at the end of 4q '20 were nt$35,081 million. total liabilities at the end of 4q '20 were nt$14,249 million. total equity at the end of 4q '20 was nt$20,832 million. accounts receivable turnover days in 4q '20 were 73 days, compared to 74 days in q3. inventory turnover days was 40 days in 4q '20, compared to 44 days in q3.
+page16, consolidated statements of cash flows. as of december 31, 2020, our balance of cash and cash equivalents was nt$4,114 million, compared to nt$590 million at the beginning of the year. free cash flow for the year was nt$1,559 million compared to negative nt$133 million in 2019. the difference is mainly due to our increased operating profit of nt$1,109 million and decreased capex of nt$763 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum.
+page 17, capital expenditures and depreciation. we invested nt$1,760 million in capex in q4 and nt$4,134 million in capex in 2020. the breakdown of capex was 3.9% for bumping, 60.4% for lcd driver, 25.7% for assembly and 10% for testing. depreciation expenses were nt$1,060 million in q4. depreciation expenses were nt$4,176 million in 2020. as of february 28, 2021, the company's outstanding ads number was approximately 4.0 million units, which represents around 11.7% of the company's outstanding common shares.
+that concludes the financial review. i will now turn the call back to our chairman mr. s.j. cheng for our outlook. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+thank you, silvia. as we look forward in 2021, we expect positive trends in both memory and ddic products will continue. semiconductor demand has been increasing with the big hurdle being supply constraints. we expect to benefit from the increasing demand and customer restocking. in the meantime, the strong demand with capacity constraints supports higher prices. we are strategically adding capacity with customers locking-up the capacity.
+in memory, we increased the assembly price to reflect the higher cost of materials and the tightened capacity situation. we are benefiting from momentum in dram with customers restocking. we expect flash businesses, including nor and nand, will continue to grow as we move through 2021. new adding assembly capacity are all reserved in advance for support customer's demand.
+in ddic, to reflect the whole supply chain tightness, around 5%, 10% [phonetic] of each process step price increase should settle down in q1. we also expect to gain more allocation share, with cof utilization level for tv on track for further improvement. we also expect to benefit from continued strong demand levels in smartphone for tddi. new capacity, including what we added in q4, are also all reversed in advance by take or pay contracts to meet the strong tddi demand.
+finally, we are continuously driving higher profit through increased ai and automation to further reduce operating costs. reflecting our business strength and positive outlook, our board approved another dividend. pending shareholder approval at our may agm, we will distribute nt$2.2 per common share.
+operator, that concludes our formal remarks, we can now take questions.
+",":
+operator
+thank you. at this time, we will be conducting a question-and-answer session. our first question comes from the line from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+chairman, silvia and everybody. there are some questions from our side. the first one is regarding to the outlook for memory and driver ic, which will perform better in 2021? would you please talk about the outlook for q1 2021, such as revenue and gross margin since the base for q4 2020 has already been high?
+shih-jye cheng -- chairman and director/president
+jerry, to answer your question, there were only 28 work days in february and we spent one day for annual facility maintenance. so, overall the total work days in q1 were significantly less than q4 last year. based on our current business momentum for the first half of this year and the reported revenue for january and february, we are confident that the q1 revenue will be flattish to q4, and also the gross margin.
+jerry su -- credit suisse -- analyst
+do you mean the gross margin will be close to the q4?
+shih-jye cheng -- chairman and director/president
+yes, we think it should be close to q4 '20. however, overtime costs for the chinese new year holiday were normally higher. so, there will be some impact.
+jerry su -- credit suisse -- analyst
+okay. besides, could you guide the capex and depreciation of this year?
+silvia su -- director of finance and accounting management
+jerry, let me answer your question. i assume what you mean this year is for 2021.
+jerry su -- credit suisse -- analyst
+yes.
+silvia su -- director of finance and accounting management
+the capex for 2020 is around nt$4,100 million. it accounted below 20% of annual revenue. as for this year, as chairman just mentioned, we are optimistic for the industry and business in 2021. so, our capex should be around 20% to 25% of annual revenue for 2021 and the amount will be higher than last year. for depreciation, the q4 2020 amount was about nt$1,060 million. q1 2021 should be between nt$1,100 million to nt$1,200 million. in the following quarters for q2, q3, q4, it will be increased 3% to 4% quarterly. this is how we roughly look at the depreciation in 2021.
+jerry su -- credit suisse -- analyst
+so, it will be around nt$1,100 million to nt$1,200 million for q1, and then increasing 3% to 4% quarterly?
+silvia su -- director of finance and accounting management
+yes.
+jerry su -- credit suisse -- analyst
+got it. we just talked about the guidance for capex will be 20% to 25% of annual revenue. we would like to ask chairman to give a guidance for the revenue 2021.
+shih-jye cheng -- chairman and director/president
+jerry, let me answer you this way. normally, chipmos would not provide the financial guidance. based on the revenue outlook for the first half and contracts we have signed with customers, we are very optimistic for 2021. the annual revenue can possibly grow with double digits. we are also targeting for gross margin to be better than last year. regarding to the profit, it should also be better than last year, based on the targeted growth of revenue and maintaining the gross margin, and also the material cost could be reflecting to customer. so, if that scenario happens, the dividend would also be better than last year.
+jerry su -- credit suisse -- analyst
+okay, got it. the last question is about non-operating portion from my reading the financial report, suppose the major loss was from unimos by using equity method. if it looks like the loss is getting smaller year on year, could you please provide current status of unimos? when could we expect it can become profitable?
+shih-jye cheng -- chairman and director/president
+let me answer your question. the previous major shareholder was unigroup, and it transferred to ymtc two years ago. so, the major shareholder is ymtc, and unigroup is no longer holding any shares. this is first point. secondly, ymtc would like to better plan for this back-end operation, so it recognized one-time depreciation for non-flash-related product line. so, this year could be turned profitable since the demand for whole back-end industry is still very tight. for the long term, we will continue to survey suitable investors to proceed in the most beneficial way to shareholders and chipmos in the right time. it will take some time.
+jerry su -- credit suisse -- analyst
+okay. thank you, chairman. there are two more questions. first, chairman just mentioned a lot about tddi. could you please talk about oled status?
+shih-jye cheng -- chairman and director/president
+the growth for oled will be significant this year since the oled panel maker in china and also our customers, including china and taiwan, all grow in this segment. so, the ratio from this portion will grow.
+jerry su -- credit suisse -- analyst
+okay, got it. the second question, i would like to ask silvia about the capex. does the capex guidance include any factory building or land or just all for capacity expansion in equipment?
+silvia su -- director of finance and accounting management
+the mentioned capex would be 20% to 25% of annual revenue, which includes some building and land expansion.
+jerry su -- credit suisse -- analyst
+so, will it be by reconstruction or new building?
+shih-jye cheng -- chairman and director/president
+the expansion will be done by reconstruction. our construction rate is still within the regulation of the science industrial park, which allows us to do reconstruction to expand the floor space. and we also removed some older machines to optimize the process flow, and introduced automation and ai to improve the production efficiency in order to increase the capacity.
+jerry su -- credit suisse -- analyst
+okay, understood. thanks.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to gs.
+g.s. shen -- deputy director of strategy and investor relations
+thank you. i will orally read some questions from foreign institutional investors, who could not attend this mandarin call.
+the question is asking about the company expect it will be cash flow positive for the year 2021?
+jesse huang -- senior vice president of strategy and investor relations
+we were free cash flow positive for the full-year 2020 after a deficit in 2019. we are cautiously optimistic and confident about 2021. we are targeting to achieve positive free cash flow again in 2021 depending on our final capex budget and dividends paid to shareholders.
+g.s. shen -- deputy director of strategy and investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j. cheng for any closing comments.
+shih-jye cheng -- chairman and director/president
+thank you everyone for joining our conference call. please email our ir team, if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator closing remarks]
+duration: 26 minutes
+call participants:
+g.s. shen -- deputy director of strategy and investor relations
+shih-jye cheng -- chairman and director/president
+silvia su -- director of finance and accounting management
+jesse huang -- senior vice president of strategy and investor relations
+jerry su -- credit suisse -- analyst
+more imos analysis
+all earnings call transcripts
+
+
+
+
+"
+2021-Q1,IMOS,2021-05-11 03:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos first quarter 2021 results conference call. [operator instructions] i would now like to turn the conference over to dr. g.s. shen of chipmos technologies strategy and investor relations team to introduce the management team of the company in conference. dr. shen, you may begin.
+dr. g.s. shen, -- deputy director of strategy and investor relations
+thank you, operator. welcome, everyone, to chipmos first quarter 2021 results conference call. joining us today from the company are mr. s.j. cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations.
+s.j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s.j. will provide our current business outlook. all company executives will then participate in an open q&a session.
+please note, we have posted a presentation on the mops and the chipmos website, www.chipmos.com to accompany today's conference call.
+before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation.
+as a reminder, today's conference call is being recorded, and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j. cheng. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+yes. thank you, g.s. we appreciate everyone joining our call today. we achieved record quarterly revenue in q1 2021. our performance in q1 was even more impressive given this is normally a seasonal low period. we are very pleased with our record q1 revenue and with our team's continued execution.
+let me give you some highlights from the quarter. first, revenue for the q1 2021 increased 15.7% year-over-year to a new record high and grew 2.5% from the prior to q4 2020. gross margin declined 20 basis points for q1 2021 to 24.2% compared to q4 2020 as we grew despite headwinds from higher materials and supply chain costs in q1.
+operating expenses declined to 6.6% of revenue in q1 from 7.1% in the year ago period as we continue to focus on supply chain costs and driving operating efficiencies. eps for the first quarter of 2021 was twd1.32, which increased 40.4% from the prior q4 2020 and increased 34.7% compared to q1 2020.
+given our business strength, demand strength and balance sheet strength, our board of directors has already approved the 2020 dividend of twd2.2 per common share. this is pending shareholder approval at our agm. we expect our 2021 dividend will be higher than 2020 based on our positive business trends and cautiously optimistic 2021 outlook.
+i am also pleased to report we improved overall utilization to 86% from 79% in q1 2020 and 85% in q4 2020. q1 assembly utilization level increased to 95%, up from 81% in q1 2020 with tightness continuing from q4. testing also significantly increased to 81% compared to q4 2020.
+our high-end ddic test platforms, including new capacity we added in q1 were also fully utilized in support of strong customers demand. both bumping and lcd driver were improved in first quarter.
+regarding our manufacturing business, assembly was up and represented about 28.8% of q1 revenue. testing represented around 21% and wafer bumping represented more than 21% of q1 revenue.
+on a product segment basis, our ddic, including cog and cof, was more than 29%, and gold bumping represented around 17.6% of q1 revenue. revenue from dram and sram represented 16.4% of q1 revenue. our flash segment and the mixed-signal segment represented around 27% and 10% of q1 revenue, respectively. in the meantime, mixed-signal products segment grew around 30% compared to q4 2020.
+in terms of adding color on our business, our memory product benefited from strong demand across all end markets with growth in servers, iot and gaming. revenue was up 18.6% compared to q1 2020 and up about 5% compared to q4 2020. memory products represented around 43.3% of total q1 revenue. total flash revenue grew 40% compared to q1 2020 and grew 16% compared to q4 2020. the nor and mask rom grew more than 90% compared to q1 2020 and grew 13% compared to q4 2020.
+our nand flash business also grew significantly, increasing 23% over q4 2020. this represented about 31.5% of our total q1 flash revenue. dram revenue declined about 6.6% compared to q1 2020 and 9.4% compared to q4 2020.
+moving to driver ic-related product revenue. this increased 14% compared to q1 2020 and slightly down about 4% compared to q4 2020. this represented around 46.8% of total q1 revenue. total ddic revenue was up more than 11% year-over-year and down just slightly about 0.5% compared to q4. we are pleased with our progress and are also benefiting from an increased allocation share on some key customer cooperation projects. this helped drive an improvement in the ddic revenue ratio of cof to about 43% in q1, with cof utilization level for tv and nb also increasing.
+our high-end ddic test platforms, including new capacity we added in q1 were fully utilized, reflecting the strong demand we continue to see. the tddi representing about 31% and oled representing about 3% of q1 ddic revenue.
+on an end market basis, revenue from automotive and industrial significantly increased to 13% of q1 revenue. smart phones and tv as an end market accounted 36.5% and 15.5%, respectively. computing represented about 12% and consumer represented about 23% of q1 revenue.
+now let me turn the call to ms. silvia su to review the first quarter 2021 financial results. silvia, please go ahead.
+silvia su -- director of finance & accounting management
+thank you, s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of twd28.48 against $1 as of march 31, 2021. all the figures were prepared in accordance with taiwan international financial reporting standards.
+referencing presentation page 12, consolidated operating results summary. for the first quarter of 2021, total revenue was twd6,465 million. net profit attributable to the company was twd959 million in q1. net earnings for the first quarter of 2021 were twd1.32 per basic common share or $0.93 per basic ads. ebitda for q1 was twd2,287 million. ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q1 was 18%.
+referencing presentation page 13, consolidated statements of comprehensive income. compared to 4q '20, total 1q '21 revenue increased 2.5% compared to 4q '20. 1q '21 gross profit was twd1,562 million, with gross margin at 24.2% compared to 24.4% in 4q '20. this represents a decrease of 0.2 ppts. our operating expenses in 1q '21 were twd425 million or 6.6% of total revenue, which is about a 2.9% improvement compared to 4q '20. operating profit for 1q '21 was twd1,160 million, with operating profit margin at 17.9%, which is about a decrease of 0.5 ppts compared to 4q '20.
+net nonoperating income in 1q '21 were twd25 million compared to net nonoperating expense in 4q '20. the difference is mainly due to the decrease of foreign exchange loss of twd152 million and the increase of the share of gain of associates accounted for using equity method of twd142 million. profit attributable to the company in 1q '21 expanded 39.7% compared to 4q '20. the difference is mainly due to the increase of the gross profit of twd20 million and net nonoperating income of twd303 million and partially offset by the increase of income tax expense of twd30 million.
+basic weighted average outstanding shares were 727 million shares. compared to 1q '20, total revenue for 1q '21 was up 15.7%. gross margin at 24.2% increased 1.5 ppts. operating expenses increased 7.2%. operating profit margin at 17.9% increased 1.8 ppts. net nonoperating income in 1q '21 were twd25 million compared to net nonoperating expenses in 1q '20. the difference is mainly due to the increase of the share of gain of associates accounted for using equity method of twd69 million, the decrease of interest expense twd13 million and partially offset by the increase of foreign exchange loss twd55 million.
+profit was up 34.6% compared to 1q '20. the difference is mainly due to the increase of the gross profit of twd291 million, net nonoperating income of twd30 million and partially offset by the increase of income tax expense of twd43 million.
+referencing presentation page 14, consolidated statements of financial position and key indices. total assets at the end of 1q '21 were twd37,111 million. total liabilities at the end of 1q '21 were twd15,350 million. total equity at the end of 1q '21 was twd21,761 million. accounts receivable turnover days in 1q '21 were 77 days. inventory turnover days were 41 days in 1q '21.
+referencing presentation page 15, consolidated statements of cash flows. as of march 31, 2021, our balance of cash and cash equivalents was twd5,591 million compared to twd1,477 million at the beginning of q1.
+free cash flow for the first quarter was twd922 million compared to twd553 million for the same period in 2020. the difference is mainly due to our increased operating profit of twd260 million and the depreciation expenses of twd122 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum.
+referencing presentation page 16, capital expenditures and depreciation. we invested twd1,110 million in capex in q1. the breakdown of capex was 4.4% for bumping, 42.1% for lcd driver, 16.8% for assembly and 36.7% for testing. depreciation expenses were twd1,127 million in q1.
+as of april 30, 2021, the company's outstanding ads number was approximately 4 million units, which represents around 11.7% of the company's outstanding common shares.
+that concludes the financial review. i will now turn the call back to our chairman, mr. s.j. cheng, for our outlook. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+thank you, silvia. q2 2021 is starting out strong for us. we expect to benefit from several important trends in q2. 5g build-outs are continuing worldwide and market consumption continues to recover and the major digital transformation in industrial and automotive continues. tightness remains in the semiconductor supply chain with capacity shortages and longer lead times for raw materials. based on public comments, we expect this situation to remain in 2q '21. on the other hand, we are very positive in the outlook for chipmos.
+we expect the positive trends from q1 will continue in our all product segments with momentum continuing with strong demand and tight osat capacity. profit is also expected to improve as the osat asp increasing.
+in memory, we are increasing the assembly capacity to meet the strong capacity demand from customers, particularly wire bonder capacity. we are benefiting from momentum in dram with customers restocking. we expect flash businesses, including nor and nand, will continue to grow as we move through q2 2021.
+in ddic, we are closely monitoring the continuing tightness of wafer fab capacity and supply. we expect to continue to gain more allocation share in key customer cooperation projects with cof utilization level for tv and notebook on track for further improvement. we also expect the utilization level will remain on high as we benefit from continued strong demand levels in smart phone.
+regarding to mixed signal, based on customer discussion, we expect to see continued momentum in q2 2021, led by strong demand from major customers and our expanded osat scale with strategic customers.
+operator, that concludes our formal remarks. we can now take questions. operator?
+",":
+operator
+thank you. [operator instructions] our first question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+chairman, silvia and everybody, considering the positive guidance for both of memory and ddic segments, could you please give us the more color for q2 and april revenue?
+shih-jye cheng -- chairman and director/president
+jerry, to answer your question, there is one workday less in april compared to march and nonlinear wafer incoming of ddic. those were the main impacts. we expect to continue to benefit from strong demand in may and june. therefore, we could expect better q2 revenue at least by high single-digit growth.
+jerry su -- credit suisse -- analyst
+one more question about mixed-signal segment. you mentioned it grew around 30% in q1 compared to q4 '20. could you give us more color about the products and how the momentum could be sustained?
+shih-jye cheng -- chairman and director/president
+there are two major product groups. first is for our japanese customer. to meet the strong demand, chipmos built a captive line to serve the customer. second is from two of our domestic customers for tv soc chip, including t-con. the demand will likely be very strong, and we could continue to grow depending on the customers' assembly subcon's capacity support, which is not managed by chipmos. new testing capacity would be installed accordingly. that is why we are optimistic about mixed-signal segment growth this year.
+jerry su -- credit suisse -- analyst
+could you commend the assembly price hike in coming quarters?
+shih-jye cheng -- chairman and director/president
+as we mentioned before, to reflect the raw material cost increasing and the tightened capacity in assembly, we increased assembly price around 5% to 8% from q4 '20 to q1 '21. additionally, since the raw material supply is still very tight, we will try to reflect the material cost to our customers in proper time again.
+operator
+next question comes from stanley wang from sinopac securities. you my begin.
+stanley wang -- sinopac securities -- analyst
+there are two questions. first is the pricing strategy to customers and second is safety stock preparation guidelines under current tight demand and supply.
+shih-jye cheng -- chairman and director/president
+under the condition of longer raw material and equipment lead times and also tight wafer supply, our customers could absorb the cost pressure so that we could have favorable pricing. as for the inventory question, considering the longer lead time, we have increased the inventory preparation level to roughly three months.
+stanley wang -- sinopac securities -- analyst
+is there any potential price increase in second half of this year?
+shih-jye cheng -- chairman and director/president
+yes, we are monitoring closely.
+stanley wang -- sinopac securities -- analyst
+so it looks like q3 will be better than q2?
+shih-jye cheng -- chairman and director/president
+based on the new capacity installation schedule and strong customers' demand, we could expect further consecutive quarter-on-quarter growth.
+operator
+next question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+i have a follow-up question. if we could see consecutive quarter-on-quarter growth this year, plus on the previous earnings call, giving double-digit yoy growth, could you guide more specifically for the double digits growth, potential chance toward 20%?
+shih-jye cheng -- chairman and director/president
+with the first quarter result and current business visibility, we could potentially see 15% to 20% yoy growth.
+jerry su -- credit suisse -- analyst
+the market is concerned about china's smart phone demand correction and india's worsening covid-19 pandemic. while your company is preparing more capacity at this moment, do you worry about the weaker smart phone demand in second half causing idle capacity due to customer forecast declines?
+shih-jye cheng -- chairman and director/president
+under the tight wafer supply condition, our customers are optimizing their product mix in order to maintain the better revenue and margin. we are doing the same for higher value-added product and cooperating closely with strategic customers to leverage the capacity.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s.
+dr. g.s. shen, -- deputy director of strategy and investor relations
+thank you. i will orally read some questions from foreign institutional investors. the question is asking about unimos. could the company give an update on the recent performance of unimos? is unimos now profitable on an ongoing basis?
+jesse huang -- spokesperson / senior vice president
+unimos was profitable this quarter led [technical issues]
+dr. g.s. shen, -- deputy director of strategy and investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j. cheng for any closing comments.
+shih-jye cheng -- chairman and director/president
+thank you, everyone, for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator closing remarks]
+duration: 27 minutes
+call participants:
+dr. g.s. shen, -- deputy director of strategy and investor relations
+shih-jye cheng -- chairman and director/president
+silvia su -- director of finance & accounting management
+jesse huang -- spokesperson / senior vice president
+jerry su -- credit suisse -- analyst
+stanley wang -- sinopac securities -- analyst
+more imos analysis
+all earnings call transcripts
+
+
+
+
+"
+2021-Q2,IMOS,2021-08-10 03:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos second quarter 2021 results conference call. [operator instructions]
+i would now like to turn the conference over to dr. g.s. shen, of chipmos technologies strategy and investor relations team to introduce the management team of the company in conference. dr. shen, you may begin.
+g.s. shen -- technical deputy director, strategy and investor relations
+thank you, operator. welcome everyone to chipmos' second quarter 2021 results conference call. joining us today from the company are mr. s.j. cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations. s.j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s.j. will provide our current business outlook. all company executives will then participate in an open q&a session.
+please note, we have posted a presentation on the mops and the chipmos website www.chipmos.com to accompany today's conference call.
+before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation.
+as a reminder, today's conference call is being recorded and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j. cheng. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+yes. thank you, g.s. we appreciate everyone joining our call today. we achieved record quarterly revenue in q2 2021, and have now delivered over 22% revenue growth in the first half of 2021 compared to 2020. our assembly and ddic high-end test platforms remain near full utilization level and we are adding capacity given continuing strong market demand. both asp increased and high utilization level both led revenue grew and profit improved.
+let me give you some highlights from the quarter. first, we achieved a new quarterly revenue record with a 28.6% increase in q2 2021 revenue year-over-year. this is up 8% over q1 2021. gross margin increased 40 basis points for q2 2021 to 28.2%, compared to q1 2021. and we achieved a 33.3% increase in q2 eps, twd1.76, compared to twd1.32 of q1 2021, with a 78% increase in the first half 2021, twd3.08, compared to the first half 2020. i am very pleased that our profitability growth is higher than our revenue growth. our operating expense maintained 6.6% of q2 revenue.
+the overall utilization improved to 87% in q2. assembly utilization level maintained at 94% in q2 2021, with tightness continuing from q1 2021, even with added capacity. testing also significantly increased to 87%. lastly, despite the non-linear wafer supply led ddic and gold bump utilization level fluctuations. however, our high-end ddic test platforms remained fully utilized in q2. we also added capacity here but that became quickly used.
+regarding our manufacturing business, assembly represented about 30.3% of q2 revenue. testing represented around 22% and wafer bumping represented more than 18% of q2 revenue. on a product segment basis, our ddic, including cog and cof, was more than 29% of q2 revenue, with gold bumping representing around 16% of q2 revenue. revenue from dram and sram represented 18.2% of q2 revenue. our flash segment and the mixed-signal segment represented around 25% of q2 revenue and 11.5% of q2 revenue, respectively. in the meantime, mixed-signal product segment grew around 26%, compared to q1 2021 and increased around 37% year-over-year.
+in terms of adding color on our business, our memory product benefited from strong demand across all end markets with growth in computing, iot, and consumer electronics, including gaming. revenue was up 7.4% in q2 2021, compared to q1 2021 and up about 29.6% year-over-year. memory products represented around 43.1% of total q2 revenue. dram revenue increased about 20%, compared to q1 2021, led by higher consumer and automotive electronics demand. total flash revenue was flat in q2 compared to q1 2021 because of tight capacity. nor and mask rom grew about 3% in q2 compared to q1 2021 and grew more than 67% year-over-year. our nand flash business declined about 5%, but grew about 38% over q2 2020. this represented about 30% of our total q2 2021 flash revenue.
+moving onto driver ic-related product revenue, this increased about 4.8%, compared to q1 2021 and significantly increased about 26%, compared to q2 2020. driver ic-related revenue was just over 45% of total q2 revenue. total ddic revenue, including cog and cof, was up about 24.5% year-over-year and increased about 9%, compared to q1 2021. we are benefiting from cooperation projects with some key customers. this helped the ddic revenue ratio of cof increase about 12%, compared to q1 2021 and represented about 45% in q2. tddi revenue increased about 4% in q2 compared to q1 2021 and represented about 29.4% of q2 ddic revenue. oled grew significantly and represented about 4.2% of q2 ddic revenue.
+on an end market basis, revenue from automotive and industrial increased to 14% of q2 revenue. we continue to see long-term growth in both auto and industrial. smartphones and tv, as an end market, accounted 36% and 16% of q2 2021 revenue, respectively. computing represented about 12% and consumer represented about 22% of q2 revenue.
+now, let me turn the call to ms. silvia su, to review the second quarter 2021 financial results. silvia, please go ahead.
+silvia su -- vice president of finance and accounting management
+thank you, s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of twd27.91 against $1 as of june 30, 2021. all the figures were prepared in accordance with taiwan-international financial reporting standards.
+referencing presentation page 12 consolidated operating results summary. for the second quarter of 2021, total revenue was twd6,982 million. net profit attributable to the company was twd1,284 million in q2. net earnings for the second quarter of 2021 were twd1.76 per basic common share or $1.26 per basic ads. we achieved a 78% increase in net earnings for the first half of 2021 to twd3.08 from twd1.73 in the first half of 2020. ebitda for q2 was twd2,696 million. ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q2 was 22.9%.
+referencing presentation page 13 consolidated statements of comprehensive income. compared to 1q 2021: total 2q 2021 revenue increased 8%, compared to 1q 2021; 2q 2021 gross profit was twd1,966 million, with gross margin at 28.2%, compared to 24.2% in 1q 2021. this represents an increase of 4.0 ppts. our operating expenses in 2q 2021 were twd463 million, or 6.6% of total revenue, which is about a 9% improvement compared to 1q 2021. operating profit for 2q 2021 was twd1,540 million, with operating profit margin at 22.1%, which is about an increase of 4.2 ppts compared to 1q 2021.
+net non-operating expenses in 2q 2021 were twd19 million compared to net non-operating income in 1q 2021. the difference is mainly due to the increase of foreign exchange loss of twd55 million, the increase of loss on valuation of financial assets at fair value through profit or loss of twd13 million and partially offset by the increase of the share of gain of associates accounted for using equity method of twd23 million. profit attributable to the company in 2q 2021 expanded 33.8%, compared to 1q 2021. basic weighted average outstanding shares were 727 million shares.
+compared to 2q 2020: total revenue for 2q 2021 was up 28.6%; gross margin increased 7.5 ppts to 28.2%; operating expenses increased 16.2%; operating profit margin increased 7.6 ppts to 22.1%; net non-operating expenses in 2q 2021 were twd19 million compared to net non-operating expenses in 2q 2020. the difference is mainly due to the increase of the share of gain of associates accounted for using equity method of twd64 million, the decrease of foreign exchange loss of twd59 million and partially offset by the increase of loss on valuation of financial assets at fair value through profit or loss of twd18 million.
+profit was up 135.6%, compared to 2q 220. the difference is mainly due to the increase of the gross profit of twd842 million and partially offset by the increase of income tax expense of twd126 million.
+referencing presentation page 14 consolidated statements of financial position & key indices. total assets at the end of 2q 2021 were twd38,184 million. total liabilities at the end of 2q 2021 were twd15,132 million. total equity at the end of 2q 2021 was twd23,052 million. accounts receivable turnover days in 2q 2021 were 74 days. inventory turnover days were 44 days in 2q 2021.
+referencing presentation page 15 consolidated statements of cash flows. as of june 30, 2021, our balance of cash and cash equivalents was twd5,399 million, increased twd1,286 million compared to the beginning of q1. free cash flow for the first half of 2021 was twd1,768 million compared to twd1,431 million for the same period in 2020. the difference is mainly due to the increase of operating profit of twd1,010 million and depreciation expenses of twd231 million and partially offset by the increase of capex of twd747 million and income tax expenses of twd169 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum.
+referencing presentation page 16 capital expenditures and depreciation. we invested twd1,586 million in capex in q2. the breakdown of capex was 11.7% for bumping, 54.6% for lcd driver, 21.5% for assembly and 12.2% for testing. depreciation expenses were twd1,156 million in q2. as of july 31, 2021, the company's outstanding ads number was approximately 4 million units, which represents around 11.5% of the company's outstanding common shares.
+that concludes the financial review. i will now turn the call back to our chairman mr. s.j. cheng for our outlook. please go ahead, sir.
+shih-jye cheng -- chairman and director/president
+thank you, silvia. our main end markets continue to recover, with positive trends expected to continue in our all product segments. profit is also expected to improve as the osat asp is increasing, with a stable high utilization level. we are cooperating closely with customers and watching utilization levels as we work through a tightened wafer supply. we expect to achieve growth in q3 and the second half even with the bottleneck.
+in memory, we are further increasing assembly and test capacity to meet increased capacity demand from customers, with demand increasing above expectations in consumer and auto electronics. we are benefiting from healthy demand in dram aided by customers restocking inventory. we expect our flash businesses, including nor and nand, will continue to grow with momentum gradually bolstered as demand increases through q3 2021. overall, the memory growth momentum is expected to be better than ddic in q3.
+for ddic, we expect continued growth led by strong demand. tightened wafer supply is expected to continue in q3, which causes ddic utilization level fluctuations.
+regarding mixed-signal, we expect to see continued growth in q3 2021 as major customers restocking.
+finally, our 2020 dividend of twd2.2 per common share was approved at our july agm. it is scheduled to be distributed at the end of august. we expect our 2021 dividend will be higher than 2020, based on our positive business trends and cautiously optimistic 2021 outlook.
+operator, that concludes our formal remarks, we can now take questions.
+",":
+operator
+thank you. [operator instructions] our first question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+congratulations for the good performance and q2 results. please comment on the contribution for the gross margin rate increasing around 4 ppts from price hikes and utilization rate improvement, separately?
+shih-jye cheng -- chairman and director/president
+thanks. gross margin increased 40 basis points for q2 2021 to 28.2%, compared to q1 2021. we are adding capacity given continuing strong market demand. our assembly and ddic high-end test platforms remain near full utilization levels and both asp increased and high utilization level both led revenue growth and profit improvement. the average price increase from all product lines was about 5% to 6%.
+jerry su -- credit suisse -- analyst
+based on your q3 outlook, memory will grow better than ddic and assembly and test asp will increase. does it mean including both memory and ddic?
+shih-jye cheng -- chairman and director/president
+due to longer machine and raw material lead time caused by tight capacity, we have reflected memory assembly contract price starting from july. as for ddic, despite tight wafer supply, customers are allocating more of their wafers to high-end product, such as full hd tddi, oled and high frequency tv, which also requires our high-end test platform support. therefore, we also reflect the price for some customers.
+jerry su -- credit suisse -- analyst
+speaking of tight wafer supply, does chairman see any sign of loosened ddic wafer foundry capacity supply?
+shih-jye cheng -- chairman and director/president
+currently, no such sign appears. for those customers owning better technical capability and stronger bargaining power, it is easier to get wafer foundry support to meet their wafer quantity demand.
+jerry su -- credit suisse -- analyst
+based on chairman's memory outlook, do you see the possibility of a market price downturn in q4 or q1 next year? and how would it influence company's business performance? under that circumstance, would any take-or-pay or long-term business contracts be considered?
+shih-jye cheng -- chairman and director/president
+we published that our july revenue grew 2.4%, compared to june. basically, we are optimistic for second half of this year. our memory business comes from two segments: one is more like commodity and the other one is niche. even the commodity memory could fluctuate. we see more stable and growing demand from the niche memory like low density dram, nor and nand. our customers are also shrinking their wafer technology to increase the chip quantity. so we are expanding capacity to meet customers' demand.
+jerry su -- credit suisse -- analyst
+okay. thanks, chairman.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s.
+g.s. shen -- technical deputy director, strategy and investor relations
+thank you. i will orally read some questions from foreign institutional investors. the question is asking about unimos. could company give an update on the recent performance of unimos? is unimos now profitable on an ongoing basis?
+jesse huang -- spokesperson and senior vice president, strategy and investor relations
+unimos was profitable since q1 2021 led by higher demand and operational improvements. chipmos recognized about twd60.1 million profit in q2 2021. we expect unimos to have further improvements with the continuing growth of its 3d nand flash business from ymtc.
+g.s. shen -- technical deputy director, strategy and investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j. cheng for any closing comments.
+shih-jye cheng -- chairman and director/president
+thank you, everyone, for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator closing remarks]
+duration: 22 minutes
+call participants:
+g.s. shen -- technical deputy director, strategy and investor relations
+shih-jye cheng -- chairman and director/president
+silvia su -- vice president of finance and accounting management
+jesse huang -- spokesperson and senior vice president, strategy and investor relations
+jerry su -- credit suisse -- analyst
+more imos analysis
+all earnings call transcripts
+
+
+
+
+"
+2021-Q3,IMOS,2021-11-08 04:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos third quarter 2021 results conference call. [operator instructions] i would now like to turn the conference over to dr. g.s. shen of chipmos technologies strategy and investor relations team to introduce the management team of the company in conference. dr. shen, you may begin.
+g.s. shen -- deputy director of strategy and investor relations
+thank you, operator. welcome everyone to chipmos third quarter 2021 results conference call. joining us today from the company are mr. s. j. cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations. s. j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s. j. will provide our current business outlook. all company executives will then participate in an open q&a session.
+please note, we have posted a presentation on the mops and the chipmos' website www.chipmos.com to accompany today's conference call. before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation. as a reminder, today's conference call is being recorded and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s. j. cheng, please go ahead, sir.
+shih-jye cheng -- chairman and president
+yes, thank you, g.s. we appreciate everyone joining our call today. this was another strong quarter for us with record revenue for the fourth consecutive quarter in q3 2021. we have delivered over 23.4% revenue growth in the first nine months of 2021 compared to 2020 with strong profitability and cash flow. we remain very close with our customers and are doing a good job supporting their demand and forecasts.
+challenges remain across the broader industry, but we are covering everything within our control. let me give you some highlights from the quarter. first, we achieved the new quarterly revenue record with a 25.9% increase in q3 2021 revenue year-over-year. this is up 2.6% over q2 2021. gross margin increased 800 basis points for q3 2021 to 27.3% compared to q3 2020. higher costs led to a 90 basis point decline compared to q2 2021 and we achieved twd1.93 in q3 eps compared to twd1.76 of q2 2021 with a 117% increase in the first nine months of 2021, twd5.01 compared to the same period of2020 twd2.31. i am very pleased that our profitability expansion is higher than our revenue growth. we continue to stress operating efficiency targets and utilization improvement. our ongoing investments in automation are helping us maintain a safe work environment and let us hold operating expense at 6.5% of q3 three revenue.
+the overall utilization was 85% in q3 compared to 87% in q2 as we continue to benefit from customers demand even with added capacity in before several quarters. and while we had a slightly lower assembly utilization level, it remains strong at 90% in q3 2021. testing also held strong at 85%. lastly, our high-end ddic test platform utilization remained high in q3 and ddic remained at around 80% despite the non-linear wafer supply led.
+regarding our manufacturing business, assembly represented 30% of q3 revenue, testing represented around 22% and wafer bumping represented about 18.5% of q3 revenue. on a product segment basis, our ddic including cog and cof was about 29.8% of q3 revenue with gold bumping representing about 15.7% of q3 revenue. revenue from dram and sram represented about 18.6% of q3 revenue. our flash segment and the mixed signal segment represented about 24.8% of q3 revenue and 11% of q3 revenue, respectively.
+in terms of adding color on our business, our memory product benefited from healthy demand across all end markets with growth in iot and consumer electronics, including gaming. revenue was up about 3.5% in q3 2021 compared to q2 2021. on a year-over-year basis, revenue was up about 32%. memory products represented about 43.5% of total q3 revenue. dram revenue increased 5.3% compared to q2 2021 led by consumer and automotive electronics demand and 22% year-over-year. total flash revenue benefited from application diversified and customers continuing restocking. nor grew 4.3% in q3 compared to q2 2021 and grew more than 34% year-over-year. our nand flash business increased about 6% compared to q2 2021 and increased 47% year-over-year. this represented 31% of our total q3 2021 flash revenue.
+moving onto driver ic-related product revenue, including gold bumping, i am pleased to report that our test asp increase driven by customers optimized their product mix. this would have been even higher, but we continue to work through ongoing wafer supply bottlenecks from foundry capacity constraints. despite the supply limits, our driver ic-related product revenue increased about 2.6% compared to q2 2021 and increased about 15.5% compared to q3 2020. driver ic-related revenue was about 45.4% of total q3 revenue. total ddic revenue, including cog and cof was up just over 25.4% year-over-year and increased 3.3% compared to q2 2021. we are benefiting from higher wafer loading with some key customers.
+this helped our cof revenue increase 4% compared to q2 2021 and represented 45% in q3 ddic revenue. tddi revenue represented 24.3% of q3 ddic revenue. oled significantly grew 11.2% compared to q2 2021 and represented about 4.5% of q3 ddic revenue. on an end market basis, revenue from automotive and industrial increased to 15% of q3 revenue. we continue to see long-term growth in both automotive and industrial. smartphones and tv as an end market accounted about 33.5% and about 16.5% of q3 2021 revenue, respectively. computing represented about 11% and consumer represented 24% of q3 revenue.
+now let me turn the call to ms. silvia su to review the third quarter 2021 financial results. silvia, please go ahead.
+silvia su -- vice president of finance and accounting management
+thank you, s. j. all dollar amounts cited in our presentation are in twd. the following numbers are based on the exchange rates of twd27.84 against one $1 as of september 30, 2021. all the figures were prepared in accordance with taiwan international financial reporting standards. referencing presentation page 12, consolidated operating results summary. for the third quarter of 2021, total revenue was twd7,161million. net profit attributable to the company was twd1,399 million in q3. net earnings for the third quarter of 2021 were twd1.93 per basic common share or $1.38 per basic ads.
+we achieved a 116.9% increase in net earnings for the first nine months of 2021 to twd5.01 from twd2.31 in the first nine months of 2020. ebitda for q3 was twd2,724 million. ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q3 was 24.4%. referencing presentation page 13 consolidated statements of comprehensive income. compared to 2q '21, total 3q'21revenue increased 2.6% compared to 2q'21. 3q'21gross profit was twd1,958 million with gross margin at 27.3 compared to 28.2% in 2q'21. this represents a decrease of 0.9 ppts. our operating expenses in 3q '21 twd463 million or 6.5% of total revenue. operating profit for 3q'21 was twd1,528 million with operating profit margin at 21.3%, which is a decline of about 0.8 ppts compared to 2q'21. net non-operating income in 3q'21was twd148 compared to net non-operating expenses in 2q'21. the difference is mainly due to the increase of the share of gain of associates accounted for using equity method of twd85 million. the decrease of foreign exchange losses of twd62 million and the increase of gain on valuation of financial assets and fair value through profit or loss of twd15 million. profit attributable to the company in 3q'21 expanded 9% compared to 2q'21. basic weighted average outstanding common shares were 727 million shares.
+compared to 3q'20, total revenue for 3q'21 was up 25.9%. gross margin increased 8.0 ppts to 27.3%. operating expenses increased 17.4%. operating profit margin increased 8.7 ppts to 21.3%. net non-operating income in 3q'21were twd148 million compared to net non-operating expenses in 3q'20. the difference is mainly due to the increase of the share of gain of associates accounted for using equity method of twd201million and the decrease of foreign exchange losses of twd112 million. profit was up 230.4% compared to 3q'20. the difference is mainly due to the increase of the operating profit of twd810 million. net non-operating income of twd327 million and partially offset by the increase of income tax expense of twd160 million.
+referencing presentation page 14, consolidated statements of financial position and key indices. total assets at the end of 3q'21 were twd39,334 million. total liabilities at the end of 3q'21 were twd16,492 million. total equity at the end of 3q'21 was twd22,842 million. accounts receivable turnover days in 3q'21 were 77 days. inventory turnover days were 45 days in 3q'21.
+referencing presentation page 15. consolidated statements of cash flows. as of september 30, 2021, our balance of cash and cash equivalents was twd5,189 million, increased twd1,075 million compared to the beginning of q1. free cash flow for the first nine months of 2021 was twd1,416 million compared to twd1,329 million for the same period in 2020. the difference is mainly due to the increase of operating profit of twd1,820 million and depreciation expenses of twd364 million and partially offset by the increase of capex of twd1,494 million. income tax expenses of twd329 million and cash dividend paid of twd291 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum.
+referencing presentation page 16, capital expenditures and depreciation. we invested twd1,171 million in capex in q3. the breakdown of capex was 4.4% for bumping 41.1% for lcd driver, 30% for assembly and 24.5% for testing. depreciation expenses were twd1,196 million in q3. as of october 31, 2021, the company's outstanding ads number was approximately 4 million units, which represents around 12.4% of the company's outstanding common shares. that concludes the financial review.
+i will now turn the call back to our chairman, mr. s. j. cheng for our outlook. please go ahead, sir.
+shih-jye cheng -- chairman and president
+thank you, silvia. as we move into the fourth quarter, we expect to see continued customer restocking for consumer electronics launches, workplaces restarting and economies around the world continuing to grow. capacity is expected to remain tight and osat asp will likely increase led by product mix optimization. however, this continues to be a challenging period for the industry as we all work together to remove supply chain bottlenecks.
+we were not directly impacted by recent power shortages in china, but this does not help when wafer supply is already tight. overall, we are cautious about the fourth quarter and taking a conservative view given broader market challenges and how strong the first nine months of 2021 have been for us. for example, in memory, despite demand increasing in consumer and auto electronics, there is a semiconductor supply imbalance that may impact overall q4 demand in the segment. therefore, we are taking a conservative view about memory in q4 and in ddic tightened wafer supply is expected to continue in q4, which will cause ddic utilization level fluctuations. however, our asp continues to increase driven by customers optimize their product mix and oled increase in q4. so, we are some with cautiously optimistic about ddic continuing to grow in q4.
+operator, that concludes our formal remarks. we can now take questions.
+",":
+shih-jye cheng -- chairman and president
+[operator instructions] our first question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+why did q3 revenue grow but gross margin declined?
+silvia su -- vice president of finance and accounting management
+in q3, we had increased depreciation, higher power costs and we recognized higher bonus costs due to the higher profit in q3. gold material inventory valuation loss compared to previous quarter.
+jerry su -- credit suisse -- analyst
+could you provide more color about q4 revenue and gross margin?
+shih-jye cheng -- chairman and president
+as we move into the fourth quarter, in memory, despite demand increasing in consumer and auto electronics, there is a semiconductor supply imbalance that may impact overall q4 demand in the segment. therefore, we are taking a conservative view about memory in q4. and in ddic, our asp continues to increase, driven by customers optimizing their product mix and oled increasing in q4. further, chipmos did get some rush orders from customers led by the uncertainty of power shortages in china. so, we are somewhat cautiously optimistic about ddic to be flat in q4. in all, given the strength in the first nine months of 2021, we expect revenue could be flat to down in the low single digits. gross margin would be slightly impacted by revenue declines and higher depreciation in q4.
+operator
+next question comes from stanely wang of sinopac securities. stanley, you may begin.
+stanely wang -- sinopac securities investment -- analyst
+any impact to unimos from the power shortage in china recently? if any, is there any counter measure?
+shih-jye cheng -- chairman and president
+there was no impact and unimos has been turning profitable.
+stanely wang -- sinopac securities investment -- analyst
+is there any customer input seeing signs of wafer supply improvement? how is chipmos offsetting the impact on operations of wafer supply shortages?
+shih-jye cheng -- chairman and president
+so far, we are not seeing any real wafer supply relief. under such situation, we did see customers optimizing product mix causing a longer test time. currently, better ut for high-end testers led and worst ut for the others.
+stanely wang -- sinopac securities investment -- analyst
+business momentum for memory products in q4 by ranking, which is stronger, nor, nand or dram?
+shih-jye cheng -- chairman and president
+nor flash is better owing to auto and ntws [phonetic] application demand. secondly, would be 2d nand and then [indecipherable] dram.
+stanely wang -- sinopac securities investment -- analyst
+how is the tax rate of 2021?
+silvia su -- vice president of finance and accounting management
+as usually, about 18%.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s.
+g.s. shen -- deputy director of strategy and investor relations
+thank you. i will orally read some questions from foreign institutional investors. the question is asking about your '22 dividend?
+jesse huang -- spokesperson and senior vice president of strategy and investor relations
+we don't expect any major changes to our dividend payout ratio, 50%, 60% of eps. however, the final dividend will be discussed and proposed by our board and need to get approval at our normal annual agm.
+g.s. shen -- deputy director of strategy and investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s. j. cheng for any closing comments.
+shih-jye cheng -- chairman and president
+thank you everyone for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator closing remarks]
+duration: 22 minutes
+call participants:
+g.s. shen -- deputy director of strategy and investor relations
+shih-jye cheng -- chairman and president
+silvia su -- vice president of finance and accounting management
+jesse huang -- spokesperson and senior vice president of strategy and investor relations
+jerry su -- credit suisse -- analyst
+stanely wang -- sinopac securities investment -- analyst
+more imos analysis
+all earnings call transcripts
+
+
+
+
+"
+2021-Q4,IMOS,2022-02-24 02:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos fourth quarter and full year 2021 results conference call. [operator instructions] i would now like to turn the conference over to dr. g.s. shen of chipmos technologies strategy and investor relations team to introduce the management team of the company in conference.
+dr. shen, you may begin. 
+g.s. shen -- deputy director, technical
+thank you, operator. welcome everyone to chipmos' fourth quarter and full year 2021 results conference call. joining us today from the company are mr. s.j.
+cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations. s.j.
+will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, sj will provide our current business outlook. all company executives will then participate in an open q&a session. please note, we have posted a presentation on the mops and also on the chipmos' website www.chipmos.com to accompany today's conference call.
+before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation. as a reminder, today's conference call is being recorded and a replay will be made available later today on the company's website. at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j.
+cheng. please go ahead, sir.  
+s.j. cheng -- president and chairman
+yes. thank you, g.s. we appreciate everyone joining our call today. i am very pleased with our team's work in 2021.
+it was a challenging year for everyone in the industry with covid-19 and supply constraints. we were in position to capture higher volumes of the higher margin segments we have been expanding. finally, while q4 was slightly lower than q3 this reflects normal seasonal patterns. our business and underlying demand trends remain strong entering 2022 and we are very positive about our business.
+revenue and profit of 2021 were both the new record high of chipmos. let me give you some highlights. first, we achieved a new full year revenue, twd 27.4 billion with a 19.1% increase in 2021 revenue.  gross margin increased 460 basis points for 2021 to 26.5% compared to 2020. we achieved a new net earnings record, twd 6.96, in 2021 with a 113.5% increase in 2021 compared to 2020, twd 3.26, and twd 1.95 in q4 eps.
+we continue to stress operating efficiency targets and utilization improvement and maintain operating expense healthy level, and it was at 6.9% of q4 revenue. the overall utilization was 76% in q4, it decreased compared to q3 given the capacity we have been adding, and some wafer tightness which slowed loading rates. we saw this most in assembly utilization, which decreased to 67% in q4 2021. testing held at 80%.
+driven by strong demand from oled ddic and automotive applications, our high-end ddic test platform remained fully utilized in q4. ddic and bumping ut level remained at around 78% and 83% respectively, despite the non-linear wafer supply led. regarding our manufacturing business, assembly represented 27% of q4 revenue. testing represented just over 21% and wafer bumping represented about 20% of q4 revenue.
+on a product segment basis, our ddic, including cog and cof, was about 31.6% of q4 revenue, with gold bumping representing about 18% of q4 revenue. revenue from dram and sram represented about 16.8% of q4 revenue. our flash segment and the mixed-signal segment represented about 23% of q4 revenue and 10.5% of q4 revenue, respectively. in terms of adding color on our business, our memory product revenue was up about 2% on a year over year basis and down 12.7% compared to q3 2021, led by seasonally adjusted and year-end inventory.
+memory products represented about 40% of total q4 revenue. 2021 full year memory revenue was up 19.8%, driven by iot and consumer electronics demand growth, including gaming and increased assembly price. dram revenue represented about 16% of total q4 revenue, down about 14.3% compared to q3 2021, but up about 2% year over year. dram was also increased about 4% for the full year 2021.
+total flash revenue grew about 5% year over year but declined about 11.5% compared to q3 2021. flash revenue represented about 23% of q4 revenue, as we benefited from further diversification in the applications we serve combined with customers' continued restocking. 2021 full year flash revenue grew significantly and was up 33.6%. nor increased more than 45% and nand increased about 12%.
+this represented about 30% of total flash revenue in 2021. moving onto driver ic-related product revenue, including gold bumping. our test asp increased driven by customers optimizing their product mix, and benefited from higher oled and auto demand. these would have been even higher but we continue to work through ongoing industrywide wafer supply bottlenecks from foundry capacity constraints.
+despite the supply constraints, our driver ic-related product revenue increased about 6.6% compared to q4 2020 and was up about 3.3% compared to q3 2021. driver ic-related revenue was about 49.5% of total q4 revenue, and was up about 15% in 2021 driven by price increases and our high end test platform being fully utilized. total ddic revenue, including cog and cof, was up just over 13% year over year and up slightly over q3 2021, and up more than 18% for the full year 2021 with cof revenue representing about 44% of total ddic revenue for the full year 2021. tddi revenue increased more than 11% compared to q3 2021 and represented 27% of q4 ddic revenue.
+oled grew significantly by more than 15% compared to q3 2021 and represented more than 5% of q4 ddic revenue. on an end market basis, we benefited from strong demand from automotive electronics applications. revenue from automotive and industrial increased to 17.5% of q4 revenue and grew around 80% in 2021 compared to 2020. meanwhile, driven by strong demand for car display panels, the ddic portion of auto grew to more than one-third.
+smartphones and tv, as an end market, accounted about 33.5% and about 17% of q4 2021 revenue, respectively. computing represented about 6% and consumer represented 26% of q4 revenue. now let me turn the call to ms. silvia su to review the fourth quarter and full year 2021 financial results.
+silvia, please go ahead.
+silvia su -- vice president of finance and accounting management center
+thank you s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of twd 27.74 against us$1 as of december 30, 2021. all the figures were prepared in accordance with taiwan-international financial reporting standards.
+for the fourth quarter of 2021, total revenue was twd 6,791 million. net profit attributable to the company was twd 1,418 million in q4. net earnings for the fourth quarter of 2021 were twd 1.95 per basic common share or us$1.41 per basic ads. ebitda for q4 was twd 2,490 million.
+ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q4 was 24%. total 4q '21 revenue decreased 5.2% compared to 3q21. 4q '21 gross profit was twd 1,769 million, with gross margin at 26% compared to 27.3% in q3.
+this represents a decrease of 1.3 points. our operating expenses in q4 were twd 467 million, or 6.9% of total revenue, which is about a 0.8% improvement compared to q3. operating profit for q4 was twd 1,336 million, with operating profit margin at 19.7%, which is about a 1.6 points decrease compared to q3. net non-operating income in q4 were twd 319 million compared to twd 148 million in 3q21.
+the difference is mainly due to an increase of the share of gain of associates accounted for using equity method of twd 190 million and partially offset by the increase of loss on valuation of financial assets at fair value through profit or loss of twd 12 million and the foreign exchange losses of twd 8 million. profit attributable to the company in q4 expanded 1.3% compared to q3. basic weighted average outstanding shares were 727 million shares. total revenue for 4q '21 was up 7.6%.
+gross margin at 26% increased 1.6ppts compared to 4q '20. operating expenses increased 13.1% compared to 4q '20. operating profit margin at 19.7% increased 1.3ppts compared to 4q '20. net non-operating income of twd 319 million in 4q '21 compared to net non-operating expenses of twd 278 million in 4q '20 which increased twd 597 million.
+the difference is mainly due to an increase of the share of gain of associates accounted for using equity method of twd 439 million, a lower foreign exchange losses of twd 150 million and the interest expense of twd 5 million. profit were up 106.5% compared to 4q '20. the difference between 4q '21 and 4q '20 is mainly due to an increase of operating profit of twd 176 million and the net non-operating income of twd 597 million and partially offset by the increase of income tax expense of twd 42 million. total revenue for 2021 was twd 27,400 million, which is up 19.1% compared to 2020.
+as sj mentioned, this was a record level for the company. gross margin increased to 26.5%, up 4.6 points compared to 2020. our operating expenses in 2021 were twd 1,817 million, which was up 13.5% compared to 2020. operating profit margin in 2021 was 20.3%, an improvement of 4.8ppts compared to 2020.
+net non-operating income in 2021 was twd 473 million. the difference mainly due to an increase of the share of gain of associates accounted for using equity method of twd 773 million, a lower foreign exchange losses of twd 266 million and the interest expense of twd 41 million. net profit in 2021 was twd 5,059 million, which was up 113.7% compared to 2020. the difference due to an increase of the operating profit of twd 1,996 million and net non-operating income of twd 1,066 million and partially offset by the increase of income tax expense of twd 371 million.
+net earnings for the year of 2021 were twd 6.96 per basic common share compared to twd 3.26 per basic common share for 2020. total assets at the end of 4q '21 were twd 42,523 million. total liabilities at the end of 4q '21 were twd 18,137 million. total equity at the end of 4q '21 was twd 24,386 million.
+accounts receivable turnover days in 4q '21 were 84 days. inventory turnover days was 53 days in 4q '21. as of december 31, 2021, our balance of cash and cash equivalents was twd 5,906 million, increased twd 1,793 million compared to the beginning of the year. free cash flow for the year was twd 956 million compared to twd 1,559 million in 2020.
+the difference is mainly due to an increase of operating profit of twd 1,996 million and depreciation expenses of twd 459 million and partially offset by the increase of capex of twd 2,419 million, income tax expense of twd 371 million and cash dividend paid of twd 291 million. free cash flow was calculated by adding depreciation, amortization, interest income, together with operating profit, and then subtracting capex, interest expense, income tax expensem and dividend from the sum. we invested twd 2,685 million in capex in q4 and twd 6,553 million in capex in 2021. the breakdown of capex in q4 was 4.6% for bumping, 34.8% for lcd driver, 25.1% for assembly and 35.5% for testing. depreciation expenses were twd 1,155 million in q4. depreciation expenses were twd 4,634 million in 2021. as of january 31, 2022, the company's outstanding ads number was approximately 4.5 million units, which represents around 12.4% of the company's outstanding common shares.
+that concludes the financial review. i will now turn the call back to our chairman, mr. s.j. cheng, for our outlook.
+please go ahead, sir. 
+s.j. cheng -- president and chairman
+thank you, silvia. while we are pleased with our progress and record results in 2021, we think there is still more room for improvement. despite q1 is typically impacted by seasonally shortened workday schedules. however, we are cautiously optimistic for q1 for current healthy customers' demand and supply chain situation.
+in our memory product, momentum is improving and we will work to offset seasonality in q1 with flat to slightly up segment revenue. we expect growth in dram against the trend with near-term upside coming from rush orders. we expect healthy demand momentum in nand as we benefit from customers restocking inventory. and in ddic, customer momentum is healthy, with our high end test platform fully utilized led by strong demand from oled and automotive applications.
+we strategically extended new ddic high end test capacity to meet such strong demand and have added take or pay contracts with customers for the new test platform. this will help ensure the ut level in the future three years of the new capacity added. however, we do expect ddic revenue to come down a little in q1 due to the longer lead time of our test platform and shortened workday schedule. on the plus side, we expect to increase our test pricing over the near term based on high end test capacity remains tight and industry healthy situation. finally, reflecting our business strength, positive outlook and focus on building shareholder value, our board approved another dividend.
+pending shareholder approval at our may agm, we will distribute twd 4.3 per common share. operator, that concludes our formal remarks, we can now take questions. 
+",":
+operator
+thank you. at this time, we will be conducting a question-and-answer session. [operator instructions] our first question comes from jerry su from credit suisse. you may begin. 
+jerry su -- credit suisse -- analyst
+please give us more color about your statement. regarding better memory visibility of dram and flash in 1q22, why is this segment not impacted by seasonal adjustment as the regular pattern? besides, could you further quantify the ddic outlook in 1q22 caused by less working day as mentioned? 
+s.j. cheng -- president and chairman
+as you know, there was a covid-19 pandemic event in xian recently. we benefited by receiving some rush orders from customers for commodity dram. for ddic, our high end test platform remains tight and fully utilized led by strong demand from oled and automotive applications. we strategically extended new ddic high end tester capacity to meet such strong demand and have added three-year take or pay contracts with customers for the new test platform to help ensure the ut level in the future. there should be around a 4% capacity increase in 1q22, and a total 16 to 17% in 2022.
+in the meantime, the package format is switching to cof from cog for automotive application due to reliability and quality requirements in large & curved displays. we expect to benefit from all of these factors can help drive approximately high single digit yoy revenue growth company wide in 2022. 
+jerry su -- credit suisse -- analyst
+please give us more color for niche dram in 2022. 
+s.j. cheng -- president and chairman
+our niche dram customers have reserved capacity from specific wafer foundries. depending on market demand, they will release the wafers for assembly and test at our site. besides, korean dram players are stepping out of the ddr3 & ddr4 market, this is also good for the supply chain in taiwan. 
+jerry su -- credit suisse -- analyst
+finally, i would like to ask your capex and depreciation in 2022. 
+s.j. cheng -- president and chairman
+for 2021, our capex was about twd 6.5 billion, around 25% of annual revenue. for 2022, our capex will be about 20% of annual revenue. however, this does not include some planned extra expense in green energy, stable power supply quality of searching for a new factory or land for future shop-floor expansion in northern taiwan. 
+silvia su -- vice president of finance and accounting management center
+as for depreciation, 4q '21 was about twd 1.1 billion, and it should increase about 3% to 4% quarterly. 
+jerry su -- credit suisse -- analyst
+could you share which business segment will be expanded in northern taiwan as you mentioned? 
+s.j. cheng -- president and chairman
+there are two portions, one for bumping and the other one for mixed-signal and wafer test.
+operator
+ok. thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s. 
+g.s. shen -- deputy director, technical
+thank you. i will orally read some questions from foreign institutional investors.the question is asking about automotive and industry applications, which increased so much in q4, is this from share gains or a demand increase? will it continue to grow in 2022? 
+jesse huang -- spokesperson and senior vice president of strategy and investor relations
+we are really pleased with our continued growth in auto and industrial. we view this as a multi-year growth driver for the company and are well positioned. we expect that ratio will continue to increase, led by some different product segment customers, including memory, ddic & mixed-signal, as everyone focuses their products on serving automotive applications. 
+g.s. shen -- deputy director, technical
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j.
+cheng for any closing comments. 
+s.j. cheng -- president and chairman
+thank you everyone for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye. 
+operator
+[operator signoff]
+duration: 26 minutes
+call participants:
+g.s. shen -- deputy director, technical
+s.j. cheng -- president and chairman
+silvia su -- vice president of finance and accounting management center
+jerry su -- credit suisse -- analyst
+jesse huang -- spokesperson and senior vice president of strategy and investor relations
+more imos analysis
+all earnings call transcripts"
+2022-Q1,IMOS,2022-05-05 03:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos first quarter 2022 results conference call. [operator instructions] i would now like to turn the conference over to dr. g.s. shen of chipmos technology strategy and investor relations team to introduce the management team of the company in conference.
+dr. shen, you may begin.
+g.s. shen -- investor relations
+thank you, operator. welcome, everyone, to chipmos first quarter 2022 results conference call. joining us today from the company are mr. s.j.
+cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations.
+s.j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s.j. will provide our current business outlook.
+all company executives will then participate in an open q&a session. please note we have posted a presentation on the mops and also on the chipmos website, www.chipmos.com, to accompany today's conference call. before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation. as a reminder, today's conference call is being recorded, and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j. cheng. please go ahead, sir. 
+s.j. cheng -- chairman and president
+yes, thank you, g.s. we appreciate everyone joining our call today. we continue to deliver strong financial results. it has not been easy with the semiconductor supply chain constraints and geopolitics.
+but our team has done a great job. we are focused and in position to capture higher volumes of the higher-margin segments we have been growing in. in terms of q1 2022, q1 is normally lower than q4 for the entire industry. for chipmos, even with the headwind of fewer working days in q1, our revenue was just down 1% from q4 2021 and was up 4% year over year.
+this reflects the strength of our business and benefit from customer restocking inventory. gross margin increased 80 basis points to 25% compared to q1 2021 despite global inflation and supply chain constraints. we maintained our operating expenses in q1 at 6.9% of revenue. we have been reducing costs through increased automation and other programs we implemented at our manufacturing facilities.
+finally, net earnings increased 27% in q1 2022 compared to q1 2021, with 1q '22 reaching twd 1.68 eps. we are very proud to deliver the higher profitability in such a challenging operating environment. let me give you some additional color on our q1 performance. our overall utilization rate increased to 79% in q1 2022 driven by strong demand from oled, ddic and automotive applications.
+our high-end ddic test platform still remain fully utilized in q1. ddic and bumping ut level both increased to 87% and 86%, respectively. we also saw an uptick in customer loading with assembly utilization increasing to 69% in q1 2022. testing was slightly lower at 73%.
+regarding our manufacturing business, assembly represented 28% of q1 revenue, testing represented around 21% and wafer bumping represented remain around 19.5% of q1 revenue. on a product basis, our ddic product was about 32% of q1 revenue with gold bumping representing about 17.4%. revenue from dram and sram represented about 19.5% of q1 revenue. our flash and the mixed-signal products represented about 21% and 10% of q1 revenue, respectively.
+as additional color on our business, our memory product revenue was up about 0.7% compared to q4 2021 and down 2.4% on a year-over-year basis. memory products represented about 40.7% of total q1 revenue. dram revenue increased 26% year over year and increased over 16.4% compared to q4. this represented about 19% of total q1 revenue, led by underlying demand growth and some near-term rush orders and customer restocking inventory.
+total flash revenue represented about 21% of q1 revenue. this was down just 9.6% compared to q4 2021 and about 18% year over year. we are seeing some improvement in q2. nand revenue increased around 5% compared to q4 2021, led by customer restocking inventory, and represented about 30% of q1 total flash revenue.
+moving on to driver ic-related product revenue, including gold bumping. this business benefited from higher oled and automotive demand as customers optimized their product mix, which helped offset the typical impacts of seasonality in q1. our driver ic-related product revenue slightly decreased about 1.1% compared to q4 2021 and was up about 9.7% on a year-over-year basis. driver ic-related revenue was about 49.4% of total q1 2022 revenue.
+ddic revenue, including cog and cof, was slightly up over q4 2021 and was up just over 14% year over year driven by price increases in our high-end test platform being fully utilized. cog revenue represented around 60% of q1 ddic revenue. it was up about 4% over q4 2021 and significantly up 23% year over year, led by the increasing of oled and automotive. tddi revenue represented about 22.5% of q1 2022 ddic revenue.
+oled also grew significantly over q4 2021 and represented more than 5% of q1 ddic revenue. on an end market basis, revenue from automotive and industrial represented about 16.7% of q1. driven by strong demand for car display panels, the ddic portion of automotive grew more than 20% over q4 2021 and accounted more than one half of automotive. smartphones and tv as an end market accounted about 30.7% and about 17% of q1 2022 revenue, respectively.
+computing represented about 9.6% and consumer represented 26% of q1 2022 revenue. now, let me turn the call to ms. silvia su to review the first quarter 2022 financial results. silvia, please go ahead.
+silvia su -- vice president of finance and accounting management center
+thank you, s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of twd 28.62 against usd 1 as of march 31, 2022. all the figures were prepared in accordance with taiwan-international financial reporting standards.
+referencing presentation page 12, consolidated operating results summary, for the first quarter of 2022, total revenue was twd 6,725 million. net profit attributable to the company was twd 1,225 million in q1. net earnings for the first quarter of 2022 were twd 1.68 per basic common share or usd 1.18 per basic ads. ebitda for q1 was twd 2,421 million.
+ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q1 was 19.5%. referencing presentation page 13, consolidated statements of comprehensive income, compared to 4q '21, total 1q '22 revenue decreased 1% compared to 4q '21. 1q '22 gross profit was twd 1,678 million, with gross margin at 25% compared to 26% in 4q '21.
+this represents a decrease of 1.0 ppts. our operating expenses in 1q '22 were twd 467 million or 6.9% of total revenue, which is about a 0.1% improvement compared to 4q '21. operating profit for 1q '22 was twd 1,232 million, with operating profit margin at 18.3%, which is about a 1.4 ppts decrease compared to 4q '21. net nonoperating income in 1q '22 was twd 229 million compared to twd 319 million in 4q '21.
+the difference is mainly due to a decrease of the share of profit of associates accounted for using equity method of twd 240 million and the increase of financial costs of twd 3 million and partially offset by the increase of foreign exchange gains of twd 154 million. profit attributable to the company in 1q '22 decreased 13.6% compared to 4q '21. basic weighted average outstanding shares were 727 million shares. compared to 1q '21, total revenue for 1q '22 was up 4%.
+gross margin at 25% increased 0.8 ppts compared to 1q '21. operating expenses increased 10% compared to 1q '21. operating profit margin at 18.3% increased 0.4 ppts compared to 1q '21. net nonoperating income of twd 229 million in 1q '22 compared to twd 25 million in 1q '21, which increased twd 204 million.
+the difference is mainly due to an increase of foreign exchange gains of twd 152 million and share of profit of associates accounted for using equity method of twd 58 million and partially offset by the decrease of gain on valuation of financial assets at fair value through profit or loss of twd 6 million. profit was up 27.7% compared to 1q '21. the difference is mainly due to an increase of operating profit of twd 73 million and net nonoperating income of twd 204 million and partially offset by the increase of income tax expense of twd 11 million. referencing presentation page 14, consolidated statements of financial position & key indices, total assets at the end of 1q '22 were twd 42,015 million.
+total liabilities at the end of 1q '22 were twd 16,280 million. total equity at the end of 1q '22 was twd 25,735 million. accounts receivable turnover days in 1q '22 were 81 days. inventory turnover days was 58 days in 1q '22.
+referencing presentation page 15, consolidated statements of cash flows, as of march 31, 2022, our balance of cash and cash equivalents was twd 6,288 million, increased twd 382 million compared to the beginning of the year. free cash flow for the first quarter of 2022 was twd 1,536 million compared to twd 922 million for the same period in 2021. the difference is mainly due to an increase of operating profit of twd 73 million, depreciation expenses of twd 61 million and a decrease of capex of twd 486 million and partially offset by the increase of income tax expense of twd 11 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum.
+referencing presentation page 16, capital expenditures & depreciation, we invested twd 624 million in capex in q1. the breakdown of capex in q1 was 4% for bumping, 49.1% for lcd driver, 24.4% for assembly and 22.5% for testing. depreciation expenses were twd 1,188 million in q1. as of april 30, 2020, the company's outstanding ads number was approximately 4.4 million units, which represents around 12.1% of the company's outstanding common shares.
+that concludes the financial review. i will now turn the call back to our chairman, mr. s.j. cheng, for our outlook.
+please go ahead, sir.
+s.j. cheng -- chairman and president
+thank you, silvia. clearly, we are coming off a very strong 2021, and 2022 is off to a strong start. but the industry continues to face several industry headwinds with global inflation, the ukraine and russia conflict and lockdowns in china. these can impact both the supply chain and demand.
+entering q2, customers' demand is healthy, and we will continue to manage the situation closely and work with customers and our supply chain partners to reduce any impacts. in general, we cautiously think the situation will improve in q2 with healthy demand continuing. in our memory product, momentum is expected to improve in q2 over q1. we expect dram momentum will remain healthy, and flash is improving as we benefit from customers restocking inventory.
+and in ddic, our high-end test platform capacity remains at a high utilization level led by demand for oled and automotive applications. we continue to add ddic high-end test capacity quarterly to meet customer demand. meanwhile, we added take-or-pay contracts with customers to ensure the utilization level in the future and to give us even better long-term visibility on our new capacity added. in general, the momentum of ddic is better than memory product.
+given the continued evolving covid-19 situation, chipmos continues to closely follow all government health regulations and have been able to reduce both distractions and disruptions. actions we took a year ago to ensure the health of our employees and customers gave us a strong plan to once again use. we take this seriously in order to keep our facilities open to give our customers the reliability and quality they trust us for. for example, all employees must daily record the temperature measurement result and self-help announcement.
+to reduce the opportunities for close contact and to minimize the scope of risks and members in case isolation, we have separated them into a and b teams by rerouting and seat real name system. in the meantime, continuous companywide covid-19 rapid tests were implemented after consecutive holidays since lunar new year holiday 2022, including all long-term contractors. all vendors and guests need to use the covid-19 rapid test in order to enter a factory. to encourage employee to follow internal epidemic prevention and control measures and to be vaccinated as soon as possible, we also paid an epidemic prevention and vaccination bonus.
+in addition, epidemic prevention subsidies are also issued to encourage foreign employees to follow our company's epidemic prevention guidelines such as point-to-point moving, reducing unnecessary egress and lowering the chance of cross-contact with other factory personnel. up to now, we have achieved more than 99.8% second dose vaccine coverage for all employees and 96.6% of all employees have been third vaccinated. by the way, all foreign employees who are eligible for vaccination also have received a third vaccination. i am pleased to report that we continue to operate normally.
+to reduce the minimum impact on daily operations and business, we continue to adjust the company's pandemic prevention measures on a rolling basis to the situation of the epidemic and the latest guidance of cecc. finally, reflecting our business strength, positive outlook and focus on building shareholder value, our board approved another dividend. pending shareholder approval at our may agm, we will distribute twd 4.3 per common share. operator, that concludes our formal remarks.
+we can now take questions.
+",":
+operator
+[operator instructions] our first question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+considering there is more and more noise about end market demand, would you please give us more color about your q2 outlook? which product segment should perform better among each of memory and ddic?
+s.j. cheng -- chairman and president
+firstly, regarding to dram, niche dram will be favored from healthy demand of ddr3. commodity dram is being favored from rush orders due to china lockdowns impacting local supply chains. as for nor flash, recent inventory levels seemed slightly higher with customers adjusting wafer loading accordingly. as for ddic, we have been increasing additional wafer testing capacity and have engaged take-or-pay contracts with customers to maintain a higher ut rate.
+besides, also due to china lockdowns, those customers having wafer foundry support in taiwan tend to adopt our back-end capacity instead of in china. in general, the momentum of ddic is better than memory product. we cautiously think the situation will improve in q2 with healthy demand continuing. as for second half of 2022, the industry continues to face several industry headwinds with global inflation, the ukraine and russia conflict and lockdowns in china.
+these can impact both the supply chain and demand. we will continue to manage the situation closely and work with customers and our supply chain partners to reduce any impacts. we will continue to update you on our 2022 q2 earnings call.
+jerry su -- credit suisse -- analyst
+would you please give us more commentary besides your positive wafer testing outlook such as cog, cof and gold bumping?
+s.j. cheng -- chairman and president
+we see some local customers becoming conservative. however, it could be offset by the demand from china customer due to the lockdown, as we just discussed. therefore, we think the ddic performance will still be healthy overall.
+jerry su -- credit suisse -- analyst
+under current global circumstance, how would you comment on 2022 capex and depreciation?
+silvia su -- vice president of finance and accounting management center
+regarding to 2022 capex, it will be near 20% of annual revenue. and 2022 depreciation will be increasing 2%, 3% quarterly.
+operator
+our second question comes from danny wan from sinopac securities. you may begin.
+danny wan -- sinopac securities -- analyst
+would you give us your expectation of 2022 tax rate?
+silvia su -- vice president of finance and accounting management center
+our q1 tax rate is around 16%. therefore, 2022 tax rate is expected around 16%, 18%.
+danny wan -- sinopac securities -- analyst
+will ddic wafer test revenue in q2 be favored more than in q1 due to price increases?
+s.j. cheng -- chairman and president
+we added take-or-pay contracts with customers to ensure the ut level. however, customers are working on testing time reduction in order to compensate the potential ddic and market price drop. therefore, q2 would be in a similar level with q1.
+danny wan -- sinopac securities -- analyst
+is the shanghai lockdown impacting unimos operations?
+s.j. cheng -- chairman and president
+based on the previous pandemic control experience from the last two years, unimos' employees live in the factory campus park area. this is closed and eliminates outsiders from entering the factory and removes lockdown issues. however, logistics can still be a little difficult. we expect this to improve further because unimos was on the shanghai priority production resumption list.
+danny wan -- sinopac securities -- analyst
+do you observe longer delivery times for those outstanding ddic wafer tester orders?
+s.j. cheng -- chairman and president
+due to semiconductor material mismatch, the delivery would take more than one year, especially for probers and low-temperature test platforms for automotive applications.
+danny wan -- sinopac securities -- analyst
+capex in q1 is relatively lower. so that means the capex for the second half will be significantly higher. would you please comment which will be the major?
+silvia su -- vice president of finance and accounting management center
+the majority will be for ddic testers.
+danny wan -- sinopac securities -- analyst
+would you please comment on the reason making q1 inventory turnover days appear to be pretty high since 2016?
+s.j. cheng -- chairman and president
+most of the contribution comes from higher material safety stock for assembly due to longer delivery time.
+danny wan -- sinopac securities -- analyst
+follow-up question to your higher material cost. will it impact your gross margin?
+s.j. cheng -- chairman and president
+as for the higher gold price, we could reflect that to customers based on agreed gold bumping price formula, but not all of it for assembly. as for the other assembly materials, such as substrate, we could reflect some to customers.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s.
+g.s. shen -- investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j.
+cheng for any closing comments.
+s.j. cheng -- chairman and president
+thank you, everyone, for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator signoff]
+duration: 26 minutes
+call participants:
+g.s. shen -- investor relations
+s.j. cheng -- chairman and president
+silvia su -- vice president of finance and accounting management center
+jerry su -- credit suisse -- analyst
+danny wan -- sinopac securities -- analyst
+more imos analysis
+all earnings call transcripts"
+2022-Q2,IMOS,2022-08-04 03:00:00,"prepared remarks:
+operator
+greetings, and welcome to the chipmos second quarter 2022 results conference call. [operator instructions] i would now like to turn the conference over to dr. g.s. chen of chipmos technologies' strategy and investor relations team to introduce the management team of the company in conference.
+dr. shen, you may begin.
+g.s. chen -- investor relations
+thank you, operator. welcome everyone to chipmos' second quarter 2022 results conference call. joining us today from the company are mr. s.j.
+cheng, chairman and president; and ms. silvia su, vice president of finance and accounting management center. we are also joined on the call today by mr. jesse huang, spokesperson and senior vice president of strategy and investor relations.
+s.j. will chair the meeting and review business highlights and provide color on the operating environment. after silvia's review of the company's key financial results, s.j. will provide our current business outlook.
+all company executives will then participate in an open q&a session. please note, we have posted a presentation on the mops and also on the chipmos' website www.chipmos.com to accompany today's conference call. before we begin the prepared comments, we advise you to review our forward-looking statements disclaimer, which is noted as the safe harbor notice on the second page of today's presentation. as a reminder, today's conference call is being recorded and a replay will be made available later today on the company's website.
+at this time, i'd like to now turn the call over to our company's chairman and president, mr. s.j. cheng. please go ahead, sir. 
+s.j. cheng -- chairman and president
+yes, thank you, g.s. we appreciate everyone joining our call today. we continue to deliver revenue growth, profit expansion, and strong financial results. our strong results show the good job we have been doing so far with the near-term supply chain, global inflation, and recent macro end market weakness.
+in terms of q2 2022 for chipmos even with the headwind of geopolitics, global inflation and end-demand noise in q2, our revenue was up 1.9% from q1 2022 and was down just 1.9% year over year. we are very pleased that gross margin increased 40 basis points to 25.4% compared to q1 2022. this remains a priority for us. we are also pleased with our management of operating expenses, which came at 7.1% of revenue for q2.
+we have been reducing costs through increased automation and other programs we implemented at our manufacturing facilities. our multiyear automation efforts have been a key driver of our profitable growth. finally, net earnings were nt$1.82 in q2, with first half eps of nt$3.50. this was up about 14% year over year.
+i am very proud of the chipmos team for delivering the higher profitability in such a challenging operating environment. let me give you some additional color on our q2 performance. assembly utilization held at 69% in q2 2022. testing increased to 75%.
+our utilization rates reflect the industrywide capacity adjustments. customer are adjusting inventory led by end demand softness. our high-end ddic test capacity increased in q2, while both ddic and bumping ut levels decreased to 80% and 77%, respectively. our overall utilization rate decreased to 75% in q2 2022.
+regarding our manufacturing business, our assembly represented 28% of q2 revenue. testing represented around 22%, and wafer bumping represented around 19% of q2 revenue. on a product basis, our ddic product was about 32% of q2 revenue, with gold bumping representing about 17%. revenue from dram and sram represented about 20% of q2 revenue.
+our flash and the mixed-signal products represented about 20.5% and 10.7% of q2 revenue, respectively. mixed-signal revenue grew more than 10% compared to q1 2022 as we benefited from strong demand and inventory rebuilding in automotive. as additional color on our business, our memory product revenue was up about 1.5% compared to q1 2022 and down 7.7% on a year-over-year basis. memory products represented about 40.5% of total q2 revenue.
+dram revenue increased 4.8% compared to q1 and was up about 10% year over year. this represented about 19.6% of total q2 revenue, led by underlying loading increase of commodity dram. total flash revenue represented about 20.5% of q2 revenue. this was down just 1% compared to q1 and down about 19% year over year, led by macro demand softness.
+nor revenue increased around 3.3% compared to q1 2022, and nand represented about 27% of q2 total flash revenue. moving onto driver ic-related product revenue, including gold bumping. this business benefited from a price increase in march and the use of added high-end test capacity in q2, which helped offset the impact of softness in tv panels and smartphones. our driver ic-related product revenue was slightly up compared to q1 and was up about 5.2% on a year-over-year basis.
+driver ic-related revenue was about 48.8% of total q2 2022 revenue. thanks to cof short-term and rush orders, ddic revenue increased 1.3% compared to q1 and around 6% year over year. cof revenue significantly increased 11% compared to q1 and represented more than 40% of q2 ddic revenue. tddi revenue represented about 20% of q2 ddic revenue.
+oled also grew significantly over q1 and represented more than 5% of q2 ddic revenue. on an end-market basis, driven by strong demand for car display panels, more sensor consumption and electronics content, revenue from automotive and industrial represented about 19.7% of q2 revenue and significantly grew more than 20% over q1. smartphones and tvs, as an end market, accounted about 27.2% and about 17.8% of q2 revenue, respectively. computing represented about 8.6% and consumer represented 26.7% of q2 revenue.
+now let me turn the call to ms. silvia su, to review the second quarter 2022 financial results. silvia, please go ahead.
+silvia su -- vice president, finance and accounting management
+thank you, s.j. all dollar amounts cited in our presentation are in nt dollars. the following numbers are based on the exchange rates of nt$29.74 against $1 as of june 30, 2022. all the figures were prepared in accordance with taiwan-international financial reporting standards, referencing presentation page 12, consolidated operating results summary.
+for the second quarter of 2022, total revenue was nt$6,852 million. net profit attributable to the company was nt$1,321 million in q2. net earnings for the second quarter of 2022 were nt$1.82 per basic common share or $1.22 per basic ads. ebitda for q2 was nt$2,474 million.
+ebitda was calculated by adding depreciation and amortization together with operating profit. return on equity of q2 was 21.3%. referencing presentation page 13, consolidated statements of comprehensive income. compared to 1q '22, total 2q '22 revenue increased 1.9% compared to 1q '22.
+2q '22 gross profit was nt$1,742 million, with gross margin at 25.4% compared to 25% in 2q '22. this represents an increase of 0.4 ppts. our operating expenses in 2q '22 were nt$485 million, or 7.1% of total revenue, which is about a 3.9% improvement compared to 1q '22. operating profit for 2q '22 was nt$1,277 million, with operating profit margin at 18.6%, which is about a 0.3 ppts increase compared to 1q '22.
+net nonoperating income in 2q '22 was nt$309 million compared to nt$229 million in 1q '22. the difference is mainly due to an increase of the foreign exchange gains of nt$82 million, share of profit of associates accounted for using equity method of nt$41 million, and the decrease of finance expense of nt$10 million and partially offset by the increase of loss on valuation of financial assets at fair value through profit or loss of nt$54 million. profit attributable to the company in 2q '22 increased 7.8% compared to 1q '22. basic weighted average outstanding shares were 727 million shares.
+compared to 2q '21, total revenue for 2q '22 decreased 1.9% compared to 2q '21. gross margin at 25.4% decreased 2.8 ppts compared to 2q '21. operating expenses increased 4.8% compared to 2q '21. operating profit margin at 18.6% decreased 3.5 ppts compared to 2q '21.
+net nonoperating income of nt$309 million in 2q '22 compared to net nonoperating expenses of nt$19 million in 2q '21, which increased of nt$328 million. the difference is mainly due to an increase of foreign exchange gains of nt$289 million and share of profit of associates accounted for using equity method of nt$76 million and partially offset by the increase of loss on valuation of financial assets at fair value through profit or loss of nt$48 million. profit was up 2.9% compared to 2q '21. referencing presentation page 14, consolidated statements of financial position & key indices.
+total assets at the end of 2q '22 were nt$43,037 million. total liabilities at the end of 2q '22 were nt$19,262 million. total equity at the end of 2q '22 was nt$23,775 million. accounts receivable turnover days in 2q '22 were 77 days.
+inventory turnover days was 56 days in 2q '22. referencing presentation page 15, consolidated statements of cash flows. as of june 30, 2022, our balance of cash and cash equivalents was nt$7,270 million, increased nt$1,363 million compared to the beginning of the year. free cash flow for the first half of 2022 was nt$2,321 million compared to nt$1,768 million for the same period in 2021.
+the difference is mainly due to a decrease of capex of nt$671 million and increase of depreciation expenses of nt$102 million and partially offset by the decrease of operating profit of nt$190 million and increase of income tax expense of nt$39 million. free cash flow was calculated by adding depreciation, amortization, interest income together with operating profit and then subtracting capex, interest expense, income tax expense and dividend from the sum. referencing presentation page 16, capital expenditures and depreciation. we invested nt$1,401 million in capex in q2.
+the breakdown of capex in q2 was 3.8% for bumping, 59.6% for lcd driver, 18.9% for assembly, and 17.7% for testing. depreciation expenses were nt$1,197 million in q2. as of july 31, 2022, the company's outstanding ads number was approximately 4.5 million units, which represents around 12.3% of the company's outstanding common shares. that concludes the financial review.
+i will now turn the call back to our chairman, mr. s.j. cheng, for our outlook. please go ahead, sir.
+s.j. cheng -- chairman and president
+thank you, silvia. we are in the right markets for long-term growth. we had a good start to the first half of 2022 and we continue to work with our customers to meet demand. we can be impacted by the broader market issues over the near-term semiconductor supply chain and china covid lockdowns just like everyone else.
+and the inventory increase reflects global inflation and consumer electronics macro softness. according to this situation, we are conservative on the business and restrained on capex investment to reduce depreciation pressure and maintain ut level. in our memory product, we expect the business momentum to remain similar in q3 to q2, led by dram from new products and niche ddr3. we also expect a gradual production increase and positive demand from flash products driven by normal seasonal demand.
+and in ddic, customers are adjusting near-term demand lower because of high tv panel inventory and soft smartphone sales. we are not immune to that macro weakness and ddic business is in a more obvious correction over the near term. however, oled and automotive panel demand is also steady and just slightly down compared to other ddic products. we are seeing some of the pressure offset by customers optimizing product mix and our use of take or pay contracts.
+to reflect the near-term market situation and considering the long-term business cooperation of customers, we are moving h2 high-end test capacity to 2023. we have discussed this with customers and this decision can help reduce depreciation and maintain ut level pressure for both chipmos and customers. finally, reflecting the longer-term positive customer demand growth outlook, chipmos through the invest taiwan initiative of the ministry of economic affairs is participating in a government incentive program. i am pleased to report that we got approval for a three-year investment project in july.
+this investment plan includes extending manufacturing facilities, capacity de-bottleneck, ai and automation and green energy investments for future business operations. meanwhile, chipmos continues to implement manufacture process optimization and simplification, and ai and automation to maintain the competitive advantage and strength of chipmos. our efforts continue to help further improve product quality, enhance efficiency, and reduce costs. operator, that concludes our formal remarks.
+we can now take questions.
+",":
+operator
+[operator instructions] our first question comes from jerry su from credit suisse. you may begin.
+jerry su -- credit suisse -- analyst
+you just mentioned that ddic business is in a more obvious correction over the near term. would you give us more color about this statement? under the condition, how long do you think the correction will take for the ddic segment and also potential pressure on ddic and memory?
+s.j. cheng -- chairman and president
+as you know, the near term semiconductor supply chain inventory increase reflects global inflation and consumer electronics macro softness. ongoing china covid-19 shutdowns may also further impact inventory levels. our ddic and mixed-signal products are not immune to the macro weakness of panels and consumer electronics along with the broader market, and obviously corrected. however, memory product could maintain similar momentum in second half.
+so, as we have done in the past, we are taking a conservative view. we currently expect third quarter revenue to be lower than the second quarter, with a decline for 2022. regarding our longer-term outlook, we will continue to update you on our quarterly calls as is our normal process. we serve a diverse base of customers.
+there are always pockets of the market that are stronger than others. our customers reflect this based on their business and customer profile. and each individual customer's situation is such different. so, it is hard to make a broader call on inventory for the end of the year.
+we are still ok with the price pressure from memory products and ddic high-end platform contract customers. for noncontract customers, we could waive some prices for specific products in order to gain volume and maintain the utilization level.
+jerry su -- credit suisse -- analyst
+would you give us more color about your mentioned dram new product and ddr3 higher volume? how about the 2022 capex and depreciation?
+s.j. cheng -- chairman and president
+a couple of customers show better ddr3 visibility. regarding the new dram product, it referred to mass production for customers using advanced dram technology.
+silvia su -- vice president, finance and accounting management
+regarding 2022 capex, it will be near 20% of annual revenue. q2 depreciation is around 1,197 million ntd, and depreciation of q3 and q4 would be expected around 1.2 billion ntd.
+operator
+thank you. and i am not showing any further questions in the queue. i would like to turn the call back over to g.s.
+g.s. chen -- investor relations
+that concludes our question-and-answer session. thank you for participating. i'll turn the floor back to mr. s.j.
+cheng for any closing comments.
+s.j. cheng -- chairman and president
+thank you, everyone, for joining our conference call. please email our ir team if you have any more questions. we appreciate your support. goodbye.
+operator
+[operator signoff]
+duration: 0 minutes
+call participants:
+g.s. chen -- investor relations
+s.j. cheng -- chairman and president
+silvia su -- vice president, finance and accounting management
+jerry su -- credit suisse -- analyst
+more imos analysis
+all earnings call transcripts"
