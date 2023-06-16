@@ -1,0 +1,11 @@
+pandas
+numpy
+pandasai
+openai
+langchain
+"accelerate>=0.16.0,<1" 
+"transformers[torch]>=4.28.1,<5" 
+"torch>=1.13.1,<2"
+nltk
+streamlit
+wordcloud

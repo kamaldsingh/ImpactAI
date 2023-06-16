@@ -15,3 +15,6 @@ The attached project description contains detailed explanation of our data, appr
 
 ## Troubleshooting
 https://github.com/voila-dashboards/voila 
+
+## License
+[MIT ](./LICENSE)
