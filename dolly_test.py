@@ -80,6 +80,7 @@ llm_chain.predict(instruction="Is NiSource company greenwashing ? ")
 
 # COMMAND ----------
 
+# PROMPT ENGINEERING 
 # llm_context_chain.predict(instruction="When was George Washington president? ", context=context).lstrip()
 
 # COMMAND ----------
