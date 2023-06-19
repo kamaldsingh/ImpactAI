@@ -1,7 +1,8 @@
 ## Inspiration
-I'm inspired to do this project because climate change is without a doubt one of the biggest challenges to humanity & corporations in the world need to act more responsibly to combat it. And while there are a few ESG - E(nvironmental),S(ocial),G(overance) rating agencies (MSCI, Sustainalytics) that provide ESG ratings and scores for companies, As per existing research **these ratings have not correlated with actual sustainability outcomes** because ESG ratings have been largely based on _self-reported data_ and rating agencies are **focussed on producing a single score for E,S,G pillars** for a company leading to news/company information to be aggregated across a lot of datasets **that it essentially invalidates any conflicting/contradicting data sources or information** which is why greenwashing is still difficult to detect through current approaches. Different ratings agencies also assign radically different ratings to the same firms
+I'm inspired to do this project because climate change is without a doubt one of the biggest challenges to humanity & corporations in the world need to act more responsibly to combat it. And while there are a few ESG - E(nvironmental),S(ocial),G(overance) rating agencies (MSCI, Sustainalytics) that provide ESG ratings and scores for companies, As per existing research[1] **these ratings have not correlated with actual sustainability outcomes** because ESG ratings have been largely based on _self-reported data_ and different ratings agencies also assign radically different ratings to the same firms. Rating agencies are mainly focussed on producing a single score for E,S,G pillars for a company leading to news/company information to be aggregated across a lot of datasets *that it essentially invalidates any conflicting/contradicting data sources or information* which is why greenwashing is still difficult to detect through current approaches. 
+And while ESG investing has become a mainstream investing strategy, with one third of assets under management(~30-40 trillion $) claiming to take ESG information into account in portfolio allocation decisions, there hasn't been many AI approaches to detect greenwashing and contradicting claims about sustainability efforts of companies. 
 
-Also while ESG investing has become a mainstream investing strategy, with one third of assets under management(~30-40 trillion $) claiming to take ESG information into account in portfolio allocation decisions, there hasn't been many AI approaches to detect greenwashing and contradicting claims about sustainability efforts of companies. Thus Asset management companies, banks, regulatory authorities like SEC all need to analyze companies by more than just looking at their ESG scores, to see if the sustainability efforts that they claim are true or not i.e. detect greenwashing and this tool provides them some insights and the ability to do so. 
+Thus Asset management companies, banks, regulatory authorities like `SEC` all **need to analyze companies by more than just looking at their ESG scores**, to see if the sustainability efforts that they claim are true or not i.e. **detect greenwashing and what other environmental risks** a company might be exposed to. This tool provides them some insights and the ability to do so and has potential for a broad applicability and user base. 
 
 ## What it does
 **Impact AI** is a project to _Identify conflicting/contradictory information of companies sustainability claims aka Greenwashing & identify the environmental, social, governance (ESG) risk exposures of companies_ 
@@ -39,5 +40,8 @@ We have also included a `README.md` file in this git repo on how to start the ap
 ## What's next for Impact AI
 - Our LLM model(dolly) can be explored further with bigger parameter(12 billion) model and additional prompt engineering. 
 - This approach can also be applied to non ESG topics like detecting supply-chain issues and other risks facing companies and such use-case can be explored too. 
-- Scale up with model and datasets further with databricks
-- Pitch the project to 
+- Scale up our model and datasets further with Spark & databricks
+- Project pitch to external entities
+
+## References
+1. Green or Greenwashing? How Manager and Investor Preferences Shape Firm Strategy - Nathan Barrymore, March 2022. 
